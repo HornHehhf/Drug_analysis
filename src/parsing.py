@@ -59,52 +59,15 @@ def extract_information(dir_path, info_path, drug_name):
         info['def.name'] = lines[0]
 
         # initializes all the indices to 0
-        pun_start = 0
-        pun_end = 0
-        judge_index = 0
+        
+        idx_dict = find_indices(lines, info)
+
+        pun_start = idx_dict['pun_start']
+        pun_end = idx_dict['pun_end']
+        judge_index = idx_dict['judge_index']
         secretary_index = 0
         def_start = 0
         def_end = 0
-        for index in range(len(lines))[6:]:
-            line = lines[index]
-            raw_line = "".join(line.split('\u3000'))
-            raw_line = "".join(raw_line.split(' '))
-
-            '''if "独任审判":
-                if "独任审判" not in info['trial.phase']:
-                    info['trial.phase'] = info['trial.phase'] + "独任审判"'''
-
-            # find indices of sentences containing 被告姓名
-            if "被告人" == line[0:3] or line[0:3] == "辩护人":
-                if def_start == 0:
-                    def_start = index
-                if index + 1 > len(lines) - 1:
-                    if def_end == 0:
-                        def_end = index + 1
-                elif lines[index+1][0:3] != "被告人" and lines[index+1][0:3] != "辩护人":
-                    if def_end == 0:
-                        def_end = index + 1
-            if "经审理查明" in line and "经审理查明：" != line:
-                pattern = "[0-9]*年[0-9]*月[0-9]*日"
-                match = re.search(pattern, line)
-                if match is not None:
-                    info['crime.date'] = match.group()  # multiple time may cause error
-                info['drug.type'] = []
-                for name in drug_name:
-                    if name in line:
-                        info['drug.type'].append(name)
-                #match = re.search(pattern, line)
-                #if match is not None:
-                    #info['drug.weight'].append(match.group())
-            if "判决如下" in line:
-                pun_start = index + 1
-            elif "如不服本判决" in line:
-                pun_end = index
-            elif ("审判长" in raw_line or "审判员" in raw_line) and len(raw_line) < 15:
-                if judge_index == 0:
-                    judge_index = index
-            elif "书　记　员" in line:
-                secretary_index = index
 
         if pun_end == 0:
             pun_end = judge_index
