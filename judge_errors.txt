@@ -1,0 +1,28 @@
+Judge name errors:
+
+227c0559-3841-40b7-9498-a52840614c3b.html
+42445c27-7ff8-4274-be23-63193c24715f.html
+459fa95c-2c5f-4411-a386-21af0dd2e309.html
+459fa95c-2c5f-4411-a386-21af0dd2e309.html
+b8c07a9e-c819-4fbd-b63e-338eefa1d9e8.html
+cbd5b6ff-f398-4f05-8ffc-3be984cd0dcb.html
+efda73fb-2a05-4f02-80aa-d1578eacd1b9.html
+f160a855-e815-4170-944f-ab4fa2122282.html
+
+I think the error is not really wrong. 1. The format of the file is not correct. 2. The gold annotation is wrong.
+
+Judge ethnic errors:
+
+03ad762f-2efd-44a9-92d3-fc9dcd30be17.html (annotation error)
+42445c27-7ff8-4274-be23-63193c24715f.html (name error)
+459fa95c-2c5f-4411-a386-21af0dd2e309.html (name error)
+76daa2c4-974e-4365-957b-d27bcd0c8996.html (annotation error)
+76e77cad-c56d-4a53-9dff-d6c5f1ed4ab8.html (annotation error)
+b8c07a9e-c819-4fbd-b63e-338eefa1d9e8.html (name error)
+d3d8f682-558e-40a2-bf57-b50cb5ead1af.html (our prediction error, 莱提帕)
+e3a5c4e0-1e24-4e0a-acde-55823d706810.html (annotation error)
+ef294c42-598e-45dd-98ba-4699b87b6727.html (annotation error)
+f063b16e-3305-4e0d-8991-664f1bf2e99d.html (annotation error)
+f261f946-ef59-4159-b194-aa41e54eb10f.html (annotation error)
+
+I just use the length of the name to judge the ethnicity of the name. If the length is larger than 4, then it will be considered as minority ethnicity. I think the procedure is high accuracy. I think only one mistake is made by the procedure.

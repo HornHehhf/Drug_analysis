@@ -1,0 +1,2570 @@
+Case: 1
+doc: 203638f3-4afb-4328-8c11-a82701101264.html
+def.name: ﻿杨洪朗贩卖毒品罪一审刑事判决书
+pun: 被告人杨洪朗犯贩卖毒品罪，判处有期徒刑三年，并处罚金人民币五千元。
+execution.date: 2017年3月29日
+drug.type: 海洛因
+drug.weight: 0.03
+crime: 2、2017年3月25日晚上，被告人杨洪朗在杨某1住处，帮助杨某1卖给一同前来购买毒品的杨某2、李某二人海洛因零包，均是以人民币50元的价格卖给该二人海洛因零包各一个，其中卖给李某的海洛因零包经侦查实验计重0.03克。
+juror.name: ['张玲', '张慧']
+ruling.date: 二〇一七年十月十八日
+secretary.name: 王睿敏
+def: 被告人杨洪朗，男，1994年7月20日出生于云南省龙陵县，汉族，住云南省保山市龙陵县
+judge1.name: 段生良
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 2
+doc: 55bb3517-c0c2-4399-8a67-a89b0094027d.html
+def.name: ﻿张华走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2017年10月26日
+drug.type: 海洛因
+pun: 一、被告人张华犯运输毒品罪，判处有期徒刑十五年（刑期从判决执行之日起计算。判决执行前先行羁押的，羁押一日折抵刑期一日，即刑期自2017年10月27日起至2032年10月26日止），并处没收个人财产人民币4万元。	二、涉案毒品海洛因425.6克、手机2部、现金人民币630元，依法没收，由查封、扣押机关处理。	若不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向云南省高级人民法院提出上诉。书面上诉的，应当提交上诉状正本一份，副本二份。
+drug.weight: 425.6
+crime: 二、涉案毒品海洛因425.6克、手机2部、现金人民币630元，依法没收，由查封、扣押机关处理。
+juror.name: ['依应']
+ruling.date: 二〇一八年二月五日
+secretary.name: 汪颖
+def: 被告人张华，男，1986年1月23日出生，汉族，甘肃省山丹县人，中专文化，工人，户籍所在地甘肃省白银市平川区
+judge1.name: 蔡建红
+judge2.name: 曾玲蓉
+judge3.name: 
+def.goodattitude: 1
+
+Case: 3
+doc: 045c1cfc-4230-419b-adbf-a8e701087439.html
+def.name: ﻿魏娣芹走私、贩卖、运输、制造毒品一审刑事判决书
+drug.type: 甲基苯丙胺
+pun: 一、被告人魏娣芹犯贩卖毒品罪，判处有期徒刑九年，并处罚金人民币九万元。	二、扣押的毒品甲基苯丙胺片剂5.35克（提取检材后剩余）和红色老年手机二部、白色OPPO牌手机一部、金色VIVO牌手机一部依法予以没收；扣押被告人魏娣芹的现金83900元中，其中2110元作为其违法所得依法予以没收，余款81790元依法予以发还被告人魏娣芹。
+execution.date: 2017年8月22日
+drug.weight: 5.35
+crime: 二、扣押的毒品甲基苯丙胺片剂5.35克（提取检材后剩余）和红色老年手机二部、白色OPPO牌手机一部、金色VIVO牌手机一部依法予以没收；扣押被告人魏娣芹的现金83900元中，其中2110元作为其违法所得依法予以没收，余款81790元依法予以发还被告人魏娣芹。
+juror.name: ['刘钟化', '寸江波']
+ruling.date: 二〇一八年三月十四日
+secretary.name: 和霞
+def: 被告人魏娣芹，女，1973年3月19日生于云南省保山市隆阳区，汉族，小学文化，农民，户籍所在地保山市隆阳区，现住保山市隆阳区，曾因犯非法持有毒品罪于2014年2月25日被本院判处有期徒刑一年，2014年12月17日刑满释放
+judge1.name: 王丽菊
+judge2.name: 
+judge3.name: 
+def.recid: 1
+def.goodattitude: 1
+
+Case: 4
+doc: a394eaad-dbf1-47e9-a61e-027cd3dcde4e.html
+def.name: ﻿张荣运输毒品案一审刑事判决书
+crime.date: 2014年3月16日
+drug.type: 鸦片	甲基苯丙胺
+pun: 一、被告人张荣犯运输毒品罪，判处有期徒刑十五年，并处没收个人全部财产。（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2014年3月17日起至2029年3月16日止）。	二、查获的毒品及侦查机关扣押的被告人张荣的涉案财物依法予以没收。
+drug.weight: 414	225	0.1
+crime: 德宏州人民检察院指控：2014年3月16日18时许，被告人张荣携带毒品驾驶摩托车从畹町前往回环寨子，途经畹町黑山门时被公开缉查的公安人员抓获，当场从被告人张荣的外衣口袋内查获毒品鸦片414克，毒品甲基苯丙胺225克。																																																																																																				4、称量记录、取样记录。证实被告人张荣外衣口袋内查获的毒品可疑物经称量，分别净重225克、414克，并分别从中提取各0.1克封存送检。
+ruling.date: 书记员　陈文超
+secretary.name: 运输毒品案一审刑事判决书
+def: 被告人张荣，男，1980年生，傣族，小学文化，农民，云南省芒市人
+judge1.name: 沈亮
+judge2.name: 陈丽
+judge3.name: 杨云梁
+def.goodattitude: 1
+
+Case: 5
+doc: 406d110c-9056-43cd-8038-a7360116d892.html
+def.name: ﻿欧某某贩卖毒品案一审刑事判决书
+drug.type: 海洛因	甲基苯丙胺
+pun: 一、被告人欧某某犯贩卖毒品罪，判处有期徒刑三年，并处罚金人民币3000元；	二、查获的灰白色压缩状毒品海洛因2.75克，红色颗粒毒品甲基苯丙胺3.42克，由扣押机关予以没收；塑料管13根、刮胡刀片盒子1个、刮胡刀片1片，作为证据保存。
+execution.date: 2016年10月24日
+drug.weight: 2.75	3.42
+crime: 二、查获的灰白色压缩状毒品海洛因2.75克，红色颗粒毒品甲基苯丙胺3.42克，由扣押机关予以没收；塑料管13根、刮胡刀片盒子1个、刮胡刀片1片，作为证据保存。
+ruling.date: 书记员　　李　云
+secretary.name: 某贩卖毒品案一审刑事判决书
+def: 被告人欧某某，女，云南省腾冲市人
+attorney: ['辩护人王桂云，云南援边律师事务所律师']
+judge1.name: 寸待铝
+judge2.name: 李晓曼
+judge3.name: 尹楚云
+def.goodattitude: 1
+def.recid: 0
+def.pleadnotguity: 
+
+Case: 6
+doc: f6321019-8afa-4ca5-a1f1-a7fd00b29e10.html
+def.name: ﻿张小三非法种植毒品原植物一审刑事判决书
+crime.date: 2017年4月25日
+drug.type: 罂粟
+pun: 一、被告人张小三犯非法种植毒品原植物罪，判处有期徒刑六个月，缓刑一年，并处罚金人民币五千元。	二、查获的毒品原植物罂粟没收后予以销毁。
+drug.weight: 
+crime: []
+juror.name: ['孙云波', '马俊山']
+ruling.date: 二〇一七年八月二十二日
+secretary.name: 刘栩洁
+def: 被告人张小三，男，1965年2月10日出生于云南省陆良县，汉族，文盲，农民，住陆良县
+judge1.name: 方明良
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 7
+doc: d74ac8fe-b143-4169-a532-eaa1abafb1d1.html
+def.name: ﻿米颠犯贩卖毒品罪一案刑事判决书
+crime.date: 2014年11月11日
+drug.type: 鸦片	甲基苯丙胺
+pun: 一、被告人米颠犯贩卖毒品罪，判处有期徒刑九年零六个月（刑期从判决执行之日起计算。判决执行之前先行羁押的，羁押一日折抵刑期一日，即被告人米颠的刑期自2014年11月11日起至2024年5月10日止），并处罚金人民币40000元（限于判决生效后十日内缴清）。	二、查获的毒品甲基苯丙胺17.51克、鸦片36克，由查封、扣押、冻结机关负责处理。
+drug.weight: 17.51	36
+crime: 二、查获的毒品甲基苯丙胺17.51克、鸦片36克，由查封、扣押、冻结机关负责处理。																																																																																																				二、查获的毒品甲基苯丙胺17.51克、鸦片36克，由查封、扣押、冻结机关负责处理。
+juror.name: ['刘晓洁']
+ruling.date: 二〇一五年四月二十九日
+secretary.name: 四大
+def: 被告人米颠，女，1980年10月12日出生，哈尼族，小学文化，农民
+judge1.name: 郭琼
+judge2.name: 陈美兰
+judge3.name: 
+
+Case: 8
+doc: 728ccc93-ade2-44f6-b4eb-02317ecd4d50.html
+def.name: ﻿张泽民运输毒品案一审刑事判决书
+crime.date: 2015年1月29日
+drug.type: 海洛因
+pun: 一、被告人张泽民犯运输毒品罪，判处有期徒刑十五年，并处没收财产人民币一万元。	二、查获的毒品海洛因124克及随案移送的NOKIA牌黑色直板手机一部予以没收。
+execution.date: 2030年1月29日
+drug.weight: 124
+crime: 二、查获的毒品海洛因124克及随案移送的NOKIA牌黑色直板手机一部予以没收。
+ruling.date: 书记员　　马康坦
+secretary.name: 民运输毒品案一审刑事判决书
+def: 被告人张泽民，男，1995年7月20日生，壮族，小学文化，云南省丘北县人，农民
+judge1.name: 黄怒雄
+judge2.name: 杜梅
+judge3.name: 王中强
+def.goodattitude: 1
+
+Case: 9
+doc: 5c6000f5-edb3-488b-8078-a8a400910c26.html
+def.name: ﻿余正发走私、贩卖、运输、制造毒品一审刑事判决书
+pun: 一、被告人余正发犯贩卖毒品罪，判处有期徒刑三年，并处罚金人民币三千元；	二、查获扣押的手机1部、人民币800元，依法予以没收；扣押的人民币3400元，发还被告人余正发。
+execution.date: 2017年11月3日
+drug.type: 甲基苯丙胺
+drug.weight: 0.97	0.485	1.455	3.88
+crime: 1、2017年10月中旬、10月30日，吸毒人员赵某1拿钱给吸毒人员石某，由石某到被告人余正发的家中，先后2次，每次以人民币100元的价格向被告人余正发购买毒品甲基苯丙胺片剂5粒，经侦查实验，共计重0.97克。																																																																																																				2、2017年10月中旬，被告人余正发在其家中，以人民币100元的价格贩卖给吸毒人员陈某毒品甲基苯丙胺片剂5粒，经侦查实验，计重0.485克。																																																																																																				3、2017年10月中旬、11月1日，被告人余正发在其家中，先后3次，每次以人民币100元的价格贩卖给吸毒人员寸某1毒品甲基苯丙胺片剂5粒，经侦查实验，共计重1.455克。																																																																																																				本院认为，被告人余正发违反国家毒品管理法规，向多人多次贩卖毒品甲基苯丙胺片剂共计3.88克，情节严重，其行为已触犯刑律，构成贩卖毒品罪。公诉机关指控被告人余正发犯贩卖毒品罪的犯罪事实清楚、证据确实充分、罪名成立，本院予以确认。被告人余正发在归案后能如实供述自己的犯罪事实，系坦白，依法可以从轻处罚。根据被告人余正发的犯罪事实、情节、危害后果及悔罪表现，本院决定对其从轻处罚。依照《中华人民共和国刑法》第三百四十七条第一款、第四款、第七款、第六十七条第三款、第五十二条、第六十四条、《最高人民法院关于审理毒品犯罪案件适用法律若干问题的解释》第四条第（一）项之规定，判决如下：
+juror.name: ['朱秋东', '张慧']
+ruling.date: 二〇一八年三月二日
+secretary.name: 王睿敏
+def: 被告人余正发，别名刘宽旺，男，1967年12月20日出生于云南省龙陵县，汉族，小学肄业，农民，住云南省保山市龙陵县
+judge1.name: 黄碧燕
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 10
+doc: 4176be26-0668-4c44-85ad-a8e1008c00e2.html
+def.name: ﻿赵小坤走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2017年9月18日
+drug.type: 海洛因
+pun: 一、被告人赵小坤犯运输毒品罪，判处有期徒刑十五年，并处没收个人财产人民币30000元。	二、查获的毒品海洛因439.39克、手机一部，依法予以没收。
+execution.date: 2017年9月18日
+drug.weight: 439.39
+crime: 二、查获的毒品海洛因439.39克、手机一部，依法予以没收。
+ruling.date: 书记员　　王　柄
+secretary.name: 坤走私、贩卖、运输、制造毒品一审刑事判决书
+def: 被告人赵小坤，男性，l984年11月19日出生，汉族，高中文化，户籍所在地：四川省绵阳市梓潼县，住梓潼县
+judge1.name: 杜绍斌
+judge2.name: 王秀琼
+judge3.name: 李平
+def.goodattitude: 1
+def.recid: 0
+
+Case: 11
+doc: f7b7df07-88fb-414d-b758-a7bd009e33ad.html
+def.name: ﻿尼某贩卖毒品案一审刑事判决书
+pun: 一、被告人尼某犯贩卖毒品罪，判处有期徒刑三年，并处罚金人民币3000元；	二、扣押的毒品海洛因3.84克，由扣押机关予以没收；扣押的毒资人民币45元，由扣押机关予以没收，上缴国库；扣押的毒品包装物透明塑料皮1张、避孕套1个，作为证据保存。
+execution.date: 2016年11月29日
+drug.type: 海洛因
+drug.weight: 3.84
+crime: 二、扣押的毒品海洛因3.84克，由扣押机关予以没收；扣押的毒资人民币45元，由扣押机关予以没收，上缴国库；扣押的毒品包装物透明塑料皮1张、避孕套1个，作为证据保存。																																																																																																				二、扣押的毒品海洛因3.84克，由扣押机关予以没收；扣押的毒资人民币45元，由扣押机关予以没收，上缴国库；扣押的毒品包装物透明塑料皮1张、避孕套1个，作为证据保存。
+ruling.date: 书记员　　陈　辉
+secretary.name: 贩卖毒品案一审刑事判决书
+def: 被告人尼某（音译），男，1991年3月3日生，缅族，高中文化，农民，国籍不明
+judge1.name: 鲁泽星
+judge2.name: 寸待铝
+judge3.name: 郭美玉
+def.goodattitude: 1
+
+Case: 12
+doc: ffc55cfb-4905-4408-bd4f-a71401378831.html
+def.name: ﻿刘某某贩卖毒品罪一审刑事判决书
+crime.date: 2016年4月11日
+drug.type: 甲基苯丙胺
+pun: 一、被告人刘某某犯贩卖毒品罪，判处有期徒刑一年，并处罚金人民币三千元。	二、扣押的未随本案移送的毒品甲基苯丙胺0.58克、手机1部、毒资人民币100元、吸毒工具1套，由扣押机关按规定处理。
+execution.date: 2016年4月11日
+drug.weight: 0.58
+crime: 二、扣押的未随本案移送的毒品甲基苯丙胺0.58克、手机1部、毒资人民币100元、吸毒工具1套，由扣押机关按规定处理。
+ruling.date: 书记员　　洪　英
+secretary.name: 某贩卖毒品罪一审刑事判决书
+def: 被告人刘某某，绰号小湖南，湖南省祁阳县人，务农，住址湖南省祁阳县，现住耿马自治县
+judge1.name: 黄海鸥
+judge2.name: 周静
+judge3.name: 张学焕
+def.goodattitude: 1
+
+Case: 13
+doc: f2e32cc0-c4ae-4b59-9845-a7f20096e7f0.html
+def.name: ﻿李维强贩卖毒品案一审刑事判决书
+crime.date: 2016年8月5日
+drug.type: 甲基苯丙胺
+pun: 一、被告人李维强犯贩卖毒品罪，判处有期徒刑五年六个月，并处罚金人民币五千元（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自二○一六年十月九日起至二○二二年四月八日止，罚金在判决生效后一个月内缴纳）。	二、查获的毒品甲基苯丙胺9.81克依法予以没收。
+drug.weight: 9.81
+crime: 二、查获的毒品甲基苯丙胺9.81克依法予以没收。
+juror.name: ['张 建 华']
+ruling.date: 二〇一七年二月十六日
+secretary.name: 何薇
+def: 被告人李维强，男，1989年4月16日出生，现住云南省昆明市寻甸县
+judge1.name: 舒应亮&#xB;
+judge2.name: 张彦&#xB;
+judge3.name: 
+def.goodattitude: 1
+
+Case: 14
+doc: c2a319d0-c324-4f19-9889-e91c721afec6.html
+def.name: ﻿刘孟兴运输毒品案刑事判决书
+crime.date: 2013年9月17日
+drug.type: 甲基苯丙胺
+pun: 一、被告人刘孟兴犯运输毒品罪，判处有期徒刑十五年（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2013年9月18日起至2028年9月17日止），并处没收个人财产人民币2万元。	二、查获的毒品甲基苯丙胺188.6克，手机1部依法没收。	不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向云南省高级人民法院提出上诉。书面上诉的，应当提交上诉状正本一份，副本二份。
+drug.weight: 188.6
+crime: 二、查获的毒品甲基苯丙胺188.6克，手机1部依法没收。
+juror.name: ['黄道德']
+ruling.date: 二〇一四年二月二十六日
+secretary.name: 咪刀
+def: 被告人刘孟兴，男，1982年4月9日出生，汉族，云南省罗平县人，初中文化，农民
+judge1.name: 杨斌
+judge2.name: 李冰峰
+judge3.name: 
+def.goodattitude: 1
+
+Case: 15
+doc: 3dfa6b81-69e2-40b5-ad85-7730e2685652.html
+def.name: ﻿李楷能运输毒品案刑事一审判决书
+crime.date: 2015年9月8日
+drug.type: 甲基苯丙胺
+pun: 一、被告人李楷能犯运输毒品罪，判处无期徒刑，剥夺政治权利终身，并处没收个人全部财产；	二、本案查获的毒品甲基苯丙胺片剂1342克予以没收。
+drug.weight: 1342
+crime: 二、本案查获的毒品甲基苯丙胺片剂1342克予以没收。
+ruling.date: 书记员　王锦华
+secretary.name: 能运输毒品案刑事一审判决书
+def: 被告人李楷能，男，1986年5月7日生，云南省大理市人，白族，初中文化，农民，住大理市银桥镇
+attorney: ['辩护人向勇，云南广运律师事务所律师']
+judge1.name: 李杰
+judge2.name: 张艾云
+judge3.name: 邹震
+def.goodattitude: 1
+def.recid: 0
+
+Case: 16
+doc: ba2bd68b-4c46-47d6-837f-a7da00a989ca.html
+def.name: ﻿散团贩卖毒品案一审刑事判决书
+crime.date: 2017年3月6日
+drug.type: 海洛因	甲基苯丙胺
+pun: 一、被告人散团犯贩卖毒品罪，判处有期徒刑七年，并处罚金10000元。	二、查获的毒品海洛因2.27克，甲基苯丙胺31.55克及供犯罪所用的本人财物，予以没收。
+execution.date: 2017年3月8日
+drug.weight: 2.27	31.55
+crime: 二、查获的毒品海洛因2.27克，甲基苯丙胺31.55克及供犯罪所用的本人财物，予以没收。
+juror.name: ['周全国', '朱晓梅']
+ruling.date: 二〇一七年七月三十一日
+secretary.name: 陈阳
+def: 被告人散团，男，傣族，1968年6月15日出生，小学文化，务农，家住：云南省瑞丽市
+judge1.name: 肖东成
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 17
+doc: c1223e08-d92e-479d-aeb0-255641286c1c.html
+def.name: ﻿王正怡贩卖毒品案一审刑事判决书
+drug.type: 甲基苯丙胺
+pun: 一、被告人王正怡犯贩卖毒品罪，判处有期徒刑三年五个月，并处罚金人民币5000元。	二、扣押的天宇牌黑色直板手机一部、违法所得650元予以没收；继续追缴违法所得590元。
+execution.date: 2015年3月4日
+drug.weight: 4.094	0.776	0.388	0.594	0.396	0.194	0.291	0.97	0.097	0.99	0.096
+crime: 施甸县人民检察院指控：被告人王正怡从2014年7月至2015年3月，在甸阳镇沙坝村委会白龙水二组吴某某家、甸阳镇西墩子赵某某家、甸阳镇岔西山村的路边以及施甸县城文化路杨某的出租房门口，先后九次贩卖毒品给吸毒人员吴某某、赵某某、杨某，共计42粒，约4.094克，违法所得人民币1240元。被告人王正怡为牟取非法利益明知是毒品而多次贩卖，其行为触犯了《中华人民共和国刑法》第三百四十七条第四款之规定，应当以贩卖毒品罪追究其刑事责任。被告人王正怡归案后具有坦白情节，且具有立功表现，对其可以从轻或者减轻处罚。建议判处其二年以上三年以下有期徒刑，并处罚金。																																																																																																				经审理查明：2014年7月份的一天下午，被告人王正怡在甸阳镇沙坝村委会白龙水二组吴某某家中以人民币200元的价格贩卖给吸毒人员吴某某“WY”型甲基苯丙胺8粒，约重0.776克。																																																																																																				2014年7月份的一天下午，被告人王正怡在吴某某家中以人民币100元的价格贩卖给吴某某“WY”型甲基苯丙胺4粒，约重0.388克。																																																																																																				2015年2月下旬的一天下午，被告人王正怡用赵某某提供的人民币200元与段某某购买了“88-1”型甲基苯丙胺6粒，约重0.594克，之后，二人前往甸阳镇沙坝村委会白龙水一组王正怡家，被告人王正怡获得2粒吸食。																																																																																																				2015年2月下旬的一天下午，被告人王正怡用赵某某提供的140元人民币与段某某购买了“88-1”型甲基苯丙胺4粒，约重0.396克，之后，被告人王正怡又将该4粒毒品甲基苯丙胺贩卖给赵某某。																																																																																																				2015年2月21日，被告人王正怡在甸阳镇岔西山村的路边，以人民币100元的价格贩卖给吸毒人员杨某“WY”型甲基苯丙胺2粒，约重0.194克。																																																																																																				2015年2月21日，被告人王正怡在施甸县城文化路杨某的出租房门口以人民币100元价格贩卖给吸毒人员杨某“WY”型甲基苯丙胺3粒，约重0.291克。																																																																																																				（二）侦查实验笔录及照片，证实2015年4月13日上午，侦查人员从库存毒品中随机提取的“WY”型、“88-1”型甲基苯丙胺片剂各10粒，经王正怡确认数量、特征后进行侦查实验。经称量，10粒“WY”型甲基苯丙胺净重0.97克，即王正怡贩卖的该型号毒品每粒约重0.097克；经称量，10粒“88-1”型甲基苯丙胺净重0.99克，即王正怡贩卖的该型号毒品每粒约重0.096克。
+juror.name: ['杨文平']
+ruling.date: 二〇一五年七月十四日
+secretary.name: 朱仁凤
+def: 被告人王正怡，男，因本案于2015年3月4日被施甸县公安局刑事拘留，同年4月3日被逮捕
+judge1.name: 杨钒
+judge2.name: 卯明涛
+judge3.name: 
+
+Case: 18
+doc: 813a0fec-036f-44c6-a3b3-a8b301131287.html
+def.name: ﻿曹明华走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2017年6月7日
+drug.type: 海洛因
+pun: 一、被告人曹明华犯贩卖毒品罪，判处有期徒刑一年二个月（刑期从判决执行之日起计算；判决执行前先行羁押的，羁押一日折抵刑期一日，即刑期从2017年6月7日起至2018年8月6日止），并处罚金人民币2000元（判决生效之日缴纳）。	二、查获的毒品海洛因2.67克、白色直板三星牌手机1部予以没收，人民币1694元、中国邮政储蓄卡1张（卡号为：62×××90，卡内金额为人民币6153.90元）、中国农村信用社金碧卡1张（卡号为62×××94，卡内金额为人民币211.16元）予以没收上缴。
+drug.weight: 2.67
+crime: 二、查获的毒品海洛因2.67克、白色直板三星牌手机1部予以没收，人民币1694元、中国邮政储蓄卡1张（卡号为：62×××90，卡内金额为人民币6153.90元）、中国农村信用社金碧卡1张（卡号为62×××94，卡内金额为人民币211.16元）予以没收上缴。
+juror.name: ['王艳']
+ruling.date: 二〇一七年十二月五日
+secretary.name: 张静
+def: 被告人曹明华，男，生于1978年5月15日，哈尼族，小学文化，农民，云南省金平县人，住金平苗族瑶族傣族自治县
+judge1.name: 李学新
+judge2.name: 袁红
+judge3.name: 
+def.goodattitude: 1
+
+Case: 19
+doc: c26400a2-b061-42bd-b50a-30127156c5de.html
+def.name: ﻿线某某非法持有毒品案一审刑事判决书
+crime.date: 2015年4月16日
+drug.type: 甲基苯丙胺
+pun: 一、被告人线某某犯非法持有毒品罪，判处有期徒刑一年，并处罚金人民币3000元。	二、查获的毒品甲基苯丙胺12克及毒品包装物，依法予以没收。
+drug.weight: 12
+crime: 二、查获的毒品甲基苯丙胺12克及毒品包装物，依法予以没收。
+juror.name: ['王芳']
+ruling.date: 二〇一五年十月二十日
+secretary.name: 董娜
+def: 被告人线某某，别名岩相石，男，1988年5月5日出生，傣族，小学文化，农民，户籍所在地：云南省德宏州芒市
+judge1.name: 胡广学
+judge2.name: 陈新华
+judge3.name: 
+def.goodattitude: 1
+
+Case: 20
+doc: 8eb2ac8c-01a5-419c-8727-5b549ce7de17.html
+def.name: ﻿孙高中贩卖毒品案一审刑事判决书
+pun: 一、被告人孙高中犯贩卖毒品罪，判处有期徒刑八年零六个月，并处罚金人民币10000.00元。罚金在本判决生效之日一次性缴纳。	二、扣押的人民币500.00元，依法返还被告人孙高中；毒品海洛因20.8克，依法予以没收，由扣押机关上缴迪庆州公安局禁毒支队依照相关规定处理。
+execution.date: 2014年8月4日
+drug.type: 海洛因
+drug.weight: 20.8
+crime: 二、扣押的人民币500.00元，依法返还被告人孙高中；毒品海洛因20.8克，依法予以没收，由扣押机关上缴迪庆州公安局禁毒支队依照相关规定处理。																																																																																																				二、扣押的人民币500.00元，依法返还被告人孙高中；毒品海洛因20.8克，依法予以没收，由扣押机关上缴迪庆州公安局禁毒支队依照相关规定处理。
+juror.name: ['周 建 新']
+ruling.date: 二〇一四年十二月二十六日
+secretary.name: 卓玛拉姆
+def: 被告人孙高中，男，1971年1月29日生，彝族，文盲，农民，户籍所在地：四川省盐源县
+attorney: ['辩护人李萍，云南忠信勤明律师事务所律师']
+judge1.name: 益西拉姆
+judge2.name: 吹批农布
+judge3.name: 
+def.goodattitude: 1
+def.recid: 0
+
+Case: 21
+doc: 32957a35-439b-4df4-bd46-4e4e4eeb0030.html
+def.name: ﻿韦祥权、刘芝芬贩卖毒品罪一审刑事判决书
+crime.date: 2015年1月21日
+drug.type: 吗啡	海洛因
+pun: 一、被告人韦祥权犯贩卖毒品罪，判处有期徒刑九年，并处罚金人民币1000元（刑期从判决执行之日起计算，判决执行前先行羁押一日折抵刑期一日，即刑期从2015年1月22日起至2024年1月21日止）。罚金限本判决书生效后30日内缴纳。	二、被告人刘芝芬犯贩卖毒品罪，判处有期徒刑五年，并处罚金人民币1000元（刑期从判决执行之日起计算，判决执行前先行羁押一日折抵刑期一日，即刑期从2015年1月22日起至2020年1月21日止）。罚金限本判决书生效后30日内缴纳。	三、涉案毒品海洛因33.6克、人民币1500元，手机二部依法没收，上缴国库。
+drug.weight: 33.6
+crime: 三、涉案毒品海洛因33.6克、人民币1500元，手机二部依法没收，上缴国库。
+juror.name: ['祝雯春']
+ruling.date: 二〇一五年八月二十七日
+secretary.name: 黄媛
+def: 被告人韦祥权，男，1965年3月26日出生，汉族，小学文化，云南省富宁县人，因本案于2015年1月22日被刑事拘留，同年2月16日被逮捕	被告人刘芝芬，女，1969年3月22日出生，汉族，文盲，云南省富宁县人，2009年3月11日因犯拐卖儿童罪被富宁县人民法院判处有期徒刑五年，罚金3000元，2012年5月23日刑满释放
+judge1.name: 李陶梅
+judge2.name: 农星听
+judge3.name: 
+def.goodattitude: 1
+def.recid: 1
+
+Case: 22
+doc: 3bcd2483-54ab-4181-b731-8675ff08339e.html
+def.name: ﻿王杰、芦风新运输毒品一案一审刑事判决书
+crime.date: 2015年6月16日
+drug.type: 甲基苯丙胺
+pun: 一、被告人王杰犯运输毒品罪，判处无期徒刑，剥夺政治权利终身，并处没收个人全部财产。	二、被告人芦风新犯运输毒品罪，判处无期徒刑，剥夺政治权利终身，并处没收个人全部财产。	三、查获的毒品甲基苯丙胺片剂1820克、手机3部依法没收；查获的人民币9100元依法没收，上缴国库。
+drug.weight: 1820
+crime: 三、查获的毒品甲基苯丙胺片剂1820克、手机3部依法没收；查获的人民币9100元依法没收，上缴国库。
+ruling.date: 书记员　　李　扬
+secretary.name: 、芦风新运输毒品一案一审刑事判决书
+def: 被告人王杰，男，1958年10月2日出生，汉族，吉林省辽源市人，初中文化，无业
+judge1.name: 卢正坤
+judge2.name: 昝爱民
+judge3.name: 裴锫
+def.goodattitude: 1
+
+Case: 23
+doc: c053d7b0-10df-4eb1-a79a-4365f810d535.html
+def.name: ﻿陈某某、张某某、苏某某贩卖毒品案一审刑事判决书
+drug.type: 甲基苯丙胺	麻古
+pun: 一、被告人陈登友犯贩卖毒品罪，判处有期徒刑五年六个月，并处罚金人民币5000.00元；	二、被告人苏某某犯贩卖毒品罪，判处有期徒刑三年，并处罚金人民币3000.00元；	三、被告人张某某犯贩卖毒品罪，判处有期徒刑二年六个月，并处罚金人民币2000.00元；	四、随按移送的作案工具白色三星手机一部、黑色ROYAISTAR手机一部、黑色GIONEE手机一部、红色手电筒一支及云CDR7**两轮摩托车一辆予以没收。
+execution.date: 2013年12月25日
+drug.weight: 9.6
+crime: 经审理查明，2013年11月，被告人陈登友邀约被告人苏某某，陪同陈到镇雄县城购得毒品“麻古”。同月27日20时许，陈登友欲以3500.00元将100颗“麻古”出卖给盐津县庙坝镇一男青年，遂叫被告人苏某某帮其联系车辆，苏某某联系被告人张某某并与张某某达成租车协议后。三被告人即乘坐张某某驾驶的云CDR7**号两轮摩托车从彝良县洛旺乡前往庙坝镇并入住“温馨”宾馆402房间。在房间内，被告人陈登友将携带的“麻古”交给被告人苏某某、张某某藏匿在摩托车上，要求在确定交易时再将“麻古”拿到房间内交易。次日凌晨2时许，买卖双方在进行毒品交易时，公安机关将正在进行毒品交易的陈登友、苏某某抓获，当场缴获“麻古”105颗（其中5颗系被告人陈登友用于自己吸食）。经称量，100颗“麻古”净重9.6克。经鉴定，“麻古”含有甲基苯丙胺成分。																																																																																																				公诉机关指控，2013年11月27日，被告人陈登友欲出卖100颗“麻古”，遂叫苏某某帮其联系“摩的”，苏某某联系了张某某。次日凌晨2时许，三被告人在庙坝镇“温馨”宾馆进行毒品交易时被公安机关抓获。经称量，100颗“麻古”净重9.6克。经鉴定，“麻古”含有甲基苯丙胺成分。其后，三被告人被公安机关抓获。
+juror.name: ['杨英强', '徐天华']
+ruling.date: 二〇一四年七月十六日
+secretary.name: 徐倩
+def: 被告人陈登友	被告人苏某某	被告人张某某
+judge1.name: 刘寿银
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 24
+doc: 708ac73d-e659-4563-b94b-aba3070a6714.html
+def.name: ﻿龚玉忠贩卖毒品案一审刑事判决书
+crime.date: 2014年9月29日
+drug.type: 海洛因
+pun: 一、被告人龚某某犯贩卖毒品罪，判处有期徒刑一年二个月，并处罚金人民币2000元。	二、查获并扣押于昌宁县公安局的毒品海洛因1.3克，手机1部，注射器1支，依法予以没收；云某某某的普通二轮摩托车由扣押机关依法处理。
+execution.date: 2014年9月29日
+drug.weight: 1.3
+crime: 二、查获并扣押于昌宁县公安局的毒品海洛因1.3克，手机1部，注射器1支，依法予以没收；云某某某的普通二轮摩托车由扣押机关依法处理。
+ruling.date: 书记员　　王国荣
+secretary.name: 忠贩卖毒品案一审刑事判决书
+def: 被告人龚某某
+judge1.name: 周玲红
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 25
+doc: aff8f01e-b81f-4567-b3c2-d7f958a8f133.html
+def.name: ﻿何雪雪运输毒品一审刑事判决书
+crime.date: 2015年4月6日
+drug.type: 海洛因
+pun: 一、被告人何雪雪犯运输毒品罪，判处死刑，缓期二年执行，剥夺政治权利终身，并处没收个人全部财产。	二、查获的毒品海洛因六百零一克，予以没收。
+drug.weight: 601
+crime: 云南省人民检察院昆明铁路运输分院指控：2015年4月6日22时35分，被告人何雪雪持当日昆明至贵阳的旅客列车车票从昆明火车站进站乘车前往贵阳时，在该站检票口被执勤民警从其身上查获海洛因601克。针对上述指控，公诉机关提供了“犯罪嫌疑人归案情况说明”材料、“提取笔录”、毒品“称量记录”、“取样笔录”、“物证检验鉴定报告”、旅客列车车票、被告人身份证明材料、毒品照片、被告人供述等相应的证据予以证实。公诉机关认为，本案指控事实清楚，证据确实、充分，被告人何雪雪的行为已触犯《中华人民共和国刑法》第三百四十七条第二款第（一）项之规定，应当以运输毒品罪追究其刑事责任。被告人何雪雪归案后认罪态度好。公诉机关提出应对被告人何雪雪判处有期徒刑十五年直至死刑的量刑建议，并诉请本院依法判处。
+ruling.date: 书记员　　朱珉娴
+secretary.name: 雪运输毒品一审刑事判决书
+def: 被告人何雪雪，女，1987年5月5日出生于贵州省纳雍县，汉族，小学文化，农民
+attorney: ['辩护人吴振刚，云南典传律师事务所律师']
+judge1.name: 秦海云
+judge2.name: 刘刚
+judge3.name: 张怡
+def.goodattitude: 1
+def.recid: 0
+
+Case: 26
+doc: f47a7094-d124-443c-a734-a82a009eff94.html
+def.name: ﻿王子文走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2016年7月14日
+drug.type: 甲基苯丙胺
+pun: 一、被告人王子文犯运输毒品罪，判处有期徒刑十五年，并处没收个人财产人民币1万元；	二、查获的毒品甲基苯丙胺净重1111.67克予以没收；	三、查获的人民币2000元予以没收。
+execution.date: 2016年7月15日
+drug.weight: 1111.67
+crime: 二、查获的毒品甲基苯丙胺净重1111.67克予以没收；
+juror.name: ['杨丽华', '李莎佧']
+ruling.date: 二〇一七年五月十六日
+secretary.name: 熊灿
+def: 被告人王子文，男，1981年10月10日出生，汉族，小学文化，云南省曲靖市人，住曲靖市麒麟区
+judge1.name: 张凌岚
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+def.recid: 0
+
+Case: 27
+doc: e31af03b-689a-4138-90cc-a8aa016908f9.html
+def.name: ﻿黄玉兵走私、贩卖、运输、制造毒品罪一审刑事判决书
+pun: 
+drug.type: 
+drug.weight: 
+crime: []
+ruling.date: <a type='dir' name='WBSB'></a><div style='TEXT-ALIGN: center; LINE-HEIGHT: 25pt; MARGIN: 0.5pt 0cm; FONT-FAMILY: 宋体; FONT-SIZE: 22pt;'>浙江省绍兴市越城区人民法院</div><div style='TEXT-ALIGN: center; LINE-HEIGHT: 30pt; MARGIN: 0.5pt 0cm; FONT-FAMILY: 仿宋; FONT-SIZE: 26pt;'>刑 事 判 决 书</div><div style='TEXT-ALIGN: right; LINE-HEIGHT: 30pt; MARGIN: 0.5pt 0cm;  FONT-FAMILY: 仿宋;FONT-SIZE: 16pt; '>（2017）浙0602刑初994号</div><a type='dir' name='DSRXX'></a><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>公诉机关绍兴市越城区人民检察院。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>被告人黄玉兵，男，1988年7月14日出生，汉族，云南省德宏傣族景颇族自治州人，小学文化，农民，住云南省德宏傣族景颇族自治州芒市。因涉嫌犯贩卖毒品罪于2017年5月5日被绍兴市公安局袍江分局刑事拘留，同年6月8日被逮捕。现羁押于绍兴市看守所。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>辩护人姚栋，浙江聚腾律师事务所律师。</div><a type='dir' name='SSJL'></a><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>绍兴市越城区人民检察院以越检公诉刑诉〔2017〕882号起诉书指控被告人黄玉兵犯贩卖毒品罪，于2017年11月7日向本院提起公诉。本院于同日立案受理，并依法组成合议庭，公开开庭审理了本案。绍兴市越城区人民检察院指派检察员陈某出庭支公诉，被告人黄玉兵及其辩护人到庭参加诉讼。现已审理终结。</div><a type='dir' name='AJJBQK'></a><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>绍兴市越城区人民检察院指控：2017年4月24日、25日，被告人黄玉兵在绍兴市越在区斗门镇分二次将70克海洛因以24500元的价格贩卖给刘菊花（化名）。2017年5月5日16时许，被告人黄玉兵在绍兴市越城区袍江农贸市场附近欲假装与刘菊花进行毒品交易时被警察当场抓获。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>为证明上述指控，公诉人提交了相关证据。公诉机关认为，被告人黄玉兵的行为已构成贩卖毒品罪，提请本院依照《中华人民共和国刑法》第三百四十七条第一、二、七款之规定判处。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>被告人黄玉兵辩称：其没有贩卖毒品给刘菊花，其在公安机关的供述系警察刑讯逼供所致。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>被告人黄玉兵的辩护人提出的主要辩护意见是：一、本案认定被告人黄玉兵贩毒的证据不足。公诉机关认定黄玉兵贩毒的主要证据是黄玉兵的首次供述、证人刘菊花的证言和微信转账记录。据黄玉兵自述，其首次供述系警察将其手反铐后其不得己才供述，不能作为定案依据。而刘菊花系公安特勤，刘菊花的证言和微信转账记录不足以定案。二、如果法庭认为犯罪成立，因本案系特勤介入，依据罪责刑相应的原则，应对被告人从轻处罚。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>经审理查明：</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>1．2017年4月24日15时许，被告人黄玉兵在绍兴市越城区，将20克海洛因以人民币7000元的价格贩卖给刘菊花（化名）。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>2．2017年4月25日21时许，被告人黄玉兵在绍兴市越城区西北侧烟酒商店附近，将50克海洛因以人民币17500元的价格贩卖给刘菊花。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>2017年5月5日16时许，被告人黄玉兵在绍兴市越城区袍江农贸市场附近欲假装与刘菊花进行毒品交易时被警察当场抓获。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>以上事实，由公诉机关提交，并经法庭质证、认证的下列证据予以证明：</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>（1）证人刘菊花的证言，证实一个叫“王某”的朋友让其帮忙买一些粉（海洛因），正好有个吸毒的“红车”告诉其说有一个叫“啊兵”的云南人在贩毒，其就让“红车”帮忙联系上了“啊兵”。4月24日下午，双方约好在袍江斗门大润发超市旁的绿化带附近交易，他拿了20克海洛因过来，价格谈好是350元一克，一共7000元，是一手交钱一手交货的。第二天，“王某”又让其去帮忙拿货，其打电话跟“啊兵”联系，让他拿50克过来，还是350元一克，共17500元，其中有10000元钱是用微信转给他的，地点是在袍江农贸市场十字路口。其知道“啊兵”有大量毒品后，就向公安机关报告了，然后根据公安机关的要求将“啊兵”约出来交易，警察在袍江农贸市场附近将“啊兵”抓获，但没有从他身上搜出毒品。其不知道“王某”、“红车”的真名，其是看在朋友面上帮“王某”买的，不收任何好处，这两个人后来都联系不上了。“啊兵”的电话是151××××3993，微信名就叫“啊兵”，微信号是×××。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>（2）被告人黄玉兵在侦查阶段首次供述，于今年4月初从云南带了90克海洛因来绍兴，打算边吃边卖。到绍兴后通过一个叫“包家”的朋友介绍认识了袍江的一个“老板娘”，后来“老板娘”向其买过二次海洛因，第一次是在其刚到绍兴的第二天，“老板娘”向其买了20克海洛因，付给其7000元现金，交易地点是在袍江大润发超市那边。第二次是在4月25日晚9时多，约好在袍江农贸市场交易，向其购买50克海洛因，价格也是350元一克，总共17500元，付了7500元现金，还有10000元是微信转账的，其直接转给老婆了。5月5日，“老板娘”又想买海洛因，因其手上已经没有了，准备假装卖毒品给“老板娘”骗点钱时被警察抓获了。其电话是151××××3993，微信名是“啊兵”，微信号是×××。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>（3）刘菊花的微信聊天及转账记录，证实刘菊花与被告人黄玉兵联系购毒及通过微信转账给黄玉兵毒资10000元的事实。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>（4）搜查笔录，证实公安机关抓获黄玉兵后，从其身上查获手机、现金等物品。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>（5）绍兴市公安局司法鉴定中心电子物证检验报告及光盘，证实从黄玉兵身上搜出的手机2只，经鉴定，检出通讯录、通话记录、短信、微信等电子数据。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>（6）银行交易明细，证实黄玉兵妻子曾广灿中国农业银行卡账户于2017年4月25日现存5000元。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>（7）入所健康检查登记表，证实黄玉兵在2017年5月6日进入看守所进行入所健康检查时四肢无异常、体表无伤情。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>（8）情况说明，证实刘菊花系公安特勤人员。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>（9）抓获经过说明，证实被告人黄玉兵的到案经过。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>对庭审中被告人黄玉兵提出的辩解，本院经审理决定不予采信，理由如下：首先，被告人黄玉兵所作公安机关反铐其双手，对其刑讯逼供，其手肿得不能动了之辩解无证据印证。从收集在案的黄玉兵首次供述的同步录音录像看，审讯过程中其双手活动自如，神态、语气自然。同时收集在案的入所健康检查登记表亦可证实其次日进入看守所时四肢无异常、体表无伤情。其次，黄玉兵所作的刘菊花微信转账给其的10000元系其向刘菊花借款之辩解明显与常情相悖。刘菊花与黄玉兵素昧平生，而且刘菊花知晓黄玉兵涉毒，在此情形下，刘菊花将10000元巨款出借给黄玉兵令人难以置信。最后，黄玉兵在侦查阶段的首次供述，与证人刘菊花的证言互相吻合，而且其关于毒资去向的供述得到收集在案的其妻曾广灿银行交易明细的印证，应予认定。</div><a type='dir' name='CPYZ'></a><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>本院认为，被告人黄玉兵违反国家毒品管理制度，明知海洛因是毒品仍予以贩卖，数量在五十克以上，其行为已构成贩卖毒品罪。公诉机关指控的罪名成立，本院予以支持。综合全案证据，刘菊花虽系公安机关特勤人员，但本案不存在犯意引诱情形，故不能据此对被告人黄玉兵从轻处罚。被告人黄玉兵的辩护人就此提出的意见，本院不予采纳。依照《中华人民共和国刑法》第三百四十七条第一、二、七款、第五十六条第一款、第六十四条之规定，判决如下：</div><a type='dir' name='PJJG'></a><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>一、被告人黄玉兵犯贩卖毒品罪，判处有期徒刑十五年，剥夺政治权利五年，并处没收财产人民币二万元（刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二○一七年五月五日起至二○三二年五月四日止）；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>二、公诉机关移送本院扣押黄玉兵的人民币二千八百五十七元五角，予以追缴；继续追缴黄玉兵违法所得人民币二万一千六百四十二元五角；扣押后暂存于绍兴市公安局袍江分局的手机二只，予以没收。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向浙江省绍兴市中级人民法院提出上诉。书面上诉的，应当提交上诉状正本一份，副本二份。</div><a type='dir' name='WBWB'></a><div style='TEXT-ALIGN: right; LINE-HEIGHT: 25pt; MARGIN: 0.5pt 72pt 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>审　判　长　　谢信芳</div><div style='TEXT-ALIGN: right; LINE-HEIGHT: 25pt; MARGIN: 0.5pt 72pt 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>人民陪审员　　章定安</div><div style='TEXT-ALIGN: right; LINE-HEIGHT: 25pt; MARGIN: 0.5pt 72pt 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>人民陪审员　　钱美新</div><br/><div style='TEXT-ALIGN: right; LINE-HEIGHT: 25pt; MARGIN: 0.5pt 72pt 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>二〇一八年二月二日</div><div style='TEXT-ALIGN: right; LINE-HEIGHT: 25pt; MARGIN: 0.5pt 72pt 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>书　记　员　　卢雅娟</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>附页：相关法律条文</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>《中华人民共和国刑法》</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>第三百四十七条走私、贩卖、运输、制造毒品，无论数量多少，都应当追究刑事责任，予以刑事处罚。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>走私、贩卖、运输、制造毒品，有下列情形之一的，处十五年有期徒刑、无期徒刑或者死刑，并处没收财产：</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>（一）走私、贩卖、运输、制造鸦片一千克以上、海洛因或者甲基苯丙胺五十克以上或者其他毒品数量大的；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>（二）走私、贩卖、运输、制造毒品集团的首要分子；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>（三）武装掩护走私、贩卖、运输、制造毒品的；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>（四）以暴力抗拒检查、拘留、逮捕，情节严重的；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>（五）参与有组织的国际贩毒活动的。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>走私、贩卖、运输、制造鸦片二百克以上不满一千克、海洛因或者甲基苯丙胺十克以上不满五十克或者其他毒品数量较大的，处七年以上有期徒刑，并处罚金。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>走私、贩卖、运输、制造鸦片不满二百克、海洛因或者甲基苯丙胺不满十克或者其他少量毒品的，处三年以下有期徒刑、拘役或者管制，并处罚金；情节严重的，处三年以上七年以下有期徒刑，并处罚金。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>单位犯第二款、第三款、第四款罪的，对单位判处罚金，并对其直接负责的主管人员和其他直接责任人员，依照各该款的规定处罚。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>利用、教唆未成年人走私、贩卖、运输、制造毒品，或者向未成年人出售毒品的，从重处罚。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>对多次走私、贩卖、运输、制造毒品，未经处理的，毒品数量累计计算。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>第五十六条对于危害国家安全的犯罪分子应当附加剥夺政治权利；对于故意杀人、强奸、放火、爆炸、投毒、抢劫等严重破坏社会秩序的犯罪分子，可以附加剥夺政治权利。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>独立适用剥夺政治权利的，依照本法分则的规定。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>第六十四条犯罪分子违法所得的一切财物，应当予以追缴或者责令退赔；对被害人的合法财产，应当及时返还；违禁品和供犯罪所用的本人财物，应当予以没收。没收的财物和罚金，一律上缴国库，不得挪用和自行处理。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>?PAGE\*MERGEFORMAT?1?</div>
+secretary.name: 兵走私、贩卖、运输、制造毒品罪一审刑事判决书
+judge1.name: 
+judge2.name: 
+judge3.name: 
+
+Case: 28
+doc: 4e6358a8-ebf5-4211-ab2b-3ac4c2b5d999.html
+def.name: ﻿胡荣清非法持有毒品案一审刑事判决书
+crime.date: 2014年9月15日
+drug.type: 鸦片	海洛因	冰毒	甲基苯丙胺
+pun: 一、被告人胡荣清犯非法持有毒品罪，判处有期徒刑九年，刑期从判决执行之日起计算，判决执行前先行羁押的，羁押一日折抵刑期一日，即自2014年9月15日起至2023年9月14日止；并处罚金人民币5000元，罚金限于判决生效后十日内缴纳。	二、未随案移交的扣押物品依法予以没收，由扣押机关进行处理，上缴国库，并将处理结果函告我院。
+drug.weight: 79.99	77.95	2.07	1.42	4.74	3.94	6.64	5.04	2.51	1.99	6.1	5.09	0.32	0.11	12.7	9.64	2.81	1.89	1.02	0.72	12.25	88.92	102.59
+crime: 经审理查明，泸水县公安局民警通过前期摸排获悉有部分人员在泸水县六库镇天顺超市菜市场下方一出租房内贩卖毒品，2014年9月15日组织民警对该窝点人员进行入室抓捕，当场抓获在该窝点沙发上睡觉的何某（另案处理）和在卧室内睡觉的胡荣清，随后抓获前来该窝点敲门的唐某（另案处理）。经对该窝点进行搜查，从胡荣清卧室床垫下方一塑料盒内查获一黑色布袋，袋内装有疑似冰毒片剂4袋，经称量毛重79.99克，净重77.95克；一卫生纸包装物，内裹有疑似冰毒1袋，经称量毛重2.07克，净重1.42克，疑似冰毒片剂1袋，经称量毛重4.74克，净重3.94克，疑似冰毒片剂1袋，经称量毛重6.64克，净重5.04克。从胡荣清所穿裤子右包内搜出疑似冰毒片剂1袋，经称量毛重2.51克，净重1.99克；从胡荣清卧室床头柜处一挂包内搜出疑似卡苦1袋，经称量毛重6.1克，净重5.09克，疑似海洛因1袋，经称量毛重0.32克，净重0.11克，并在其卧室床头柜处搜出大量分装工具包。从何某所穿牛仔短裤右包内搜出一白色烟盒，烟盒内装有2大袋共10小袋用自封袋包装的疑似冰毒片剂，经称量毛重12.7克，净重9.64克，从何某所穿牛仔短裤右裤包上方小包内搜出4袋用自封袋包装的疑似冰毒片剂，经称量毛重2.81克，净重1.89克，从何某卧室衣柜东北角搜出疑似冰毒片剂毛重1.02克，净重0.72克。经怒江州公安司法鉴定中心（怒）公（司）鉴（理）字（2014）103号理化检验意见书鉴定，从送检的检材编号1、2、3、4、5检材中检出甲基苯丙胺成分，7号检材中检出海洛因成分，从6号检材中检出鸦片成分；经怒江州公安司法鉴定中心（怒）公（司）鉴（理）字（2014）104号理化检验意见书鉴定，从送检的检材编号8、9、10号的检材中检出甲基苯丙胺成分。																																																																																																				泸水县人民检察院指控，泸水县公安局民警通过前期摸排获悉有部分人员在泸水县六库镇天顺超市菜市场下方一出租房内贩卖毒品，2014年9月15日组织民警对该窝点人员进行入室抓捕，当场抓获在该窝点沙发上睡觉的何某（另案处理）和在卧室内睡觉的胡荣清，随后抓获前来该窝点敲门的唐某（另案处理）。经对该窝点进行搜查，从胡荣清卧室床垫下方一塑料盒内查获一黑色布袋，袋内装有疑似冰毒片剂4袋，经称量毛重79.99克，净重77.95克；一卫生纸包装物，内裹有疑似冰毒1袋，经称量毛重2.07克，净重1.42克，疑似冰毒片剂1袋，经称量毛重4.74克，净重3.94克，疑似冰毒片剂1袋，经称量毛重6.64克，净重5.04克。从胡荣清所穿裤子右包内搜出疑似冰毒片剂1袋，经称量毛重2.51克，净重1.99克；从胡荣清卧室床头柜处一挂包内搜出疑似卡苦1袋，经称量毛重6.1克，净重5.09克，疑似海洛因1袋，经称量毛重0.32克，净重0.11克，并在其卧室床头柜处搜出大量分装工具包。从何某所穿牛仔短裤右包内搜出一白色烟盒，烟盒内装有2大袋共10小袋用自封袋包装的疑似冰毒片剂，经称量毛重12.7克，净重9.64克，从何某所穿牛仔短裤右裤包上方小包内搜出4袋用自封袋包装的疑似冰毒片剂，经称量毛重2.81克，净重1.89克，从何某卧室衣柜东北角搜出疑似冰毒片剂毛重1.02克，净重0.72克。经对从胡荣清、何某处查获的疑似毒品海洛因、鸦片、冰毒进行鉴定，鉴定意见为从送检的检材编号1、2、3、4、5的检材中检出甲基苯丙胺成分，7号检材中检出海洛因成分；从6号检材中检出鸦片成分；从8、9、10号的检材中检出甲基苯丙胺成分。																																																																																																				7、扣押物品清单，证实在公安侦查阶段从何某处扣押了疑似冰毒片剂12.25克；从被告人胡荣清处扣押了疑似冰毒片剂88.92克、卡苦可疑物5.09克、海洛因可疑物0.11克、冰毒可疑物1.42克、毒资28126元的事实。																																																																																																				本院认为，被告人胡荣清违反国家毒品管理规定，非法持有毒品甲基苯丙胺102.59克、海洛因0.11克的行为已构成非法持有毒品罪，公诉机关指控的事实和罪名成立。鉴于被告人归案后认罪态度较好，如实供述犯罪事实，具有一定的悔罪表现，故酌情从轻处罚。辩护人提出由“特情”介入的辩护意见与查明的事实不符，故不予采纳。根据被告人的犯罪事实、犯罪性质、情节和对社会的危害程度，依照《中华人民共和国刑法》第三百四十八条、第五十二条、第五十三条、第六十四条之规定，判决如下：
+ruling.date: 书记员　　杨新全
+secretary.name: 清非法持有毒品案一审刑事判决书
+def: 被告人胡荣清，男，云南省泸水县人
+attorney: ['辩护人陈佳民，云南奉民律师事务所律师']
+judge1.name: 杨雪勤
+judge2.name: 李云燕
+judge3.name: 密贵四
+def.goodattitude: 1
+
+Case: 29
+doc: 21626f9b-1e42-4c00-b995-a8b600b372de.html
+def.name: ﻿赵秀丽走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2017年4月15日
+drug.type: 甲基苯丙胺
+pun: 一、被告人赵秀丽犯贩卖毒品罪，判处有期徒刑七年，并处罚金人民币7000元。	二、扣押的毒品甲基苯丙胺16.1克、OPPO牌白色直板手机1部，由扣押机关予以没收；毒品包装物塑料袋1个、毒品包装物塑料纸5张，作为证据保存。
+execution.date: 2017年4月26日
+drug.weight: 16.1
+crime: 二、扣押的毒品甲基苯丙胺16.1克、OPPO牌白色直板手机1部，由扣押机关予以没收；毒品包装物塑料袋1个、毒品包装物塑料纸5张，作为证据保存。
+juror.name: ['寸待勇']
+ruling.date: 二〇一八年二月二日
+secretary.name: 吴周竹
+def: 被告人赵秀丽，女，1968年7月21日生，汉族，小学文化，农民，云南省腾冲市人，家住云南省腾冲市
+attorney: ['辩护人杜德庄，云南正旭律师事务所律师']
+judge1.name: 李雪娇
+judge2.name: 鲁泽星
+judge3.name: 
+def.goodattitude: 1
+def.recid: 0
+
+Case: 30
+doc: df628f88-84ad-40ba-ba9d-a8e900b3f577.html
+def.name: ﻿郑某非法持有毒品一审刑事判决书
+crime.date: 2017年12月14日
+drug.type: 甲基苯丙胺	冰毒
+pun: 一、被告人郑某犯非法持有毒品罪，判处有期徒刑八个月，并处罚金人民币3000元。	二、扣押在案的违禁品依法予以没收。
+execution.date: 2017年12月19日
+drug.weight: 10.11	0.15
+crime: 弥渡县人民检察院指控：被告人郑某违反国家法律规定，于2017年12月14日随身携带毒品可疑物欲前往下关，16时许途经弥渡县红岩镇果园村公安检查站时，因形迹可疑被民警抓获，当场从其身上查获用塑料瓶包装的冰毒片剂可疑物1瓶、用塑料袋包装的冰毒片剂可疑物2袋、用蓝色烟壳纸包装的灰白色粉末状毒品可疑物1包。经称量，查获的冰毒片剂可疑物共净重10.11克，查获的灰白色粉末状毒品可疑物净重0.15克。经大理白族自治州公安司法鉴定中心检验，查获的可疑物中均检出甲基苯丙胺成分。
+ruling.date: 书记员　　向春雪
+secretary.name: 非法持有毒品一审刑事判决书
+def: 被告人郑某，男，1994年9月5日生于云南省弥渡县，汉族，初中文化，农民，住云南省大理白族自治州弥渡县
+attorney: ['辩护人董智宇，云南星震律师事务所律师']
+judge1.name: 李祖睿
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 31
+doc: 152510db-602d-41e5-9c06-a7da0116bbee.html
+def.name: ﻿熊斌走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2017年6月6日
+drug.type: 海洛因
+pun: 一、被告人熊斌犯贩卖毒品罪，判处有期徒刑四年，并处罚金5000元；原犯贩卖毒品罪判处有期徒刑五年，并处罚金3000元，剩余刑期19天；数罪并罚，决定合并执行有期徒刑四年，并处罚金8000元。	二、查获的毒品海洛因0.144克、涉案款项193元依法予以没收。
+execution.date: 2017年6月8日
+drug.weight: 0.144
+crime: 二、查获的毒品海洛因0.144克、涉案款项193元依法予以没收。
+juror.name: ['董有燕']
+ruling.date: 二〇一七年八月二日
+secretary.name: 石亚杰
+def: 被告人熊斌，男，1980年10月21日出生于临沧市临翔区，汉族，初中文化，无业，住临沧市临翔区
+judge1.name: 李世俊
+judge2.name: 郝袁
+judge3.name: 
+def.goodattitude: 1
+def.recid: 1
+
+Case: 32
+doc: 8f66a827-3d28-40e6-be8f-d779a922d92d.html
+def.name: ﻿闫某某贩卖毒品罪案一审刑事判决书
+pun: 一、被告人闫某某犯贩卖毒品罪，判处有期徒刑三年，并处罚金人民币3000元。	二、查获的毒品海洛因0.15克、手机1部，由扣押机关予以没收。
+execution.date: 2014年7月9日
+drug.type: 海洛因
+drug.weight: 0.15
+crime: 二、查获的毒品海洛因0.15克、手机1部，由扣押机关予以没收。																																																																																																				二、查获的毒品海洛因0.15克、手机1部，由扣押机关予以没收。
+ruling.date: 书记员　　徐　娟
+secretary.name: 某贩卖毒品罪案一审刑事判决书
+def: 被告人闫某某，男，1989年6月28日生，汉族，小学文化，云南省永平县人，农民
+attorney: ['辩护人张婷婷，云南援边律师事务所律师']
+judge1.name: 李雪娇
+judge2.name: 濮进华
+judge3.name: 刘其娟
+def.goodattitude: 1
+def.recid: 0
+
+Case: 33
+doc: 977d3df7-04be-40ba-861e-c0e0d3494f21.html
+def.name: ﻿苏为新贩卖毒品案一审刑事判决书
+pun: 一、被告人苏为新犯贩卖毒品罪，判处有期徒刑三年二个月，并处罚金人民币2000元。	二、所扣押的犯罪工具三星手机1部和人民币200元，予以没收。
+execution.date: 2014年4月26日
+drug.type: 甲基苯丙胺
+drug.weight: 0.728	0.91	1.456	0.091
+crime.date: 2014年3月10日
+crime: 施甸县人民检察院指控：被告人苏为新于2014年3月10日左右的一天，在其承租的施甸县甸阳镇勐底路曹某某家出租房二楼202房间以200元人民币的价格贩卖给吸毒人员蒋某某8粒毒品甲基苯丙胺，约0.728克；同年同月20日左右的一天，被告人苏为新在相同的地点又以200元人民币的价格贩卖给蒋某某8粒毒品甲基苯丙胺，约0.728克；同年4月10日左右的一天，被告人苏为新在相同的地点以同样的价格贩卖给蒋某某8粒毒品甲基苯丙胺，约0.728克。4月23日傍晚，被告人苏为新在摩苍路大阳摩托车店旁，以200元人民币的价格贩卖给吸毒人员李某某10粒毒品甲基苯丙胺，约0.91克。被告人苏为新以非法牟利为目的，明知是毒品而多次贩卖，情节严重，其行为已构成贩卖毒品罪。鉴于被告人苏为新能坦白认罪，可从轻处罚，建议判处其三年以上四年以下有期徒刑，并处罚金。																																																																																																				审理查明：2014年3月10日左右的一天，蒋某某让被告人苏为新为其购买200元钱的毒品甲基苯丙胺，苏为新以200元钱与他人购买了10粒，之后苏为新私自留下2粒，将剩余的8粒毒品甲基苯丙胺（约0.728克），在其租住的位于施甸县甸阳镇勐底路曹某某家出租房二楼202房间里交给蒋某某；同月20日左右、4月10日左右的一天，被告人苏为新又两次为蒋某某分别购买了200元钱的毒品甲基苯丙胺，并以同样的方式扣减了共4粒毒品，之后交给蒋某某16粒，约1.456克。																																																																																																				（二）侦查实验笔录及照片，证实公安机关从库存的毒品中随机抽取10粒甲基苯丙胺，经被告人苏为新确认特征后，进行称量，重0.91克，由此计算出每粒甲基苯丙胺约重0.091克。
+juror.name: ['杨朝珠']
+ruling.date: 二〇一四年八月二十八日
+secretary.name: 杨娟
+def: 被告人苏为新，男，因本案于2014年4月26日被刑事拘留，同年5月30日被逮捕
+judge1.name: 段朝翠
+judge2.name: 杨钒
+judge3.name: 
+
+Case: 34
+doc: cba4f9a9-3982-4b4e-becf-a85700a6d5a3.html
+def.name: ﻿罗尚贵走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2016年12月20日
+drug.type: 冰毒	甲基苯丙胺
+pun: 一、被告人罗尚贵犯贩卖毒品罪，判处有期徒刑一年七个月(刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2017年8月7日起至2019年3月6日止)，并处罚金人民币5,000元（罚金限判决生效之日起三个月内缴纳）。	二、毒品甲基苯丙胺4.95克、毒资人民币500元，依法予以没收。
+drug.weight: 4.95
+crime: 二、毒品甲基苯丙胺4.95克、毒资人民币500元，依法予以没收。
+juror.name: ['曾敬连', '杨远江']
+ruling.date: 二〇一七年八月七日
+secretary.name: 罗琴
+def: 被告人罗尚贵，男，生于1976年7月12日，汉族，小学文化，云南省威信县人，无业，住威信县
+judge1.name: 吴天华
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 35
+doc: 2e7d24a2-78dc-42f4-9037-a8b600b37239.html
+def.name: ﻿李某某走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2017年4月13日
+drug.type: 海洛因
+pun: 一、被告人李某某犯贩卖毒品罪，判处有期徒刑二年，并处罚金人民币2000元。	二、违法所得款人民币400元，予以追缴后上缴国库；扣押的毒品海洛因0.75克，由扣押机关予以没收；毒品包装物塑料管5截，作为证据保存。
+execution.date: 2017年4月21日
+drug.weight: 0.75
+crime: 二、违法所得款人民币400元，予以追缴后上缴国库；扣押的毒品海洛因0.75克，由扣押机关予以没收；毒品包装物塑料管5截，作为证据保存。
+ruling.date: 书记员　　李晓曼
+secretary.name: 某走私、贩卖、运输、制造毒品一审刑事判决书
+def: 被告人李某某，男，1984年10月18日生，汉族，初中文化，农民，云南省腾冲市人
+attorney: ['辩护人尹可成，云南正旭律师事务所律师']
+judge1.name: 李雪娇
+judge2.name: 尹楚云
+judge3.name: 郭美玉
+def.goodattitude: 1
+
+Case: 36
+doc: d12a4e80-2632-4eab-9a4c-604fa090b88c.html
+def.name: ﻿冯阿昌运输毒品案一审刑事判决书
+crime.date: 2014年7月19日
+drug.type: 甲基苯丙胺
+pun: 一、被告人冯阿昌犯运输毒品罪，判处无期徒刑，并处没收个人全部财产。	二、本案查获的毒品甲基苯丙胺3625克依法予以没收。查获手提袋1个作为物证予以封存。
+drug.weight: 3625
+crime: 二、本案查获的毒品甲基苯丙胺3625克依法予以没收。查获手提袋1个作为物证予以封存。
+ruling.date: 二〇一五年二月二日
+secretary.name: 殷亮
+def: 被告人冯阿昌（自报身份），男，1986年10月10日出生，汉族，文盲，农民，国籍不明
+judge1.name: 张晓刚
+judge2.name: 杨剑兰
+judge3.name: 杨国永
+def.goodattitude: 1
+def.recid: 0
+
+Case: 37
+doc: 497e246a-8cef-4b41-8c53-a89b00f2cfce.html
+def.name: ﻿梁燕国走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2017年6月6日
+drug.type: 海洛因
+pun: 一、被告人梁燕国犯运输毒品罪，判处有期徒刑十五年，并处没收个人财产人民币10000元；	二、查获的毒品海洛因净重349.29克依法予以没收。
+execution.date: 2017年6月7日
+drug.weight: 349.29
+crime: 二、查获的毒品海洛因净重349.29克依法予以没收。
+juror.name: ['施方梅', '李泽']
+ruling.date: 二〇一八年一月十七日
+secretary.name: 高宾曦
+def: 被告人梁燕国，男，1987年6月20日出生，汉族，河北省邯郸市临漳县人，初中文化，住河北省邯郸市临漳县
+judge1.name: 刘华
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 38
+doc: 21c8908b-f7a2-4666-b5d2-2a33f7ddd16c.html
+def.name: ﻿胡某某贩卖毒品案一审刑事判决书
+drug.type: 海洛因
+pun: 一、被告人胡某某犯贩卖毒品罪，判处管制十个月（刑期自判决执行之日起计算），并处罚金人民币3000元（罚金限于本判决生效后十日内缴清）。	二、涉案毒品海洛因1.27克予以没收并依法处理，毒资人民币200元予以没收并上缴国库。
+drug.weight: 1.27
+crime: 二、涉案毒品海洛因1.27克予以没收并依法处理，毒资人民币200元予以没收并上缴国库。																																																																																																				二、涉案毒品海洛因1.27克予以没收并依法处理，毒资人民币200元予以没收并上缴国库。
+ruling.date: 书记员　　顾娅婷
+secretary.name: 某贩卖毒品案一审刑事判决书
+def: 被告人胡某某，女，1979年3月4日出生，汉族，初中文化
+judge1.name: 靳文集
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 39
+doc: 1132f75a-ac11-4fd0-842f-002013754d98.html
+def.name: ﻿张某某非法种植毒品原植物案一审刑事判决书
+crime.date: 2015年3月31日
+drug.type: 罂粟
+pun: 被告人张某某犯非法种植毒品原植物罪，判处有期徒刑八个月，缓刑一年，并处罚金人民币500元。
+drug.weight: 
+crime: []
+ruling.date: 书记员　　张秀琪
+secretary.name: 某非法种植毒品原植物案一审刑事判决书
+def: 被告人张某某，男，汉族，小学文化，农民
+judge1.name: 张曙凤
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 40
+doc: 0f58a021-723a-4d08-8e7e-a0c4554c2496.html
+def.name: ﻿李某甲贩卖毒品案一审刑事判决书
+pun: 被告人李某甲犯贩卖毒品罪（未遂），判处有期徒刑一年，并处罚金2000元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2013年6月28日起至2014年6月27日止；罚金限判决生效之日起十日内缴纳）。
+drug.type: 海洛因
+drug.weight: 1.13
+crime.date: 2013年6月27日
+crime: 公诉机关指控：2013年6月27日下午，被告人李某甲携带四个小包可疑物到昆明市官渡区关上村一出租房大门口准备与李某乙交易时被民警当场抓获。经鉴定，被告人欲向他人贩卖的毒品系海洛因，经称量净重1.13克。公诉机关认为，被告人李某甲贩卖毒品，其行为已触犯《中华人民共和国刑法》第三百四十七条之规定，应当以贩卖毒品罪追究其刑事责任。被告人归案后认罪态度较好，可以酌情从轻处罚。建议判处被告人有期徒刑一年到一年半。
+ruling.date: 书记员　　许武进
+secretary.name: 甲贩卖毒品案一审刑事判决书
+def: 被告人李某甲，女，汉族，1968年8月7日生，昭通市镇雄县人，文盲农民，住云南省昭通市镇雄县
+judge1.name: 母顺芬
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 41
+doc: fbd82c2a-569a-423b-b02d-a74e00f08021.html
+def.name: ﻿王平容留他人吸毒一审刑事判决书
+crime.date: 2000年4月8日
+drug.type: 甲基苯丙胺	冰毒
+pun: 一、被告人王平犯容留他人吸毒罪，判处有期徒刑十个月，并处罚金人民币2000元。罚金限期于判决生效后一个月内缴清。	二、扣押在案的冰毒0.48克，锡纸一卷，马壶一个，予以没收，由宾川县公安局处理。
+execution.date: 2016年9月10日
+drug.weight: 0.48
+crime: 二、扣押在案的冰毒0.48克，锡纸一卷，马壶一个，予以没收，由宾川县公安局处理。																																																																																																				二、扣押在案的冰毒0.48克，锡纸一卷，马壶一个，予以没收，由宾川县公安局处理。
+juror.name: ['杨本理']
+ruling.date: 二〇一七年二月十五日
+secretary.name: 陈雨濛
+def: 被告人王平，男，1988年6月25日生，汉族，小学文化，云南省宾川县人，农民
+judge1.name: 杨丹
+judge2.name: 杨正良
+judge3.name: 
+def.goodattitude: 1
+
+Case: 42
+doc: 15760d8c-d937-40d0-a9d9-53b57afde8ad.html
+def.name: ﻿刘冠男运输毒品案一审刑事判决书
+pun: 一、被告人刘冠男犯运输毒品罪，判处有期徒刑十五年，并处没收财产人民币30000元。	二、扣押在案的毒品甲基苯丙胺228克、银行卡一张予以没收销毁，手机一部、人民币1000元予以没收上缴。
+execution.date: 2014年10月19日
+drug.type: 甲基苯丙胺
+drug.weight: 228
+crime: 二、扣押在案的毒品甲基苯丙胺228克、银行卡一张予以没收销毁，手机一部、人民币1000元予以没收上缴。																																																																																																				二、扣押在案的毒品甲基苯丙胺228克、银行卡一张予以没收销毁，手机一部、人民币1000元予以没收上缴。
+juror.name: ['罗曼娥', '豆思权']
+ruling.date: 二〇一五年二月六日
+secretary.name: 李爱萍
+def: 被告人刘冠男，男，因本案，于2014年10月19日被华宁县公安局刑事拘留，同年10月31日执行逮捕
+judge1.name: 张素珍
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 43
+doc: d2a42961-8c66-4f1e-89c2-a95400fd1f1b.html
+def.name: ﻿吴某某贩卖毒品一审刑事判决书
+pun: 一、被告人吴某某犯贩卖毒品罪，判处有期徒刑一年，并处罚金人民币2000元（限判决生效后30日内交纳）。	二、涉案毒品海洛因0.55克，予以没收。
+execution.date: 2016年9月12日
+drug.type: 海洛因
+drug.weight: 0.55
+crime: 二、涉案毒品海洛因0.55克，予以没收。																																																																																																				二、涉案毒品海洛因0.55克，予以没收。
+ruling.date: 对多次走私、贩卖、运输、制造毒品，未经处理的，毒品数量累计计算。
+secretary.name: 某贩卖毒品一审刑事判决书
+def: 被告人吴某某，女，1979年5月8日出生，住镇雄县
+judge1.name: 严隆高
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 44
+doc: 2cbc3ac3-d446-4513-ae8a-4696748eb73e.html
+def.name: ﻿阳松江、阳明均走私、贩卖、运输、制造毒品罪一审刑事判决书
+crime.date: 2013年3月6日
+drug.type: 甲基苯丙胺
+pun: 一、被告人阳松江犯运输毒品罪，判处有期徒刑十年，并处罚金人民币5000元；	二、被告人阳明均犯运输毒品罪，判处有期徒刑十一年，并处罚金人民币6000元；	三、查获的毒品甲基苯丙胺229.1克予以没收。
+execution.date: 2013年3月7日
+drug.weight: 229.1
+crime: 三、查获的毒品甲基苯丙胺229.1克予以没收。
+juror.name: ['袁幼青']
+ruling.date: 二〇一四年三月十日
+secretary.name: 张潇文
+def: 被告人阳松江，男，1988年5月27日生，汉族，初中文化，农民，住重庆市南川区	被告人阳明均，男，1983年2月5日生，汉族，初中文化，农民，重庆市南川区
+judge1.name: 涂洁
+judge2.name: 蒋煜
+judge3.name: 
+def.goodattitude: 1
+
+Case: 45
+doc: 1adffdb5-37e8-411e-adda-b3d5cb771486.html
+def.name: ﻿王某贩卖毒品罪一审刑事判决书
+pun: 一、被告人王某犯贩卖毒品罪，判处有期徒刑三年，并处罚金人民币3000元。罚金限于判决发生法律效力之日起十日内缴纳。	二、公安机关扣押的毒品甲基苯丙胺0.99克，予以没收。
+drug.type: 甲基苯丙胺
+drug.weight: 0.99
+crime: 二、公安机关扣押的毒品甲基苯丙胺0.99克，予以没收。																																																																																																				二、公安机关扣押的毒品甲基苯丙胺0.99克，予以没收。
+juror.name: ['姚忠龙', '董玉焕']
+ruling.date: 二〇一六年六月二十日
+secretary.name: 王怡梅
+def: 被告人王某，男，1987年10月24日生，回族，出生地云南省个旧市
+judge1.name: 徐进
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 46
+doc: 0a80c7ff-bf61-45cd-8bb7-a95900f12423.html
+def.name: ﻿周刚容留他人吸毒罪一审刑事判决书
+crime.date: 2016年6月6日
+drug.type: 海洛因	冰毒	甲基苯丙胺
+pun: 被告人周刚犯容留他人吸毒罪，判处有期徒刑七个月，并处罚金3000元。（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2016年7月5日起至2017年2月4日止。罚金已缴清）。
+drug.weight: 1.35	3.6
+crime: 经审理查明，2016年6月6日，被告人周刚在禄丰县金山镇董户村157号住房内容留宋某、李某、张某1以吸食、静脉注射的方式吸食毒品海洛英和甲基苯丙胺。禄丰县公安局禁毒大队民警在周刚住处当场缴获毒品海洛英零包可疑物80个，净重1.35克，缴获毒品甲基苯丙胺可疑物（冰毒片剂）58颗，净重3.6克。经鉴定，在周刚住处查获的毒品可疑物中检出海洛因成分和甲基苯丙胺成分。																																																																																																				禄丰县人民检察院指控：2016年6月6日，被告人周刚在禄丰县金山镇董户村157号住房内容留宋某、李某、张某1以吸食、静脉注射的方式吸食毒品海洛英和甲基苯丙胺。禄丰县公安局禁毒大队民警在周刚住处当场缴获毒品海洛英零包可疑物80个，净重1.35克，缴获毒品甲基苯丙胺可疑物（冰毒片剂）58颗，净重3.6克。经鉴定，在周刚住处查获的毒品可疑物中检出海洛因成分和甲基苯丙胺成分。
+ruling.date: 书记员　　李　敏
+secretary.name: 容留他人吸毒罪一审刑事判决书
+def: 被告人周刚（曾用名：徐刚），男，1980年12月12日生，云南省禄丰县人，汉族，初中文化，农民，住禄丰县
+attorney: ['辩护人杨宏伟，云南延德律师事务所律师']
+judge1.name: 杨跃明
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 47
+doc: 769e4dfc-3a7a-48b6-a403-8199638a903b.html
+def.name: ﻿王XX贩卖毒品案一审刑事判决书
+crime.date: 2015年6月1日
+drug.type: 海洛因
+pun: 一、被告人王XX犯贩卖毒品罪，判处有期徒刑三年，并处罚金人民币2000元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2015年6月3日起至2018年6月2日止；罚金限期于本判决生效后十日内缴纳）。	二、通话清单光盘一张，随案保存。	三、毒品海洛因0.2克，依法予以没收销毁。（未随案移送）
+drug.weight: 0.2
+crime: 三、毒品海洛因0.2克，依法予以没收销毁。（未随案移送）
+juror.name: ['潘兴国', '孔繁贵']
+ruling.date: 二〇一六年一月二十五日
+secretary.name: 肖星
+def: 被告人王XX（绰号：小刀、阿刀，小名：阿伟），男，1977年12月20日生，回族，云南省建水县人，小学文化，农民
+judge1.name: 樊树云
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 48
+doc: 72f58b9d-ec71-4e0f-97b1-ba3443f9386f.html
+def.name: ﻿龚尚操运输毒品案一审刑事判决书
+crime.date: 2014年10月17日
+drug.type: 海洛因
+pun: 一、被告人龚尚操犯运输毒品罪，判处有期徒刑十五年，并处没收个人财产人民币二万元。	二、涉案毒品海洛因315克予以没收。
+execution.date: 2014年10月20日
+drug.weight: 315
+crime: 二、涉案毒品海洛因315克予以没收。
+ruling.date: 书记员　　李　娜
+secretary.name: 操运输毒品案一审刑事判决书
+def: 被告人龚尚操，男，1996年9月9日生，汉族，贵州省凤冈县人，初中文化，农民，因本案于2014年10月20日被楚雄市公安局刑事拘留，同年11月21日被逮捕
+judge1.name: 李孔俊
+judge2.name: 杨忠祥
+judge3.name: 黄雨倩
+def.goodattitude: 1
+
+Case: 49
+doc: 8d16ad7e-74a9-418a-bb7c-a95a01376dfd.html
+def.name: ﻿邓某某犯贩卖毒品罪一案一审刑事判决书
+crime.date: 2017年5月9日
+drug.type: 海洛因
+pun: 一、被告人邓某某犯贩卖毒品罪，判处有期徒刑九个月，并处罚金人民币2000元。
+execution.date: 2017年5月9日
+drug.weight: 0.3
+crime: 经审理查明，2017年5月9日上午，被告人邓某某接到吸毒人员彭仲强购买海洛因零包的电话，二人商定彭仲强以200元的价格向邓某某购买海洛因零包2个，在盐津县普洱镇铁索桥处进行交易。同日12时许，邓某某前往普洱镇铁索桥处等候。后被闻讯赶来的公安民警抓获，当场从邓某某身上查获毒品海洛因零包可疑物6个，净重0.3克。经检验，6个毒品可疑物中均检出海洛因成分。																																																																																																				经审理查明，2017年5月9日上午，被告人邓某某接到吸毒人员彭仲强购买海洛因零包的电话，二人商定彭仲强以200元的价格向邓某某购买海洛因零包2个，在盐津县普洱镇铁索桥处进行交易。同日12时许，邓某某前往普洱镇铁索桥处等候。后被闻讯赶来的公安民警抓获，当场从邓某某身上查获毒品海洛因零包可疑物6个，净重0.3克。经检验，6个毒品可疑物中均检出海洛因成分。
+ruling.date: 第五十三条罚金在判决指定的期限内一次或者分期缴纳。期满不缴纳的，强制缴纳。对于不能全部缴纳罚金的，人民法院在任何时候发现被执行人有可以执行的财产，应当随时追缴。如果由于遭遇不能抗拒的灾祸缴纳确实有困难的，可以酌情减少或者免除。
+secretary.name: 某犯贩卖毒品罪一案一审刑事判决书
+def: 被告人邓某某，绰号“邓三娃”，男，汉族，云南省盐津县人，初中文化，户籍所在地云南省昭通市盐津县，住盐津县普洱镇
+judge1.name: 王俊
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 50
+doc: 08409d58-238f-492e-b51f-a9670102b36c.html
+def.name: ﻿刘坤走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2016年12月26日
+drug.type: 冰毒	甲基苯丙胺
+pun: 被告人刘坤犯贩卖毒品罪，判处有期徒刑一年零六个月，并处罚金人民币10000元（罚金限本判决生效后一月内交本院执行）。
+execution.date: 2016年12月27日
+drug.weight: 2.71	0.14	0.93	0.32
+crime: 经审理查明，2016年11月份以来，被告人刘坤给一个绰号叫“耶稣”男子购买毒品“小马”和冰毒，然后将购买的毒品贩卖给他人。2016年12月26日17时30分，会泽县公安局古城派出所民警在会泽县古城街道办事处春晓街小拇指修理厂对面的公路上将贩卖毒品给肖某的肖坤抓获，当场从刘坤裤包里查获毒品可疑物“小马”29颗，冰毒一管；从肖某身上查获毒品可疑物“小马”10颗，冰毒两管。经称量，从刘坤身上查获的毒品可疑物“小马”净重2.71克，冰毒净重0.14克；从肖某身上查获的毒品可疑物“小马”净重0.93克，冰毒净重0.32克。经鉴定，查获的毒品疑似物中均检出甲基苯丙胺。																																																																																																				会泽县人民检察院指控，2016年11月份以来，被告人刘坤给一个绰号叫“耶稣”男子购买毒品“小马”和冰毒，然后将购买的毒品贩卖给他人。2016年12月26日17时30分，会泽县公安局古城派出所民警在会泽县古城街道办事处春晓街小拇指修理厂对面的公路上将贩卖毒品给肖某的刘坤抓获，当场从刘坤裤包里查获毒品可疑物“小马”29颗，冰毒一管；从肖某身上查获毒品可疑物“小马”10颗，冰毒两管。经称量，从刘坤身上查获的毒品可疑物“小马”净重2.71克，冰毒净重0.14克；从肖某身上查获的毒品可疑物“小马”净重0.93克，冰毒净重0.32克。经鉴定，查获的毒品疑似物中均检出甲基苯丙胺。
+juror.name: ['杨天发', '康德坤']
+ruling.date: 二〇一七年五月二十五日
+secretary.name: 杨天玲
+def: 被告人刘坤，男，汉族，1996年4月26日生，小学文化，农民，云南省会泽县人，住会泽县
+judge1.name: 谢德华
+judge2.name: 
+judge3.name: 
+
+Case: 51
+doc: 4955a270-b25e-4f68-9c22-a84e008a2a17.html
+def.name: ﻿李明成走私、贩卖、运输、制造毒品一审刑事判决书
+drug.type: 海洛因
+pun: 一、被告人李明成犯贩卖毒品罪，判处有期徒刑三年，并处罚金人民币三万元。	二、扣押被告人李明成的毒品海洛因1.28克（提取检材后剩余）依法予以没收；违法所得继续追缴后上缴国库。
+execution.date: 2017年6月21日
+drug.weight: 1.28
+crime: 二、扣押被告人李明成的毒品海洛因1.28克（提取检材后剩余）依法予以没收；违法所得继续追缴后上缴国库。
+juror.name: ['杨丽翠', '倪锦文']
+ruling.date: 二〇一七年九月二十五日
+secretary.name: 辉艳萍
+def: 被告人李明成，男，1980年4月20日生于云南省保山市隆阳区，汉族，初中文化，住保山市隆阳区，曾因吸食毒品成瘾于2017年2月23日被保山市公安局隆阳分局决定行政拘留十日，并决定强制隔离戒毒二年
+judge1.name: 杨正
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 52
+doc: 816b3b2e-6ca9-4ff8-9940-a84100f6fd5f.html
+def.name: ﻿熊某某贩卖毒品罪一审刑事判决书
+drug.type: 甲基苯丙胺
+pun: 一、被告人熊某某犯贩卖毒品罪，判处有期徒刑三年（刑期自判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2016年12月29日起至2019年12月28日止），并处罚金人民币2000元（限判决生效之日起十日内缴清）。	二、涉案毒品甲基苯丙胺7.26克予以没收并依法处理。
+drug.weight: 7.26
+crime: 二、涉案毒品甲基苯丙胺7.26克予以没收并依法处理。
+ruling.date: 书记员　温晓兰
+secretary.name: 某贩卖毒品罪一审刑事判决书
+def: 被告人熊某某，男，汉族，1994年1月1日出生，小学文化，无业，户籍所在地：四川省广安市广安区
+judge1.name: 孟阳
+judge2.name: 
+judge3.name: 
+def.recid: 1
+def.goodattitude: 1
+
+Case: 53
+doc: c92d27d1-61dc-4851-84f0-b2198834fad5.html
+def.name: ﻿邹学云贩卖毒品案一审刑事判决书
+crime.date: 2013年5月11日
+drug.type: 海洛因
+pun: 一、被告人邹学云犯贩卖毒品罪，判处无期徒刑，剥夺政治权利终身，并处没收财产人民币3万元。	二、涉案毒品海洛因353克没收销毁，海信手机一部没收上缴国库。
+drug.weight: 353
+crime: 二、涉案毒品海洛因353克没收销毁，海信手机一部没收上缴国库。
+ruling.date: 二〇一四年一月二十二日
+secretary.name: 杨海静
+def: 被告人邹学云，男，1977年11月12日生，汉族，云南省昆明市嵩明县人，小学文化，农民
+attorney: ['辩护人李茂昌，云南秀实律师事务所律师']
+judge1.name: 马武
+judge2.name: 李斌
+judge3.name: 王丽
+def.goodattitude: 1
+def.recid: 1
+
+Case: 54
+doc: 8abdc39f-908c-4b99-b2b6-36bb66d6f9eb.html
+def.name: ﻿孔某某走私、贩卖、运输、制造毒品罪一审刑事判决书
+crime.date: 2013年10月12日
+drug.type: 甲基苯丙胺
+pun: 一、被告人孔某某犯贩卖毒品罪，判处有期徒刑九个月，并处罚金人民币1000元；	二、查获的作案工具、毒资人民币300元及毒品甲基苯丙胺0.66克予以没收。
+drug.weight: 0.66
+crime: 二、查获的作案工具、毒资人民币300元及毒品甲基苯丙胺0.66克予以没收。
+juror.name: ['宋庆昆', '夏虹']
+ruling.date: 二〇一四年八月十五日
+secretary.name: 杨律
+def: 被告人孔某某，男，汉族，小学文化
+judge1.name: 涂洁
+judge2.name: 
+judge3.name: 
+def.recid: 1
+
+Case: 55
+doc: 405da873-8f99-442f-a7af-a760011a8102.html
+def.name: ﻿李正荣走私、贩卖、运输、制造毒品一审刑事判决书
+drug.type: 吗啡
+pun: 一、被告人李正荣犯贩卖、运输毒品罪，判处有期徒刑十五年，并处没收个人财产人民币10万元。	二、公安机关扣押的手机一部，依法没收，上缴国库。
+execution.date: 2015年10月28日
+drug.weight: 4010
+crime: 同年8月间，被告人李正荣邀约王某、李某2（二人另案处理，均已判刑）骑摩托车到江城县购买了4包毒品“黄皮”运回绿春交由李某2保管。12月2日，李某1在接到张某让其将毒品带到昆明交易的通知后，通过被告人李正荣安排，由李某2、王某二人分别驾驶牌号为云Ｇ×××××、云Ｇ×××××的两辆二轮摩托车一同将毒品运往个旧市冷墩，后由王某独自携带毒品搭乘长途客车于次日下午15时许到达昆明并将毒品交给李某1。16时许，李某1、张某二人在昆明市三元宾馆附近的大桥旁进行交易，张某向李某1支付了购毒款人民币47700元及两条中华香烟，李某1将内装4包毒品的蓝色双肩包交给张某后与张某分开。后公安人员于当日17时许，先后在昆明市官渡区老螺蛳湾浩宏物流门口处将张某抓获归案，并当场从其随身携带的黑色手提包查获4包黄色外包装的毒品可疑物；在螺蛳湾国际商贸城奥港星城美容美发烫染沙龙门前的广场将李某1、王某抓获归案；于次日在绿春县街心花园处将李某2抓获归案。2015年10月28日11时许，公安人员在绿春县省道214线K424+500M处将被告人李正荣抓获归案。经称量和鉴定：公安人员从张某处查获的4包毒品可疑物净重4010克；从中均检出毒品吗啡、可待因、罂粟碱、蒂巴因、那某成分，其中吗啡含量介于75.1g/100g至79.0g/100g之间。
+ruling.date: 书记员　　阳琳娜
+secretary.name: 荣走私、贩卖、运输、制造毒品一审刑事判决书
+def: 被告人李正荣，男，1987年11月24日生，瑶族，云南省绿春县人，文盲，农民，住绿春县
+judge1.name: 赵庆武
+judge2.name: 郑立新
+judge3.name: 韩全辉
+def.recid: 1
+
+Case: 56
+doc: b5572ee7-ad1a-4897-a3af-d69486e5ca9d.html
+def.name: ﻿王一舟贩卖毒品罪一审刑事判决书
+pun: 一、被告人王一舟犯贩卖毒品罪，判处有期徒刑三年零三个月，并处罚金人民币2000元。罚金限于判决发生法律效力之日起十日内缴纳。	二、个旧市公安局依法扣押的作案工具“苹果”牌手机1部、毒品甲基苯丙胺1.85克，依法由公安机关予以没收。
+execution.date: 2014年9月21日
+drug.type: 甲基苯丙胺
+drug.weight: 1.85
+crime: 二、个旧市公安局依法扣押的作案工具“苹果”牌手机1部、毒品甲基苯丙胺1.85克，依法由公安机关予以没收。																																																																																																				二、个旧市公安局依法扣押的作案工具“苹果”牌手机1部、毒品甲基苯丙胺1.85克，依法由公安机关予以没收。
+juror.name: ['姚忠龙', '董玉焕']
+ruling.date: 二〇一五年一月九日
+secretary.name: 邓晓芳
+def: 被告人王一舟，男，1993年9月12日生，纳西族，云南省个旧市人，初中文化，无职业
+judge1.name: 徐进
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 57
+doc: d9624190-c46b-43da-b1f6-78d7da7a194b.html
+def.name: ﻿杨永双贩卖毒品案一审刑事判决书
+drug.type: 甲基苯丙胺
+pun: 被告人杨永双犯贩卖毒品罪，判处有期徒刑十一年零六个月，并处罚金人民币壹万贰仟元。（罚金限判决生效后三个月内缴纳）
+execution.date: 2015年12月30日
+drug.weight: 0.2902
+crime.date: 2015年10月30日
+crime: 公诉机关指控：2015年8月至2015年12月期间，被告人杨永双为牟取利益，先后多次通过电话联系等方式，在通海县秀山街道金山二八街、金山小学附近、金山加油站、县城老客运站旁、金山增清冷库等地，先后将39.3克毒品甲基苯丙胺片剂贩卖给吸毒人员沐XX、禹X、王XX、胡X、罗XX、张XX、普X、张XX、钱X、胡X、刘XX等人吸食。2015年10月30日许，被告人杨永双在通海县秀山街道万家社区七组水塘村33号出租房内被通海县公安局禁毒大队民警抓获，当场从其住处查获毒品可疑物3颗。后经鉴定，被查获的可疑物中检出甲基苯丙胺成分，净重0.2902克。
+juror.name: ['普忠云']
+ruling.date: 二〇一六年五月十九日
+secretary.name: 吴晓燕
+def: 被告人杨永双，男
+judge1.name: 王伟
+judge2.name: 马琼
+judge3.name: 
+def.goodattitude: 1
+
+Case: 58
+doc: 5751613c-3354-4286-b4ba-a7e7010d675b.html
+def.name: ﻿沙学华运输毒品一案一审刑事判决书
+pun: 一、被告人沙学华犯运输毒品罪，判处有期徒刑七年七个月，并处罚金二千元。	二、随案移送的黑色双肩包一个，依法没收存档。	三、随案移送的金色aloes手机一部、金色vivo手机一部，发还被告人沙学华。
+execution.date: 2017年3月6日
+drug.type: 甲基苯丙胺
+drug.weight: 18.89
+crime.date: 2017年3月4日
+crime: 2017年3月4日被告人沙学华在泸水市片马镇向一名缅甸籍男子购买到186颗毒品，后将毒品可疑物存放在其黑色双肩包内。次日即2017年3月5日8时许从片马镇搭乘一辆面包车到鲁掌镇跃进桥三岔路口下车，后又搭乘一辆白色车牌为云Q579**往福贡方向行驶的面包车，当其乘坐的车辆行驶至福贡县匹河乡民族中学飞来石旁时，被福贡县公安局民警查获，当场从被告人沙学华随身携带的黑色双肩包内查获疑似毒品净重18.89克。经怒江州公安局司法鉴定中心鉴定查获的毒品可疑物中检测出甲基苯丙胺成分。																																																																																																				2017年3月4日，被告人沙学华在泸水市片马镇，以人民币1400元的价格，从一名缅甸籍男子处购得186颗甲基苯丙胺片剂。次日8时许，被告人沙学华从片马镇搭乘一辆面包车到泸水市鲁掌镇跃进桥三岔路口下车，后又搭乘一辆车牌号为云Q579**驶往福贡县方向的白色面包车，当其乘坐的车辆行驶至福贡县民族中学“飞来石”旁时，被福贡县公安局民警查获，当场从被告人沙学华随身携带的黑色双肩包内查获疑似毒品一包。经称量查获的疑似毒品净重18.89克，经鉴定查获的疑似毒品中检测出甲基苯丙胺成分。
+ruling.date: 犯罪嫌疑人虽不具有前两款规定的自首情节，但是如实供述自己罪行的，可以从轻处罚；因其如实供述自己罪行，避免特别严重后果发生的，可以减轻处罚。
+secretary.name: 华运输毒品一案一审刑事判决书
+def: 被告人沙学华，男
+judge1.name: 杨凤&#xB;
+judge2.name: 李荣华&#xB;
+judge3.name: 彭佩珍
+def.goodattitude: 1
+
+Case: 59
+doc: 81792c87-e732-4231-bff7-a85100cedb60.html
+def.name: ﻿杨成娟走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2017年5月22日
+drug.type: 海洛因
+pun: 一、被告人杨成娟犯贩卖毒品罪，判处有期徒刑二年，并处罚金人民币6000元。罚金限于判决生效后十日内缴纳。	二、扣押在案的毒品海洛因5.56克、手机一部、电子秤一台、人民币14500元予以没收。
+execution.date: 2017年5月24日
+drug.weight: 5.56
+crime: 二、扣押在案的毒品海洛因5.56克、手机一部、电子秤一台、人民币14500元予以没收。
+juror.name: ['严丽敏', '段跃祥']
+ruling.date: 二〇一七年九月二十七日
+secretary.name: 胡玥玥
+def: 被告人杨成娟,小名：小娟,女,1987年2月28日生,汉族,初中文化,农民,云南省祥云县人,户籍登记地址：祥云县，现住祥云县
+judge1.name: 王永清
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 60
+doc: 647c4f9e-cb21-4eeb-aff1-792466f86e02.html
+def.name: ﻿景后芽运输毒品案一审刑事判决书
+crime.date: 2015年6月14日
+drug.type: 海洛因	甲基苯丙胺
+pun: 一、被告人景后芽犯运输毒品罪，判处有期徒刑十三年，并处罚金人民币二万元。（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2015年6月14日起至2028年6月13日止）。	二、查获的毒品海洛因73克、毒品甲基苯丙胺38.2克及扣押的手机一部予以没收。
+drug.weight: 73	38.2
+crime: 二、查获的毒品海洛因73克、毒品甲基苯丙胺38.2克及扣押的手机一部予以没收。
+ruling.date: 书记员　　陈文超
+secretary.name: 芽运输毒品案一审刑事判决书
+def: 被告人景后芽，男，1972年出生于云南省盈江县，傣族，小学文化，农民
+judge1.name: 雷自荣
+judge2.name: 陈丽
+judge3.name: 罗瑞芳
+def.goodattitude: 1
+def.recid: 1
+
+Case: 61
+doc: 0333b199-6ce2-4e89-b30e-a033324bfcb0.html
+def.name: ﻿谭富平、孙伟贩卖、运输毒品案一审刑事判决书
+crime.date: 2013年11月3日
+drug.type: 海洛因	甲基苯丙胺
+pun: 一、被告人谭富平犯贩卖毒品罪，判处无期徒刑，剥夺政治权利终身，并处没收个人全部财产。	二、被告人孙伟犯贩卖、运输毒品罪，判处有期徒刑十五年，并处没收个人财产人民币10，000元。（刑期从判决执行之日起计算，判决执行先行羁押的，羁押一日折抵刑期一日，即自2013年11月4日起至2028年11月3日止。）	三、查获的毒品甲基苯丙胺净重811.1克、海洛因净重286.3克、毒资人民币139900元予以没收。
+drug.weight: 811.1	286.3
+crime: 三、查获的毒品甲基苯丙胺净重811.1克、海洛因净重286.3克、毒资人民币139900元予以没收。
+ruling.date: 二〇一四年十二月十九日
+secretary.name: 方馨
+def: 被告人谭富平，男，1973年11月7日出生，汉族，小学文化，农民，云南省会泽县人，住云南省曲靖市会泽县新街乡	被告人孙伟，男，1977年1月1日出生，汉族，初中文化，农民，云南省会泽县人，住云南省曲靖市会泽县者海镇者海村委会
+attorney: ['辩护人ＸＸ，云南凌云律师事务所律师', '辩护人王正怀，云南华恒律师事务所律师']
+judge1.name: 朱峥
+judge2.name: 牟又红
+judge3.name: 颜瑶瑶
+def.recid: 1
+def.goodattitude: 1
+
+Case: 62
+doc: 47709adb-c2ed-4eb3-b102-a7c801029245.html
+def.name: ﻿雷有兰非法持有毒品一审刑事判决书
+crime.date: 2017年2月22日
+drug.type: 甲基苯丙胺
+pun: 一、被告人雷有兰犯非法持有毒品罪，判处有期徒刑一年，并处罚金人民币3000元。（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2017年2月22日起至2018年2月21日止。罚金于本判决生效后五日内向本院缴纳。）	二、被查获的毒品甲基苯丙胺18.85克予以没收。
+drug.weight: 18.85
+crime: 二、被查获的毒品甲基苯丙胺18.85克予以没收。
+juror.name: ['殷小坚']
+ruling.date: 二〇一七年七月十一日
+secretary.name: 龚升美
+def: 被告人雷有兰，女，景颇族，1961年11月21日生，小学二年级文化，户籍所在地云南省腾冲市，捕前住盈江县
+judge1.name: 范正婷
+judge2.name: 瞿易
+judge3.name: 
+def.goodattitude: 1
+
+Case: 63
+doc: 8d0e0b84-d297-487b-8569-a7900121f947.html
+def.name: ﻿伍三走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2016年10月20日
+drug.type: 鸦片	吗啡
+pun: 一、被告人伍三犯贩卖毒品罪，判处有期徒刑三年零六个月（刑期自本判决执行之日起计算。判决执行前先行羁押的，羁押一日折抵刑期一日。即自2016年10月25日起至2020年4月24日止），并处罚金5,000元（罚金限本判决生效后十日内缴纳）。	二、未随案移送的毒品鸦片19.64克，依法没收，由扣押机关勐海县公安局上缴国库。
+drug.weight: 19.64
+crime: 二、未随案移送的毒品鸦片19.64克，依法没收，由扣押机关勐海县公安局上缴国库。
+juror.name: ['孙立瑞', '欧学云']
+ruling.date: 二〇一七年五月二日
+secretary.name: 魏程澄
+def: 被告人伍三，男，1985年12月28日出生，哈尼族，小学文化，农民，住云南省西双版纳傣族自治州勐海县
+judge1.name: 陈浩
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 64
+doc: 6fe76aff-6c73-4177-a88a-a74700e33e6e.html
+def.name: ﻿范某某贩卖毒品案一审刑事判决书
+drug.type: 海洛因
+pun: 一、被告人范某某犯贩卖毒品罪，判处有期徒刑六个月（刑期自判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。），并处罚金人民币1000元（限判决生效之日起十日内缴清）。	二、涉案毒品海洛因1.51克予以没收并依法处理。毒资人民币200元予以没收并上缴国库。
+drug.weight: 1.51
+crime: 二、涉案毒品海洛因1.51克予以没收并依法处理。毒资人民币200元予以没收并上缴国库。
+ruling.date: 书记员　顾娅婷
+secretary.name: 某贩卖毒品案一审刑事判决书
+def: 被告人范某某，女，汉族，1967年12月11日出生，文盲，无业，云南省昆明市人，户籍所在地：云南省昆明市五华区
+judge1.name: 孟阳
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 65
+doc: 85db0d7c-1b5c-41fa-97e0-2d5b6cfc3366.html
+def.name: ﻿张小定非法种植毒品原植物案一审刑事判决书
+crime.date: 2014年3月7日
+drug.type: 吗啡	罂粟
+pun: 被告人张某某犯非法种植毒品原植物罪，判处有期徒刑一年零六个月，缓刑二年。并处罚金人民币5000元。缓刑考验期限从判决确定之日起计算。罚金限判决生效后即缴清。
+drug.weight: 
+crime: []
+juror.name: ['赵文君']
+ruling.date: 二〇一五年一月十四日
+secretary.name: 孙超
+def: 被告人张某某，男，汉族，1963年10月19日生于云南省师宗县，小学文化，农民
+judge1.name: 李春芳
+judge2.name: 谢存柱
+judge3.name: 
+def.goodattitude: 1
+
+Case: 66
+doc: 20041499-a6c4-4c8a-b0f1-dfd54d81ced4.html
+def.name: ﻿孙大连贩卖毒品案一审刑事判决书
+drug.type: 海洛因
+pun: 一、被告人孙大连犯贩卖毒品罪，判处有期徒刑一年（刑期自判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2015年1月7日起至2016年1月6日止），并处罚金人民币5000元（限判决生效之日起十日内缴清）。	二、涉案毒品海洛因0.46克予以没收并依法处理。毒资人民币200元予以没收并上缴国库。
+drug.weight: 0.46
+crime: 二、涉案毒品海洛因0.46克予以没收并依法处理。毒资人民币200元予以没收并上缴国库。
+ruling.date: 书记员　　彭倩
+secretary.name: 连贩卖毒品案一审刑事判决书
+def: 被告人孙大连，女，1972年4月12日出生，汉族，文盲
+judge1.name: 孟阳
+judge2.name: 
+judge3.name: 
+def.recid: 1
+def.goodattitude: 1
+
+Case: 67
+doc: 983661e9-67bd-4a1c-bb00-a75b010ecf34.html
+def.name: ﻿马殿艳走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2016年10月19日
+drug.type: 海洛因
+pun: 一、被告人马殿艳犯贩卖毒品罪，判处有期徒刑六个月，并处罚金人民币1500元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自201６年10月19日起至2017年４月18日止。罚金自判决生效后缴纳，依法上缴国库）。	二、供被告人马殿艳所使用的手机一部，依法予以没收。
+drug.weight: 0.12
+crime: 鲁甸县人民检察院指控，2016年10月19日中午，被告人马殿艳在鲁甸县桃源乡伊斯兰风情园门口公路上，贩卖毒品海洛因0.12克给马某时，被公安民警查获。
+juror.name: ['戈时凤']
+ruling.date: 二〇一七年一月二十日
+secretary.name: 邵鑫
+def: 被告人马殿艳，女，1985年12月01日出生，回族，小学文化，农民，云南省鲁甸县人，住鲁甸县
+judge1.name: 冯国凤
+judge2.name: 李才凤
+judge3.name: 
+def.goodattitude: 1
+
+Case: 68
+doc: 4525784d-00cc-4bdf-9a17-a82600a8e855.html
+def.name: ﻿寇新宇走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2016年6月9日
+drug.type: 海洛因
+pun: 一、被告人寇新宇犯运输毒品罪，判处无期徒刑，剥夺政治权利终身，并处没收个人全部财产；	二、查获的毒品海洛因3510克依法予以没收。
+drug.weight: 3510
+crime: 二、查获的毒品海洛因3510克依法予以没收。
+ruling.date: 书记员　段云萍
+secretary.name: 宇走私、贩卖、运输、制造毒品一审刑事判决书
+def: 被告人寇新宇，男，1994年6月18日出生，汉族，山西省神池县人，中专文化，无业，住神池县
+attorney: ['辩护人张政委、文怀海，云南天外天律师事务所律师']
+judge1.name: 杨忠
+judge2.name: 刘华
+judge3.name: 阮文波
+def.goodattitude: 1
+
+Case: 69
+doc: b568d143-e5a5-4ec6-ba22-a7e70107bea6.html
+def.name: ﻿姜某某走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2017年1月16日
+drug.type: 海洛因
+pun: 一、被告人姜某某犯贩卖毒品罪，判处有期徒刑十个月，并处罚金人民币2000元（限判决生效后30日内缴纳）。	二、涉案毒品海洛因1.71克，依法予以没收。
+execution.date: 2017年1月17日
+drug.weight: 1.71
+crime: 二、涉案毒品海洛因1.71克，依法予以没收。
+juror.name: ['刘祖云']
+ruling.date: 二〇一七年六月七日
+secretary.name: 张书荣
+def: 被告人姜某某，男，1996年6月27日出生，住云南省镇雄县
+judge1.name: 严隆高
+judge2.name: 裴彬
+judge3.name: 
+def.goodattitude: 1
+
+Case: 70
+doc: 935dbb50-c2bc-43ec-95ce-a84800c06b39.html
+def.name: ﻿保某某贩卖毒品罪一案一审刑事判决书
+crime.date: 2016年11月3日
+drug.type: 甲基苯丙胺
+pun: 一、被告人保某某犯贩卖毒品罪，判处有期徒刑一年，并处罚金2000元。（刑期从判决执行之日起计算。判决执行前先行羁押的，羁押一日折抵刑期一日，即自2016年11月6日起至2017年11月5日止。罚金限判决生效后30日内缴纳。）	二、查获的毒品0.09克予以没收销毁。
+drug.weight: 0.09
+crime: 砚山县人民检察院指控：2016年11月3日15时许，砚山县公安局平远派出所民警在对辖区进行检查时，在砚山县平远镇海盈商务宾馆304房间内查获吸毒人员张某、秦某某（二人另案处理），并在房间内床头柜上查获0.09克毒品可疑物，经鉴定该毒品可疑物中检见甲基苯丙胺成分。二名吸毒人员供认所吸毒品系被告人保某某出售。经查2016年11月2日、3日被告人保某某均向张某、秦某某出售毒品。
+juror.name: ['邓信开', '李光劭']
+ruling.date: 二〇一七年十月十六日
+secretary.name: 杨志莲
+def: 被告人保某某，男，1980年8月25日出生于云南省砚山县人，回族，小学文化，农民
+attorney: ['辩护人王华南，云南硕欣律师事务所律师']
+judge1.name: 马任
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 71
+doc: 0e808fd3-ddea-4365-b51c-79a0652a34d8.html
+def.name: ﻿邓某某、杨某某非法持有毒品案一审刑事判决书
+crime.date: 2014年8月2日
+drug.type: 海洛因
+pun: 一、被告人邓某某犯非法持有毒品罪，判处有期徒刑一年，并处罚金人民币四千元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二○一四年八月四日起至二○一五年八月三日止）。	二、被告人杨某某犯非法持有毒品罪，判处有期徒刑八个月，并处罚金人民币三千元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二○一四年八月四日起至二○一五年四月三日止）。	三、扣押在案的毒品海洛因16.05克、一个水杯，予以没收；一部康佳手机、一张云南省信用社联合社金碧卡一卡通、一张中国邮政储蓄银行绿卡通发还被告人邓某某，一部天迈手机发还被告人杨某某。
+drug.weight: 16.05
+crime: 三、扣押在案的毒品海洛因16.05克、一个水杯，予以没收；一部康佳手机、一张云南省信用社联合社金碧卡一卡通、一张中国邮政储蓄银行绿卡通发还被告人邓某某，一部天迈手机发还被告人杨某某。
+juror.name: ['岳云辉']
+ruling.date: 二〇一五年二月五日
+secretary.name: 方梅
+def: 被告人邓某某，男，1982年4月4日出生	被告人杨某某，男，1977年7月1日出生
+judge1.name: 王为伟
+judge2.name: 朱玉
+judge3.name: 
+def.goodattitude: 1
+
+Case: 72
+doc: e11002c5-0e28-4685-9a36-a80e009b71f5.html
+def.name: ﻿罗某某走私、贩卖、运输、制造毒品一审刑事判决书
+pun: 一、被告人罗某某犯贩卖毒品罪，判处有期徒刑六个月，并处罚金人民币贰仟元。（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2017年7月10日起至2018年1月9日止。罚金限判决生效之日起三十日内缴纳。）	二、扣押在案的违法所得人民币三百元予以没收。
+drug.type: 甲基苯丙胺
+drug.weight: 0.52
+crime.date: 2017年7月10日
+crime: 大理市人民检察院指控，2017年7月10日13时12分许，被告人罗某某在大理经济开发区文华路大理民族医院门口贩卖毒品给李某某。当日13时15分许，被告人罗某某与李某某在大理经济开发区西窑菜场南口被公安人员抓获，当场从被告人罗某某身上查获毒资现金人民币300元，从李某某身上查获净重共计0.52克的红色片剂及白色晶状体毒品甲基苯丙胺。查获的毒品全部送检用于鉴定。针对指控的事实，公诉机关提供了证人证言、书证、物证、辨认笔录、提取和扣押笔录、鉴定意见、被告人供述等证据证实。公诉机关认为，被告人罗某某的行为已构成贩卖毒品罪，应当依法追究刑事责任;鉴于被告人自愿认罪、有犯罪前科，建议本院对被告人判处有期徒刑八个月至一年零六个月，并处罚金。
+ruling.date: 书 记 员　袁惠霞
+secretary.name: 某走私、贩卖、运输、制造毒品一审刑事判决书
+def: 被告人罗某某，住云南省大理白族自治州祥云县
+judge1.name: 李琳平
+judge2.name: 
+judge3.name: 
+def.recid: 1
+def.goodattitude: 1
+
+Case: 73
+doc: e7a6e8eb-eadf-4532-89fb-a8e900b7684e.html
+def.name: ﻿宋小敏走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2017年10月13日
+drug.type: 甲基苯丙胺
+pun: 一、被告人宋小敏犯贩卖毒品罪，判处有期徒刑十个月，并处罚金人民币3000元；	二、已扣押的毒品3.79克、随案移送的作案工具手包一个、手机一部予以没收。
+execution.date: 2017年10月14日
+drug.weight: 3.79
+crime: 经审理查明，2017年10月13日，吸毒人员周某用手机微信向被告人宋小敏联系购买毒品，双方约定在云南省盐津县牛寨乡新华村的盐电公路隧道处交易，当日19时许，宋小敏乘车到约定地点与周某交易毒品时，被公安民警抓获，当场从宋小敏的手提包内查获毒品可疑物8小包，净重3.79克，经鉴定，8小包可疑物均检出甲基苯丙胺成分。																																																																																																				经审理查明，2017年10月13日，吸毒人员周某用手机微信向被告人宋小敏联系购买毒品，双方约定在云南省盐津县牛寨乡新华村的盐电公路隧道处交易，当日19时许，宋小敏乘车到约定地点与周某交易毒品时，被公安民警抓获，当场从宋小敏的手提包内查获毒品可疑物8小包，净重3.79克，经鉴定，8小包可疑物均检出甲基苯丙胺成分。
+ruling.date: 第六十四条犯罪分子违法所得的一切财物，应当予以追缴或者责令退赔;对被害人的合法财产，应当及时返还;违禁品和供犯罪所用的本人财物，应当予以没收。没收的财物和罚金，一律上缴国库，不得挪用和自行处理。
+secretary.name: 敏走私、贩卖、运输、制造毒品一审刑事判决书
+def: 被告人宋小敏，女，生于1995年12月14日，汉族，四川省筠连县人，小学文化，农村居民，住四川省筠连县
+attorney: ['辩护人卢光胜，云南亨达律师事务所律师']
+judge1.name: 李显东
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+def.recid: 0
+
+Case: 74
+doc: 14645b44-1d8a-4c57-88e6-a6fa011fbc2d.html
+def.name: ﻿白秀英贩卖毒品一审刑事判决书
+crime.date: 2015年9月13日
+drug.type: 海洛因	甲基苯丙胺
+pun: 一、被告人白秀英犯贩卖毒品罪，判处有期徒刑五年，并处罚金人民币一万元；	二、随案移送的一台银黑色的电子秤予以没收；查获的毒品海洛因5.74克、毒品甲基苯丙胺片剂3.11克，予以没收销毁。
+execution.date: 2016年12月26日
+drug.weight: 5.74	3.11
+crime: 二、随案移送的一台银黑色的电子秤予以没收；查获的毒品海洛因5.74克、毒品甲基苯丙胺片剂3.11克，予以没收销毁。																																																																																																				二、随案移送的一台银黑色的电子秤予以没收；查获的毒品海洛因5.74克、毒品甲基苯丙胺片剂3.11克，予以没收销毁。
+juror.name: ['李桂仙', '张艳红']
+ruling.date: 二〇一六年十二月二十六日
+secretary.name: 鲁春
+def: 被告人白秀英，女，1945年1月7日生，云南省玉溪市红塔区人，公民身份号码XXX，汉族，文盲，住云南省玉溪市红塔区大营街街道
+judge1.name: 宁德艾
+judge2.name: 
+judge3.name: 
+def.recid: 1
+def.goodattitude: 1
+
+Case: 75
+doc: a39f4724-13c0-4641-88ac-a93d009345e0.html
+def.name: ﻿张某某走私、贩卖、运输、制造毒品一审刑事判决书
+drug.type: 甲基苯丙胺
+pun: 一、被告人张某某犯贩卖毒品罪，判处有期徒刑六个月，并处罚金人民币二千元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2018年3月30日起至2018年9月29日止。罚金限判决生效后三个月内执行）。	二、缴获的毒品甲基苯丙胺0.631克，予以没收销毁。
+drug.weight: 0.631
+crime: 二、缴获的毒品甲基苯丙胺0.631克，予以没收销毁。																																																																																																				二、缴获的毒品甲基苯丙胺0.631克，予以没收销毁。
+ruling.date: 书记员　侯迎春
+secretary.name: 某走私、贩卖、运输、制造毒品一审刑事判决书
+def: 被告人张某某，男，1986年10月19日出生，汉族，初中文化，无业，户籍所在地：湖南省邵东县，住湖南省邵东县
+judge1.name: 何燕
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 76
+doc: 15b8c0a4-247e-4d4c-86d0-248da7713bd6.html
+def.name: ﻿赵令飞运输毒品案一审刑事判决书
+crime.date: 2016年3月31日
+drug.type: 甲基苯丙胺
+pun: 一、被告人赵令飞犯运输毒品罪，判处有期徒刑十五年，并处没收个人财产人民币十五万元。	二、查获的毒品甲基苯丙胺片剂205.5克、手机1部依法没收。
+execution.date: 2016年4月1日
+drug.weight: 205.5
+crime: 二、查获的毒品甲基苯丙胺片剂205.5克、手机1部依法没收。
+ruling.date: 二〇一六年十一月十一日
+secretary.name: 兰佳雯
+def: 被告人赵令飞，男，1989年10月20日出生于云南省曲靖市罗平县，汉族，小学文化，农民
+judge1.name: 赵晓明
+judge2.name: 张晓刚
+judge3.name: 汪武东
+def.recid: 1
+def.goodattitude: 1
+
+Case: 77
+doc: 8b72550f-a4d4-4004-8b58-8742538897a8.html
+def.name: ﻿阿尼嘻嘻运输毒品案一审刑事判决书
+crime.date: 2015年2月6日
+drug.type: 海洛因
+pun: 一、被告人阿尼嘻嘻犯运输毒品罪，判处无期徒刑，剥夺政治权利终身，并处没收个人全部财产。	二、查获的毒品海洛因326克、手机1部、手镯1只依法予以没收。毒品包裹物4包、铁片2片、手提包1个作为物证封存。
+drug.weight: 326
+crime: 二、查获的毒品海洛因326克、手机1部、手镯1只依法予以没收。毒品包裹物4包、铁片2片、手提包1个作为物证封存。
+juror.name: ['刁国顺']
+ruling.date: 二〇一五年七月二十三日
+secretary.name: 杨娜
+def: 被告人阿尼嘻嘻，女，39岁，藏族，文盲，无业，四川省盐源县人，（自报身份）
+judge1.name: 黄映瑾
+judge2.name: 赵爱超
+judge3.name: 
+def.goodattitude: 1
+def.recid: 0
+
+Case: 78
+doc: 245bd7d9-550c-44d7-a104-a7f200f4881d.html
+def.name: ﻿高文亮、黄应富走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2016年10月21日
+drug.type: 冰毒	甲基苯丙胺
+pun: 一、被告人高文亮犯贩卖毒品罪，判处有期徒刑十一年，并处罚金人民币1000元（刑期从判决执行之日起计算，判决执行前先行羁押的，羁押一日折抵刑期一日，即从2016年10月22日起至2027年10月21日止。罚金限本判决生效之日起三十日内缴纳）；	二、被告人黄应富犯贩卖毒品罪，判处有期徒刑八年，并处罚金人民币1000元（刑期从判决执行之日起计算，判决执行前先行羁押的，羁押一日折抵刑期一日，即从2016年10月22日起至2024年10月21日止。罚金限本判决生效之日起三十日内缴纳）；
+drug.weight: 5.69	3.45	36	2.5	1.77
+crime: 经审理查明：2016年10月21日15时，被告人高文亮打电话邀约被告人黄应富驾驶高文亮的助力车到文山市开化街道办事处钟秀街17号，贩卖可疑物片剂5.69克给张某、廖某（二人另案处理），得赃款人民币1200元。公安民警在现场将高文亮、黄应富、张某、廖某抓获，从被告人高文亮身上及其助力车内查获高文亮存放于车内的可疑物片剂3.45克、可疑物晶体36克；从被告人黄应富身上查获可疑物片剂2.5克、可疑物晶体1.77克；从张某、廖某出租屋内查获可疑物片剂5.69克。经鉴定：以上被查获的毒品可疑物检材中，均检见甲基苯丙胺成分（冰毒）。
+juror.name: ['欧阳月情', '张 位 忠']
+ruling.date: 二〇一七年八月八日
+secretary.name: 刘 章 菊
+def: 被告人高文亮，男，1995年7月17日出生，壮族，小学文化，云南省文山市人，家住文山市	被告人黄应富，男，1993年8月14日出生，汉族，初中文化，云南省马关县人，家住马关县，现住文山市
+attorney: ['辩护人韦元坤，云南圆合圆（广南）律师事务所律师']
+judge1.name: 张永奎
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 79
+doc: df8b3fd6-1079-490f-a049-1f996983fe2a.html
+def.name: ﻿王某某犯非法持有毒品罪一案刑事判决书
+crime.date: 2014年6月30日
+drug.type: 冰毒	甲基苯丙胺
+pun: 一、被告人王某某犯非法持有毒品罪，判处有期徒刑一年零六个月（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即被告人王某某的刑期自2014年6月30日起至2016年12月29日止），并处罚金8000元。	二、涉案毒品甲基苯丙胺30.5克，由查封、扣押机关负责处理。
+drug.weight: 30.5
+crime: 二、涉案毒品甲基苯丙胺30.5克，由查封、扣押机关负责处理。																																																																																																				二、涉案毒品甲基苯丙胺30.5克，由查封、扣押机关负责处理。
+juror.name: ['黄艳华']
+ruling.date: 二〇一四年十一月二十四日
+secretary.name: 朱莉娟
+def: 被告人王某某，男，1974年3月26日出生，汉族，初中，个体，因涉嫌非法持有毒品罪，于2014年7月1日被景洪市公安局刑事拘留；2014年8月1日被执行逮捕
+judge1.name: 王和
+judge2.name: 曾玲蓉
+judge3.name: 
+def.goodattitude: 1
+
+Case: 80
+doc: 8c3b5e68-54e2-4268-95aa-e2635bbeb52a.html
+def.name: ﻿郑云涛贩卖毒品案一审刑事判决书
+crime.date: 2014年3月7日
+drug.type: 海洛因	甲基苯丙胺
+pun: 一、被告人郑云涛犯贩卖毒品罪，判处有期徒刑五年零五个月，并处罚金人民币二万四千元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二○一四年三月七日起至二○一九年八月六日止）。	二、扣押在案的毒品海洛因3.4095克、毒品甲基苯丙胺片剂0.933克、若干个用于包装毒品的袋子、一个马壶、二张锡箔纸、一袋零十根吸管、一部ZTE直板手机、现金34000元人民币中的毒资10000元人民币，依法予以没收。扣押在案的现金34000元人民币中24000元人民币予以扣抵罚金，一辆车后牌号为E795号“豪爵”牌红黑色摩托车发还被告人郑云涛。
+drug.weight: 3.4095	0.933
+crime: 二、扣押在案的毒品海洛因3.4095克、毒品甲基苯丙胺片剂0.933克、若干个用于包装毒品的袋子、一个马壶、二张锡箔纸、一袋零十根吸管、一部ZTE直板手机、现金34000元人民币中的毒资10000元人民币，依法予以没收。扣押在案的现金34000元人民币中24000元人民币予以扣抵罚金，一辆车后牌号为E795号“豪爵”牌红黑色摩托车发还被告人郑云涛。
+juror.name: ['杨争福']
+ruling.date: 二〇一四年八月二十日
+secretary.name: 白文丽
+def: 被告人郑云涛，男，1978年11月8日出生，1997年5月17日，因复吸、注射毒品海洛因被玉溪地区劳动教养管理委员会决定劳动教养三年；2001年3月21日因吸食毒品成瘾被元江县公安局决定强制戒毒三个月；2001年5月11日被玉溪地区劳动教养管理委员会决定劳动教养三年；2004年11月17日因复吸毒品海洛因被玉溪地区劳动教养管理委员会决定劳动教养三年；2007年3月21日因吸食毒品成瘾被元江县公安局决定强制戒毒六个月；2011年9月13日因犯贩卖毒品罪被本院判处有期徒刑二年零六个月投入云南省元江监狱服刑，2013年3月29日刑满释放
+judge1.name: 张志陆
+judge2.name: 马艾萍
+judge3.name: 
+def.goodattitude: 1
+def.recid: 1
+
+Case: 81
+doc: 84ff861a-171b-4011-b3fe-a832011ac9d7.html
+def.name: ﻿王某贩卖毒品罪一审刑事判决书
+pun: 一、被告人王某犯贩卖毒品罪，判处有期徒刑八个月，并处罚金人民币五千元。	二、扣押的金立牌手机1部，依法予以没收。
+execution.date: 2017年4月17日
+drug.type: 甲基苯丙胺
+drug.weight: 0.8
+crime: 公诉机关指控，2016年6月的一天，被告人王某在龙陵县龙江乡上龙村勐柳街脚大弯子水井边，以人民币100元的价格贩卖给吸毒人员周某和罗某1毒品甲基苯丙胺片剂8粒，经侦查实验计重0.8克。
+ruling.date: 第六十四条犯罪分子违法所得的一切财物，应当予以追缴或者责令退赔；对被害人的合法财产，应当及时返还；违禁品和供犯罪所用的本人财物，应当予以没收。没收的财物和罚金，一律上缴国库，不得挪用和自行处理。
+secretary.name: 贩卖毒品罪一审刑事判决书
+def: 被告人王某，男，1984年10月22日出生于云南省龙陵县,汉族，住云南省保山市龙陵县
+judge1.name: 段生良
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 82
+doc: 08384402-0351-4b06-bcae-573242b071e4.html
+def.name: ﻿石春运输毒品案一审刑事判决书
+crime.date: 2014年9月20日
+drug.type: 海洛因
+pun: 一、被告人石春犯运输毒品罪，判处有期徒刑十五年（刑期从判决执行之日起计算，判决执行前先行羁押的，羁押一日折抵刑期一日，刑期自2014年9月20日起至2029年9月19日止），并处没收个人财产人民三万元；	二、本案查获的毒品海洛因502克予以没收，由耿马自治县公安局按规定处理。
+drug.weight: 502
+crime: 二、本案查获的毒品海洛因502克予以没收，由耿马自治县公安局按规定处理。
+ruling.date: 二〇一五年三月二十一日
+secretary.name: 乐俊培
+def: 被告人石春，男，1987年4月28日生，汉族，江苏省沛县人，初中文化
+judge1.name: 张艾云
+judge2.name: 陈国春
+judge3.name: 段春勇
+def.goodattitude: 1
+def.recid: 0
+
+Case: 83
+doc: a6428ce2-4f61-4af6-8370-a95900896064.html
+def.name: ﻿王延森运输毒品一审刑事判决书
+crime.date: 2017年2月26日
+drug.type: 海洛因
+pun: 一、被告人王延森犯运输毒品罪，判处有期徒刑十五年，并处没收个人财产十万元。	二、扣押毒品海洛因316.2克、手机1部依法予以没收。
+execution.date: 2017年2月27日
+drug.weight: 316.2
+crime: 二、扣押毒品海洛因316.2克、手机1部依法予以没收。
+juror.name: ['陈永刚']
+ruling.date: 二〇一七年九月五日
+secretary.name: 杨云梦
+def: 被告人王延森，男，1985年10月4日生于湖北省襄阳市保康县，汉族，高中文化，农民，住保康县
+judge1.name: 林发文
+judge2.name: 丁友保
+judge3.name: 
+def.goodattitude: 1
+def.recid: 0
+
+Case: 84
+doc: 3c74d898-42c5-470d-b618-a7680093a4bb.html
+def.name: ﻿阿古体伍走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2016年3月2日
+drug.type: 海洛因
+pun: ﻿阿古体伍走私、贩卖、运输、制造毒品一审刑事判决书	发布日期：2017-05-03	云南省保山市中级人民法院	刑 事 判 决 书	公诉机关云南省保山市人民检察院。	被告人阿古体伍，男，1996年10月8日出生，彝族，小学文化，农民，四川盐源县人,家住四川省盐源县。因本案于2016年3月3日被刑事拘留，同年3月10日被逮捕，现羁押于云南省施甸县看守所。	指定辩护人牛作诗，云南单旭律师事务所律师。	云南省保山市人民检察院以保检公二刑诉［2016］146号起诉书指控被告人阿古体伍犯运输毒品罪，于2016年5月26日向本院提起公诉。本院依法组成合议庭，于2016年7月21日在云南省施甸县人民法院法庭公开开庭审理了本案。云南省保山市人民检察院指派检察员张春堂、代理检察员谢国某出庭支持公诉。被告人阿古体伍及其辩护人牛作诗到庭参加诉讼。本案现已审理终结。	云南省保山市人民检察院指控，2016年3月2日，被告人阿古体伍携带毒品乘坐云Ｍ×××××号客车从镇康县南伞镇前往保山市隆阳区，当日15时许，途经保山市水长工业园区客运站时被保山市公安局水长工业园区公安分局民警抓获，后从被告人阿古体伍体内排出海洛因50砣，经称量鉴定，净重338.6克。云南省保山市人民检察院认定上述事实的证据有物证；书证；勘验、检查笔录；鉴定意见；证人证言；被告人供述和辩解等。该院认为，被告人阿古体伍非法运输毒品海洛因338.6克的行为触犯了《中华人民共和国刑法》第三百四十七条第二款（一）项之规定，犯罪事实清楚，证据确实充分，应当以运输毒品罪追究其刑事责任。	被告人阿古体伍供认被指控的事实，辩解自己主观上不明知运输的是毒品。其辩护人对指控罪名无异议，认为被告人阿古体伍受人利用运输毒品，本身也是受害者；如实供述自己的罪行，系坦白。建议在量刑时予以酌情从轻判处。	经审理查明，被告人阿古体伍于2016年3月2日携带毒品乘坐客车从镇康县南伞镇前往保山市隆阳区，当日15时许，途经保山市水长工业园区客运站时被保山市公安局水长工业园区公安分局干警抓获，后从被告人阿古体伍体内排出毒品海洛因50砣，经称量鉴定，净重338.6克。	上述事实，有下列经当庭举证、质证的证据证实：	1.物证。	查获的毒品海洛因338.6克，手机1部、身份证1张。证实被告人阿古体伍运输毒品的种类、数量和持有的物品情况。	2.书证。	3.勘验检查笔录。	4.证人证言。	证人李某的证言，证实其系车牌号码为云Ｍ×××××的客车驾驶员，2016年3月2日早上当其驾驶客车行至施甸县水长客运站时遇到公安机关例行检查。民警上车检查至车上7号座位的乘客（即被告人阿古体伍）时，发现其神情紧张，民警遂对其进行了重点检查，怀疑其携带违禁品，就将其带下车作进一步检查，当场查获了车票1张、手机1部、身份证2张。	5.鉴定意见。	保山市公安司法鉴定中心出具的（保）公（司）鉴（毒）字〔2016〕136号《毒品定性检验报告》，证实经对被告人阿古体伍排出的毒品可疑物提取检材鉴定，所送检材中均检出海洛因成分。	6.被告人供述与辩解。	被告人阿古体伍供述，2016年2月25日其从广东坐火车到昆明，在昆明玩了两三天。在昆明火车站附近认识一个十八、九岁有点胖的女子，该女子邀约其到南伞玩，费用自理。2月29日中午，其买了一张昆明到南伞的客车票，那个女子没有和其一起去。3月1日早上其到南伞后在南伞客运站遇到一个20岁左右偏瘦的女子，那个女子约其吃饭喝酒。吃完后带其去了南伞客运站附近的一家宾馆，并拿出一个黑色的方便袋，里面装着白色一坨坨的东西，女子告诉其是糖并让其吞到肚子里去，其用营养快线吞完就睡觉了。第二天早上女子给其一张从南伞到保山的车票，让其坐客车到保山，到了会有人接，当车行至水长客运站时就被公安机关查获了。因为不知道吞服的是毒品，在车上一直未主动申报携带违禁品，下车接受盘问也没有交代，一直到做完检查民警发现其体内有异物时才承认。其不知道两个女子的名字和联系方式，也没有说过运费。	以上证据经法庭质证，其收集程序合法，内容客观真实、且相互之间具有关联性，本院予以采信。	本院认为，被告人阿古体伍明知是毒品海洛因而运输的行为已触犯刑律，构成运输毒品罪。公诉机关指控本案被告人阿古体伍的犯罪事实清楚、罪名成立，本院予以确认。被告人阿古体伍采取体内藏毒高度隐秘的方式运输毒品却辩解自己主观上不知道吞服的是毒品以为是糖的观点与查明事实及常理不符，本院不予采信。辩护人认为被告人阿古体伍受他人利用运输毒品的观点，只有被告人的供述，无其他证据予以佐证，本院不予采纳；认为被告人阿伍古体归案后如实交代自己的犯罪事实，系坦白，可从轻处罚的辩护观点与庭查明事实相符，本院予以采纳。为打击运输毒品犯罪，维护社会管理秩序，保护公民身心健康，依照《中华人民共和国刑法》第三百四十七条第二款（一）项、第六十一条、第六十四条、第六十七条第三款的规定，判处如下：	一、被告人阿古体伍犯运输毒品罪，判处有期徒刑十五年，并处没收个人财产人民币十五万元。	二、查获的毒品海洛因338.6克、手机1部,依法予以没收。
+execution.date: 2016年3月3日
+drug.weight: 338.6
+crime: 云南省保山市人民检察院指控，2016年3月2日，被告人阿古体伍携带毒品乘坐云Ｍ×××××号客车从镇康县南伞镇前往保山市隆阳区，当日15时许，途经保山市水长工业园区客运站时被保山市公安局水长工业园区公安分局民警抓获，后从被告人阿古体伍体内排出海洛因50砣，经称量鉴定，净重338.6克。云南省保山市人民检察院认定上述事实的证据有物证；书证；勘验、检查笔录；鉴定意见；证人证言；被告人供述和辩解等。该院认为，被告人阿古体伍非法运输毒品海洛因338.6克的行为触犯了《中华人民共和国刑法》第三百四十七条第二款（一）项之规定，犯罪事实清楚，证据确实充分，应当以运输毒品罪追究其刑事责任。
+ruling.date: 二〇一六年八月八日
+secretary.name: 张东旭
+def: 被告人阿古体伍，男，1996年10月8日出生，彝族，小学文化，农民，四川盐源县人,家住四川省盐源县
+judge1.name: 丁友保
+judge2.name: 赵爱超
+judge3.name: 赵娉婷
+def.goodattitude: 1
+
+Case: 85
+doc: cc5eede5-a608-489d-bdf0-a84200a45367.html
+def.name: ﻿杨某、朱某走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2016年7月21日
+drug.type: 甲基苯丙胺
+pun: 一、被告人杨某犯贩卖毒品罪，判处无期徒刑，剥夺政治权利终身，并处没收个人全部财产。	二、被告人朱某犯贩卖毒品罪，判处无期徒刑，剥夺政治权利终身，并处没收个人全部财产。	三、查获的毒品甲基苯丙胺片剂1715克，杨某的手机一部，朱某的手机一部依法没收。
+drug.weight: 1715
+crime: 三、查获的毒品甲基苯丙胺片剂1715克，杨某的手机一部，朱某的手机一部依法没收。
+ruling.date: 书记员　杨健勇
+secretary.name: 、朱某走私、贩卖、运输、制造毒品一审刑事判决书
+def: 被告人杨某，女，1951年6月7日出生，云南省红河哈尼族彝族自治州金平苗族瑶族傣族自治县人，苗族，小学文化，农民，住金平苗族瑶族傣族自治县
+judge1.name: 元华
+judge2.name: 刘建鹏
+judge3.name: 王义奇
+def.recid: 1
+def.goodattitude: 1
+
+Case: 86
+doc: d678f293-a52e-4019-884d-c20397ffd8bf.html
+def.name: ﻿被告曾某某犯贩卖毒品罪一案刑事判决书
+crime.date: 2015年1月26日
+drug.type: 甲基苯丙胺
+pun: 一、被告人曾某某犯贩卖毒品罪，判处有期徒刑三年（刑期从判决执行之日起计算。判决执行前先行羁押的，羁押一日折抵刑期一日，即刑期自2015年1月26日起至2018年1月25日止），并处罚金8000元（限判决生效后十日内缴清）。	二、涉案毒品甲基苯丙胺3.02克，由查封、扣押机关负责处理。
+drug.weight: 3.02
+crime: 二、涉案毒品甲基苯丙胺3.02克，由查封、扣押机关负责处理。
+juror.name: ['黄建明']
+ruling.date: 二〇一五年七月一日
+secretary.name: 傅志军
+def: 被告人曾某某，绰号三毛，男，1987年11月22日出生于云南省景洪市，傣族，初中文化，无业，因涉嫌贩卖毒品罪于2015年1月27日被刑事拘留，2015年2月7日被执行逮捕
+judge1.name: 罗金梅
+judge2.name: 侯平
+judge3.name: 
+def.goodattitude: 1
+
+Case: 87
+doc: 3503d7be-c6e1-434a-afaf-2c5272353975.html
+def.name: ﻿杨某某非法持有毒品案一审刑事判决书
+crime.date: 2015年5月28日
+drug.type: 海洛因
+pun: 一、被告人杨某某犯非法持有毒品罪，判处有期徒刑一年，并处罚金人民币2000元；	二、查获的毒品海洛因27.7克予以没收。
+execution.date: 2015年5月28日
+drug.weight: 27.7
+crime: 二、查获的毒品海洛因27.7克予以没收。
+juror.name: ['高静', '琚华芝']
+ruling.date: 二〇一五年十一月二十六日
+secretary.name: 尤畅
+def: 被告人杨某某，男，汉族，文盲，农民，住昆明市寻甸县
+judge1.name: 秦冬冬
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+def.recid: 0
+
+Case: 88
+doc: 03198cea-c764-4d86-b0be-a8da0119ce49.html
+def.name: ﻿马宝军贩卖毒品案一审刑事判决书
+drug.type: 海洛因
+pun: 一、被告人马宝军犯贩卖毒品罪，判处有期徒刑三年，并处罚金人民币5000元，罚金限本判决生效后三十天内缴纳。	二、扣押在案的毒品海洛因、vivo白色手机一部、云XXXX**普通二轮摩托车，予以没收。
+execution.date: 2017年11月2日
+drug.weight: 3.16	0.5	0.28	2.38
+crime: 巍山县人民检察院指控：被告人马宝军违反国家法律，明知是毒品海洛因而向他人多次进行贩卖，数量累计约3.16克，其行为触犯了《中华人民共和国刑法》第三百四十七条之规定，应当以贩卖毒品罪追究刑事责任。并向法庭建议以贩卖毒品罪判处被告人马宝军有期徒刑三年零六个月至四年零六个月，并处罚金。提请法院依法判处。并提供受案登记表、立案决定书、户口证明、抓获经过、辨认笔录及照片、证人证言、被告人供述和辩解等证据供法庭质证。																																																																																																				经审理查明：1、2017年间，被告人马宝军以拆卖毒品零包的方式，在巍山县永建镇河底街附近、大仓加油站附近等地，分10次将约0.5克毒品海洛因贩卖给吸毒人员王某某吸食。																																																																																																				县永建镇河底街与关巍公路交叉口公路边，将正在拆卖毒品零包给吸毒人员王某某的被告人马宝军抓获，当场从王某某身上查获跟马宝军购买的毒品海洛因可疑物零包一个。经称量，净重0.28克。经鉴定，查获的毒品海洛因可疑物为毒品海洛因。																																																																																																				证对被告人马宝军位于巍山县xx镇xx号的住宅进行搜查，经搜查，查获马宝军持有的毒品海洛因可疑物二份。经称量，净重2.38克。经鉴定，查获的毒品海洛因可疑物为毒品海洛因。
+juror.name: ['茶智晶']
+ruling.date: 二〇一八年三月二十八日
+secretary.name: 杨瑞丽
+def: 被告人马宝军，男，1974年5月6日出生，家住巍山县
+judge1.name: 鲁朝华
+judge2.name: 孟增祥
+judge3.name: 
+def.goodattitude: 1
+def.recid: 0
+
+Case: 89
+doc: ee96c91a-b641-4a9b-b5d0-b5eba788fc7a.html
+def.name: ﻿汪某某非法种植毒品原植物案一审刑事判决书
+crime.date: 2015年3月15日
+drug.type: 吗啡	罂粟
+pun: 被告人汪某某犯非法种植毒品原植物罪，判处有期徒刑十个月，缓刑一年，并处罚金人民币三千元（缓刑考验期自判决执行之日起计算，所并处的罚金已缴纳）。
+drug.weight: 
+crime: []
+juror.name: ['敖智明', '马竹花']
+ruling.date: 二〇一五年七月二日
+secretary.name: 鲁波
+def: 被告人汪某某，男，汉族，小学文化，农民，云南省楚雄市人，2015年4月9日因涉嫌非法种植毒品原植物罪被楚雄市公安局取保候审
+attorney: ['辩护人陈玉雄，云南楚恒律师事务所律师']
+judge1.name: 文美惠
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+def.recid: 0
+
+Case: 90
+doc: 2acc068b-88ef-4d51-8183-08971f0a983d.html
+def.name: ﻿陈某某贩卖毒品案一审刑事判决书
+pun: 一、被告人陈某某犯贩卖毒品罪，判处有期徒刑一年，并处罚金3000元人民币（罚金限判决生效时缴纳）。	二、作案工具黑面黄底“COOLPAD”手机一部、随案移送所缴获的毒资100元人民币、小挎包一个、毒品海洛因1.3克（已由公安机关收缴），予以没收。
+execution.date: 2014年1月14日
+drug.type: 海洛因
+drug.weight: 1.3
+crime: 二、作案工具黑面黄底“COOLPAD”手机一部、随案移送所缴获的毒资100元人民币、小挎包一个、毒品海洛因1.3克（已由公安机关收缴），予以没收。																																																																																																				二、作案工具黑面黄底“COOLPAD”手机一部、随案移送所缴获的毒资100元人民币、小挎包一个、毒品海洛因1.3克（已由公安机关收缴），予以没收。
+ruling.date: 书记员　　徐冰峰
+secretary.name: 某贩卖毒品案一审刑事判决书
+def: 被告人陈某某
+judge1.name: 杨光德
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 91
+doc: 4bc649dc-7079-470c-b8e1-a82a009e3b2a.html
+def.name: ﻿王家良走私、贩卖、运输、制造毒品一审刑事判决书
+pun: 一、被告人王家良犯运输毒品罪，判处有期徒刑十五年，并处没收财产人民币10，000元；	二、查获的毒品海洛因净重389.65克予以没收。
+execution.date: 2017年1月8日
+drug.type: 海洛因
+drug.weight: 389.65
+crime: 二、查获的毒品海洛因净重389.65克予以没收。
+juror.name: ['马盛莲']
+ruling.date: 二〇一七年六月二十六日
+secretary.name: 张航毓
+def: 被告人王家良，男，1988年2月4日出生，汉族，初中，无职业，户籍所在地重庆市奉节县，住重庆市奉节县
+judge1.name: 赵勇
+judge2.name: 邹林
+judge3.name: 
+def.goodattitude: 1
+
+Case: 92
+doc: 781df0f7-f1c6-4218-b445-a7fe0136f43a.html
+def.name: ﻿方兵走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2016年12月22日
+drug.type: 鸦片	甲基苯丙胺
+pun: 一、被告人方兵犯运输毒品罪，判处有期徒刑十五年，并处没收个人财产五万元。	二、本案查获的毒品甲基苯丙胺（片剂）440.9克、鸦片263.7克、手机1部、棕色牛仔挎包1个、黑色皮质女士挎包1个予以没收。
+execution.date: 2016年12月22日
+drug.weight: 440.9	263.7
+crime: 二、本案查获的毒品甲基苯丙胺（片剂）440.9克、鸦片263.7克、手机1部、棕色牛仔挎包1个、黑色皮质女士挎包1个予以没收。
+ruling.date: 书记员　　杨云梦
+secretary.name: 走私、贩卖、运输、制造毒品一审刑事判决书
+def: 被告人方兵，男，1987年2月12日出生于云南省保山市隆阳区，汉族，初中文化，农民，住保山市隆阳区
+judge1.name: 丁友保
+judge2.name: 赵爱超
+judge3.name: 申力
+def.recid: 0
+
+Case: 93
+doc: 79367072-1039-4960-81ff-a81f00af671f.html
+def.name: ﻿金小祥贩卖毒品案一审刑事判决书
+crime.date: 2015年12月7日
+drug.type: 甲基苯丙胺
+pun: 一、被告人金小祥犯贩卖毒品罪，判处有期徒刑八年六个月，并处罚金人民币3000元。	二、扣押的毒品甲基苯丙胺32.4克依法予以没收。
+execution.date: 2015年12月7日
+drug.weight: 32.4
+crime: 二、扣押的毒品甲基苯丙胺32.4克依法予以没收。
+juror.name: ['李德顺']
+ruling.date: 二〇一六年八月十五日
+secretary.name: 李东芳
+def: 被告人金小祥，男，傣族，1970年9月18日生
+judge1.name: 邹有林
+judge2.name: 罗永宁
+judge3.name: 
+def.goodattitude: 1
+
+Case: 94
+doc: fc264fc7-a460-4b64-84b7-a7010098b6fd.html
+def.name: ﻿何某某贩卖毒品案一审刑事判决书
+crime.date: 2016年6月13日
+drug.type: 海洛因
+pun: 一、被告人何某某犯贩卖毒品罪，判处有期徒刑一年，并处罚金人民币2000元。	二、查获的毒品海洛因及外包装物，手机一部依法予以没收。
+drug.weight: 0.5
+crime: 经审理查明：2016年6月13日13时30分，芒市公安局民警在芒市团结大街微商大酒店工地将被告人何某某抓获。并当场从其左侧外衣包内查获毒品可疑物零包1个，左侧裤包内查获毒品可疑物零包2个，经称量，查获的毒品可疑物净重0.5克，经鉴定，系毒品海洛因。经查，被告人何某某将毒品贩卖给吸毒人员来某某吸食。																																																																																																				芒市人民检察院指控：2016年6月13日13时30分，芒市公安局民警在芒市团结大街微商大酒店工地将被告人何某某抓获。并当场从其左侧外衣包内查获毒品可疑物零包1个，左侧裤包内查获毒品可疑物零包2个，经称量，查获的毒品可疑物净重0.5克，经鉴定，系毒品海洛因。经查，被告人何某某将毒品贩卖给吸毒人员来某某吸食。
+ruling.date: 书记员　　杨利玭
+secretary.name: 某贩卖毒品案一审刑事判决书
+def: 被告人何某某，男，景颇族，高中文化，务工，户籍所在地云南省德宏傣族景颇族自治州芒市，住芒市遮放镇弄丘村
+judge1.name: 段学忠
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 95
+doc: 91f09535-98d4-44f0-9581-a96700f0ede7.html
+def.name: ﻿蒋志宏运输毒品罪一审刑事判决书
+crime.date: 2014年9月10日
+drug.type: 甲基苯丙胺
+pun: 一、被告人蒋志宏犯运输毒品罪，判处有期徒刑十五年（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2014年9月10日起至2029年9月9日止）。并处没收个人财产人民币三万元。	二、查获的毒品甲基苯丙胺片剂631.1克予以没收，由耿马自治县公安局按规定处理。
+drug.weight: 631.1
+crime: 二、查获的毒品甲基苯丙胺片剂631.1克予以没收，由耿马自治县公安局按规定处理。
+juror.name: ['南子玲']
+ruling.date: 二〇一五年三月十日
+secretary.name: 乐俊培
+def: 被告人蒋志宏，男，1978年12月11日生，云南省罗平县人，汉族，中专文化，农民，住曲靖市罗平县
+judge1.name: 张艾云
+judge2.name: 段春勇
+judge3.name: 
+def.goodattitude: 1
+
+Case: 96
+doc: 4745904e-ebdb-4ebd-894e-a8d500ba3fac.html
+def.name: ﻿李洪成走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2017年3月22日
+drug.type: 冰毒	甲基苯丙胺
+pun: 一、被告人李洪成犯贩卖毒品罪，判处有期徒刑十一年，并处罚金人民币贰万元。（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2017年3月23日起至2028年3月22日止。罚金限判决生效之日起三十日内缴纳。）	二、扣押在案的毒品甲基苯丙胺、手机两部依法没收。	三、违法所得，继续追缴。
+drug.weight: 18.86	16.37	10	50
+crime: 经审理查明，被告人李洪成曾多次向他人贩卖毒品。2017年3月22日，被告人李洪成在大理市下关镇龙山菜场桔子酒店使用他人身份证登记入住369号房。李洪成在该房间内将10颗甲基苯丙胺片剂贩卖给吸毒人员李某，李某与吸毒人员刘某1在酒店内吸食。当日18时许，大理市公安局民警根据线索，在该酒店内将李洪成及李某、刘某1抓获，当场查获李洪成已贩卖给李某的甲基苯丙胺片剂8颗（共10颗，其中2颗已被李某及刘某1吸食），及李洪成尚未贩卖的毒品甲基苯丙胺片剂185颗、甲基苯丙胺（冰毒）11袋，从李洪成处查获两部手机。经称量，所查获的193颗甲基苯丙胺片剂净重18.86克，甲基苯丙胺（冰毒）净重16.37克。查获的毒品及两部手机被依法扣押。																																																																																																				大理市人民检察院指控，2017年以来，被告人李洪成曾向吸毒人员刘某1、李某贩卖毒品甲基苯丙胺。2017年3月22日18时许，大理市公安局民警在大理市下关镇龙山菜场桔子酒店369号房间，将李洪成抓获，当场查获李洪成用于贩卖的毒品甲基苯丙胺193颗（净重18.86克）、粉末状甲基苯丙胺16.37克。查获的毒品被依法扣押。针对指控的事实，公诉机关提供了证人证言、书证、物证、辨认笔录、勘查笔录、提取和扣押笔录、鉴定意见、被告人供述等证据证实。公诉机关认为，被告人李洪成的行为已构成贩卖毒品罪，应当依法追究刑事责任，建议本院对被告人判处有期徒刑十一年至十三年，并处罚金。																																																																																																				本院认为，被告人李洪成违反国家毒品管理法规，贩卖毒品甲基苯丙胺，其行为已构成贩卖毒品罪，公诉机关指控的罪名成立，本院予以支持。在案归案经过、搜查笔录、现场勘查笔录及照片、扣押笔录及照片、称量笔录及照片、鉴定意见、社区戒毒决定书，证实公安机关根据线索在桔子酒店当场抓获李洪成、李某、刘某1，并查获毒品；证人李某、刘某1的证言，证实二人被查获当日李洪成在桔子酒店向二人贩卖过毒品，在桔子酒店查获的毒品均系李洪成所有，二人还证实多次向李洪成购买过毒品；证人杨某1、杨某2、黎某、董某均证实曾在桔子酒店向李洪成购买过毒品。故被告人及辩护人提出本案事实不清、证据不足，应当宣告被告人无罪的辩解及辩护意见，与本院审理查明的事实不符，本院不予采纳。被告人贩卖毒品甲基苯丙胺超过10克不足50克，应处七年以上有期徒刑；多次贩卖毒品，酌情从重处罚。综上，公诉机关的量刑意见适当，本院予以采纳。依照《中华人民共和国刑法》第三百四十七条第一款和第三款、第三百五十七条、第四十五条、第四十七条、第五十二条、第五十三条、第六十四条、第六十一条之规定，判决如下：
+juror.name: ['张学礼']
+ruling.date: 二〇一七年十二月十一日
+secretary.name: 袁惠霞
+def: 被告人李洪成，男，1979年1月30日出生于云南省大理白族自治州大理市，白族，初中文化，农民，住云南省大理白族自治州大理市
+attorney: ['辩护人韩炳华，云南崇圣律师事务所律师']
+judge1.name: 李琳平
+judge2.name: 杨志敏
+judge3.name: 
+
+Case: 97
+doc: 61a6dbc5-c0b9-4f7f-8275-a80b00d2cff0.html
+def.name: ﻿唐顺祥非法持有毒品案一审刑事判决书
+pun: 一、被告人唐顺祥犯非法持有毒品罪，判处有期徒刑七年（刑期从判决执行之日起计算，判决执行前先行羁押的，羁押一日折抵刑期一日，即自2016年11月17日起至2023年11月16日止），并处罚金人民币10000元（罚金限于本判决生效之日起九十日内缴纳）。	二、涉案毒品甲基苯丙胺82.47克予以没收并依法处理。
+drug.type: 甲基苯丙胺
+drug.weight: 82.47
+crime: 二、涉案毒品甲基苯丙胺82.47克予以没收并依法处理。																																																																																																				二、涉案毒品甲基苯丙胺82.47克予以没收并依法处理。
+juror.name: ['邝昕', '东门丽']
+ruling.date: 二〇一七年八月二十四日
+secretary.name: 唐紫碧
+def: 被告人唐顺祥，男，1989年9月17日出生，汉族，小学文化，云南省会泽县人，家住云南省曲靖市会泽县
+attorney: ['辩护人张远贵，云南琅璟律师事务所律师']
+judge1.name: 邓睿
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 98
+doc: c0ec9734-001d-45ea-83b4-a77c00b5759e.html
+def.name: ﻿史雪萍走私、贩卖、运输、制造毒品一审刑事判决书
+pun: 一、被告人史雪萍犯贩卖毒品罪，判处有期徒刑一年（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自二○一六年十二月三十一日起至二○一七年十二月三十日止），并处罚金人民币二千元（限本判决发生法律效力之日起三十日内缴纳）；	二、涉案毒品包装物一个、金色苹果手机一部、电动两轮摩托车一辆，依法予以没收。
+drug.type: 海洛因
+drug.weight: 0.38
+crime: 昭通市昭阳区人民检察院指控,2016年12月30日16时许，被告人史雪萍在昭阳区清官亭后门停车场处，贩卖毒品海洛因可疑物零包一个给张梅，双方完成交易后被民警当场抓获，并从张梅身上查获海洛因可疑物零包1个，经称量，该可疑物净重0.38克，从被告人史雪萍身上查获毒资200元。经昭通市公安司法鉴定中心鉴定，送检的毒品可疑物中检出海洛因成分。
+ruling.date: 书记员　陈定伟
+secretary.name: 萍走私、贩卖、运输、制造毒品一审刑事判决书
+def: 被告人史雪萍，绰号“老四”，女，1977年3月2日出生，汉族,云南省昭通市昭阳区人，初中文化,居民,户籍所在地昭通市昭阳区，现住昭通市昭阳区
+judge1.name: 周健
+judge2.name: 
+judge3.name: 
+def.recid: 1
+def.goodattitude: 1
+
+Case: 99
+doc: 11b934e5-c92c-45d8-b608-a82600ededb9.html
+def.name: ﻿王平生非法持有毒品刑事一审判决书
+crime.date: 2016年10月17日
+drug.type: 海洛因
+pun: 一、被告人王平生犯非法持有毒品罪，判处有期徒刑八年，并处罚金人民币10000元。（刑期自判决执行之日起计算，判决执行之前先行羁押的，羁押一日，折抵刑期一日。）	二、查获的毒品依法予以没收。
+drug.weight: 340	1
+crime: 德宏州人民检察院指控：2016年10月17日，芒市公安局民警在芒市城区收戒吸毒人员行动，同日15时10分左右在芒市新村一巷76号将被告人王平生抓获，当场从王平生所住卧室内查获毒品海洛因340克。针对上述指控，德宏州人民检察院出示并宣读书证、物证、被告人的供述和辩解、鉴定意见等证据，并据此认为，被告人王平生的行为已构成非法持有毒品罪，提请本院依法判处。																																																																																																				5、称量、提取记录、电子称检定证书、情况说明。证实对所查获的毒品可疑物先后两次称量，以后一次有电子称检定证书的电子称称量为准，净重340克，随机提取1克样本送检的过程。
+juror.name: ['李慧']
+ruling.date: 二〇一七年九月五日
+secretary.name: 熊国峰
+def: 被告人王平生，男，1972年11月17日出生，汉族，初中文化，河南省尉氏县人，无业，住芒市
+attorney: ['辩护人浦仕俊，云南泰恒律师事务所律师']
+judge1.name: 邓显芳
+judge2.name: 滇自辉
+judge3.name: 
+def.goodattitude: 1
+
+Case: 100
+doc: 479094af-4324-4063-9bee-4b194fc3508c.html
+def.name: ﻿勒古日子运输毒品一案一审判决书Microsoft Word 文档 (6)
+crime.date: 2013年9月11日
+drug.type: 海洛因
+pun: 一、被告人勒古日子犯运输毒品罪，判处死刑，缓期二年执行，剥夺政治权利终身，并处没收个人全部财产。	二、涉案毒品海洛因3967克予以没收。
+drug.weight: 3967
+crime: 二、涉案毒品海洛因3967克予以没收。
+ruling.date: 书记员　　黄雨倩
+secretary.name: 日子运输毒品一案一审判决书Microsoft Word 文档 (6)
+def: 被告人勒古日子，男，1974年8月4日生，彝族，文盲，农民，四川省布拖县人
+judge1.name: 李孔俊
+judge2.name: 张循
+judge3.name: 杨忠祥
+def.goodattitude: 1
+def.recid: 0
+
+Case: 101
+doc: 3b48d90b-3e59-442f-8f3b-a8fd01157b34.html
+def.name: ﻿杨雄走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2017年9月7日
+drug.type: 海洛因
+pun: 一、被告人杨雄犯运输毒品罪，判处有期徒刑十五年，并处没收个人财产人民币10000元；	二、查获的毒品海洛因净重306.54克依法予以没收。
+execution.date: 2017年9月8日
+drug.weight: 306.54
+crime: 二、查获的毒品海洛因净重306.54克依法予以没收。
+juror.name: ['夏敏翔', '代丽琼']
+ruling.date: 二〇一八年三月十二日
+secretary.name: 方馨
+def: 被告人杨雄，男，1994年7月1日出生，汉族，云南省人，初中文化，住云南省大理白族自治州祥云县
+judge1.name: 朱峥
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 102
+doc: 0fc58d9b-ace2-4fdd-8609-a7f6015217f1.html
+def.name: ﻿施泽华走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2016年7月14日
+drug.type: 甲基苯丙胺
+pun: 一、被告人施泽华犯运输毒品罪，判处无期徒刑，剥夺政治权利终身，并处没收个人全部财产。	二、本案查获的毒品甲基苯丙胺片剂2187.62克依法没收。
+drug.weight: 2187.62
+crime: 二、本案查获的毒品甲基苯丙胺片剂2187.62克依法没收。
+ruling.date: 书记员　　王锦华
+secretary.name: 华走私、贩卖、运输、制造毒品一审刑事判决书
+def: 被告人施泽华，男，1976年7月11日生，云南省永德县人，汉族，小学文化，农民，住永德县
+attorney: ['辩护人严静，云南通恒律师事务所律师']
+judge1.name: 黄永庆
+judge2.name: 陈国春
+judge3.name: 邵立伟
+def.recid: 1
+
+Case: 103
+doc: 2e09dedd-e445-4fbf-b471-2d0d1589fdbd.html
+def.name: ﻿贺某某走私、贩卖、运输、制造毒品罪一案一审刑事判决书
+crime.date: 2014年7月17日
+drug.type: 海洛因
+pun: 一、被告人贺某某犯贩卖毒品罪，判处有期徒刑一年，并处罚金人民币2000元（限判决生效后30日内交纳）。	二、涉案毒品海洛因0.89克，依法予以没收。
+drug.weight: 0.89
+crime: 二、涉案毒品海洛因0.89克，依法予以没收。
+ruling.date: 书记员　李　翠
+secretary.name: 某走私、贩卖、运输、制造毒品罪一案一审刑事判决书
+def: 被告人贺某某，女，因涉嫌犯贩卖毒品罪于2014年7月17日被镇雄县公安局取保候审，本院于2014年12月19日继续对其取保候审
+judge1.name: 裴彬
+judge2.name: 朱啟奎
+judge3.name: 康昆
+def.goodattitude: 1
+
+Case: 104
+doc: 5c6b99fc-a906-4716-8465-a90b00aec145.html
+def.name: ﻿陈兴珍走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2017年7月14日
+drug.type: 海洛因
+pun: 一、被告人陈兴珍犯贩卖毒品罪，判处有期徒刑八个月，并处罚金二千元。	二、毒资80元予以没收。
+execution.date: 2017年7月14日
+drug.weight: 0.38
+crime: 经审理查明：2017年7月14日8时40分许，被告人陈兴珍在昆明市呈贡区西门街路边，以人民币八十元贩卖毒品给吸毒人员李某某（已强制戒毒）后，被公安人员现行抓获，当场从李某某手中查获疑似毒品零包两个。经鉴定从疑似毒品零包中检出海洛因成分，净重0.38克。																																																																																																				经审理查明：2017年7月14日8时40分许，被告人陈兴珍在昆明市呈贡区西门街路边，以人民币八十元贩卖毒品给吸毒人员李某某（已强制戒毒）后，被公安人员现行抓获，当场从李某某手中查获疑似毒品零包两个。经鉴定从疑似毒品零包中检出海洛因成分，净重0.38克。
+juror.name: ['朱文娟', '丁艳芳']
+ruling.date: 二〇一七年十二月十三日
+secretary.name: 张云飞
+def: 被告人陈兴珍，女，1963年9月16日出生，彝族，小学文化，户籍所在地四川省泸州市叙永县，家住四川省泸州市叙永县，无业
+attorney: ['辩护人黄英、束颖，云南祥宇律师事务所律师']
+judge1.name: 杨婉菱
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+def.recid: 0
+
+Case: 105
+doc: 6a5772e6-653e-493d-9409-a89b00f2ac99.html
+def.name: ﻿黄川走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2017年6月24日
+drug.type: 海洛因
+pun: 一、被告人黄川犯运输毒品罪，判处有期徒刑十五年，并处没收个人财产人民币10，000元；	二、查获的毒品海洛因净重385克予以没收。
+execution.date: 2017年6月25日
+drug.weight: 385
+crime: 二、查获的毒品海洛因净重385克予以没收。
+juror.name: ['李沙佧', '张玲']
+ruling.date: 二〇一七年十二月十八日
+secretary.name: 张凌翔
+def: 被告人黄川，男，1990年2月26日出生，汉族，小学文化，无职业，河南省内黄县人，住内黄县
+judge1.name: 朱峥
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 106
+doc: 7020ece8-4ba4-48e7-b5d7-a8b200a801b4.html
+def.name: ﻿恒果走私、贩卖、运输、制造毒品一审刑事判决书
+pun: 一、被告人恒果犯运输毒品罪，判处有期徒刑十五年，并处没收个人财产人民币10000元（刑期从判决执行之日起计算，判决执行前先行羁押的，羁押一日折抵刑期一日，即自2017年5月25日起至2032年5月24日止）；	二、缴获的毒品海洛因309.47克依法予以没收。
+drug.type: 海洛因
+drug.weight: 309.47
+crime: 二、缴获的毒品海洛因309.47克依法予以没收。																																																																																																				二、缴获的毒品海洛因309.47克依法予以没收。
+juror.name: ['张玲']
+ruling.date: 二〇一七年十二月十九日
+secretary.name: 杨云
+def: 被告人恒果，曾用名恒玉果，男，1990年6月29日出生，汉族，高中，户籍所在地河南省南阳市西峡县，住河南省南阳市西峡县
+judge1.name: 邹林
+judge2.name: 赵勇
+judge3.name: 
+def.goodattitude: 1
+
+Case: 107
+doc: 6b7127af-34a7-4c5d-bd4c-617d1e6d68ce.html
+def.name: ﻿岩某甲非法持有毒品一案一审刑事判决书
+crime.date: 2015年8月14日
+drug.type: 甲基苯丙胺
+pun: 一、被告人岩某甲犯非法持有毒品罪，判处有期徒刑十个月，并处罚金人民币2000元。	二、扣押于孟连县公安局的红色无牌照小摩托车1辆、摩托车钥匙1把、毒品甲基苯丙胺20克、人民币1200元、黑色直板手机1部、白色直板手机1部，依法予以没收。
+execution.date: 2015年8月14日
+drug.weight: 20
+crime: 二、扣押于孟连县公安局的红色无牌照小摩托车1辆、摩托车钥匙1把、毒品甲基苯丙胺20克、人民币1200元、黑色直板手机1部、白色直板手机1部，依法予以没收。
+juror.name: ['扎思']
+ruling.date: 二〇一六年三月十七日
+secretary.name: 田润玲
+def: 被告人岩某甲，公民身份号码：×××，云南省西盟县人，住西盟县
+judge1.name: 董美云
+judge2.name: 谢光良
+judge3.name: 
+def.goodattitude: 1
+
+Case: 108
+doc: e94d7622-d062-411f-91e2-291961c42404.html
+def.name: ﻿孟某某容留他人吸毒案一审刑事判决书
+drug.type: 甲基苯丙胺
+pun: 一、被告人孟某某犯容留他人吸毒罪，判处有期徒刑六个月，并处罚金人民币五千元。	二、扣押被告人孟某某的吸毒工具铝制水烟筒一个予以没收。
+execution.date: 2015年2月11日
+drug.weight: 
+crime: []
+ruling.date: 书记员　　李富双
+secretary.name: 某容留他人吸毒案一审刑事判决书
+def: 被告人孟某某，男，1971年5月20日生于云南省保山市隆阳区，汉族，小学文化
+attorney: ['辩护人杨学年，云南吉昌律师事务所律师', '辩护人董锐兰，云南吉昌律师事务所实习律师']
+judge1.name: 汪建斌
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 109
+doc: fa7c5cab-bed3-4b95-ba72-a7f4011c8a20.html
+def.name: ﻿马某某走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2016年9月21日
+drug.type: 海洛因
+pun: 一、被告人马某某犯贩卖毒品罪，判处有期徒刑六个月，并处罚金人民币2000元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即刑期自2016年9月21日起至2017年3月20日止。罚金自判决生效后缴纳）。	二、查获的毒品海洛因、毒资人民币100元、金色苹果手机一部予以没收。
+drug.weight: 0.14	0.09
+crime: 经审理查明：2016年9月21日15时许，吸毒人员陈某电话联系马某某购买毒品，并约定交易地点后，马某某来到鲁甸县桃源乡新集镇桃源路90号空置铺面前，吸毒人员陈某用人民币100元向马某某购买毒品可疑物零包一个，被民警当场抓获。民警从马某某左裤包内搜查出陈某向其购买毒品的毒资人民币100元、金色苹果手机一部及其他物品；从吸毒人员陈某右手手掌中搜查出马某某贩卖给陈某的毒品可疑物零包一个。经称重，查获的毒品可疑物，毛重0.14克，净重0.09克。经鉴定，查获的毒品可疑物中检出海洛因成分。查获的毒资人民币100元、金色苹果手机一部已随案移送。马某某归案后如实供述了其犯罪事实。																																																																																																				鲁甸县人民检察院指控：2016年9月20日16时左右，在鲁甸县桃源乡新集镇桃源路90号空置铺面前，马某某以人民币100元的价格向陈某出售毒品可疑物零包一个。经称重，该海洛因零包可疑物毛重0.14克，净重0.09克，经鉴定，该毒品可疑物中检出海洛因成分。
+juror.name: ['吴荣祥']
+ruling.date: 二〇一七年一月二十四日
+secretary.name: 陈月秋
+def: 被告人马某某，曾用名马某江，男，1995年11月2日出生于云南省鲁甸县，回族，初中文化，现住鲁甸县
+judge1.name: 李兴山
+judge2.name: 马亚东
+judge3.name: 
+def.goodattitude: 1
+
+Case: 110
+doc: 1b1f53ce-10b4-4aad-8a7a-a81900b0f2d9.html
+def.name: ﻿杨星宏走私、贩卖、运输、制造毒品一审刑事判决书
+pun: 一、被告人杨星宏犯贩卖毒品罪，判处有期徒刑四年，并处罚金人民币三千元。	二、查获的毒品甲基苯丙胺6.54克予以没收。
+execution.date: 2017年6月17日
+drug.type: 甲基苯丙胺
+drug.weight: 6.54
+crime: 二、查获的毒品甲基苯丙胺6.54克予以没收。																																																																																																				二、查获的毒品甲基苯丙胺6.54克予以没收。
+juror.name: ['陈江']
+ruling.date: 二〇一七年九月二十八日
+secretary.name: 纪德香
+def: 被告人杨星宏，小名老八，男，1995年10月10日出生于临沧市临翔区，彝族，小学文化，无业，住临沧市临翔区
+attorney: ['辩护人杨小泉，云南天外天（临沧）律师事务所律师']
+judge1.name: 陈伟华
+judge2.name: 郝袁
+judge3.name: 
+def.goodattitude: 1
+
+Case: 111
+doc: fd1e3439-d059-48a7-a834-a96c00df94d8.html
+def.name: ﻿李学忠走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2015年7月8日
+drug.type: 冰毒	甲基苯丙胺
+pun: 一、被告人李学忠犯贩卖毒品罪，判处有期徒刑十个月，并处罚金人民币2000元（刑期从判决执行之日起计算，判决执行前先行羁押的，羁押一日折抵刑期一日，即自2018年1月4日起至2018年11月3日止;罚金限判决生效后三个月内缴纳）。	二、公安机关扣押的毒品甲基苯丙胺共计0.83克、毒资人民币300元、vivo牌手机一部、云Ａ×××××吉利美日牌轿车一辆、行车证一本、车钥匙一把、包装物一套依法予以没收。
+drug.weight: 0.83
+crime: 二、公安机关扣押的毒品甲基苯丙胺共计0.83克、毒资人民币300元、vivo牌手机一部、云Ａ×××××吉利美日牌轿车一辆、行车证一本、车钥匙一把、包装物一套依法予以没收。																																																																																																				二、公安机关扣押的毒品甲基苯丙胺共计0.83克、毒资人民币300元、vivo牌手机一部、云Ａ×××××吉利美日牌轿车一辆、行车证一本、车钥匙一把、包装物一套依法予以没收。
+ruling.date: 书记员　　祝　彬
+secretary.name: 忠走私、贩卖、运输、制造毒品一审刑事判决书
+def: 被告人李学忠，男，汉族，1976年4月27日出生，小学文化，云南省安宁市人，户籍所在地：云南省安宁市太平新城街道办事处
+judge1.name: 李鑫鹏
+judge2.name: 
+judge3.name: 
+def.recid: 1
+def.goodattitude: 1
+
+Case: 112
+doc: 52ca8c84-06cf-4ab8-a912-2976143523dd.html
+def.name: ﻿陶某贩卖毒品案一审刑事判决书
+crime.date: 2016年1月1日
+drug.type: 冰毒	甲基苯丙胺
+pun: 一、被告人陶某犯贩卖毒品罪，判处有期徒刑七个月（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即刑期自2016年2月2日起至2016年9月1日止），并处罚金人民币2,000元（限判决生效之日起三个月内缴纳）。	二、作案工具手机一部依法予以没收。
+drug.weight: 0.57	0.47
+crime: 经审理查明，2016年1月1日，段某某向威信县公安局报称，威信县扎西镇田坝村有人贩卖毒品，经民警安排，由段某某联系李某某帮助购买毒品。当晚19时许，民警将200元现金交由段某某转交李某某，李某某遂联系被告人陶某向其购买200元的毒品冰毒，经陶某安排，双方约定由同案犯万某伟（已判）在威信县人民医院门口一辆车牌为粤SD1***本田轿车内将一小袋冰毒可疑物贩卖给李某某，李某某支付万某伟200元的毒资后离开，因错失抓捕时机，导致万某伟逃走。当晚20时许，经公安机关民警的第二次安排，民警以同样的方式将200元现金交由段某某转交李某某，李某某向被告人陶某购买200元的毒品“马儿”。双方约定在威信县扎西镇后街“皇朝网吧”楼下街道旁进行交易，随后经陶某安排，万某伟与李某某在威信县扎西镇后街“皇朝网吧”楼下街道旁一辆车牌为粤SD1***的本田轿车内正在进行毒品交易时，被公安民警抓获，并当场查获毒品“马儿”可疑物5片，毒资200元。经称量被查获的毒品马儿可疑物毛重0.57克，净重0.47克。经昭通市公安司法鉴定中心鉴定，以上毒品“马儿”可疑物中检出甲基苯丙胺成分。																																																																																																				经审理查明，2016年1月1日，段某某向威信县公安局报称，威信县扎西镇田坝村有人贩卖毒品，经民警安排，由段某某联系李某某帮助购买毒品。当晚19时许，民警将200元现金交由段某某转交李某某，李某某遂联系被告人陶某向其购买200元的毒品冰毒，经陶某安排，双方约定由同案犯万某伟（已判）在威信县人民医院门口一辆车牌为粤SD1***本田轿车内将一小袋冰毒可疑物贩卖给李某某，李某某支付万某伟200元的毒资后离开，因错失抓捕时机，导致万某伟逃走。当晚20时许，经公安机关民警的第二次安排，民警以同样的方式将200元现金交由段某某转交李某某，李某某向被告人陶某购买200元的毒品“马儿”。双方约定在威信县扎西镇后街“皇朝网吧”楼下街道旁进行交易，随后经陶某安排，万某伟与李某某在威信县扎西镇后街“皇朝网吧”楼下街道旁一辆车牌为粤SD1***的本田轿车内正在进行毒品交易时，被公安民警抓获，并当场查获毒品“马儿”可疑物5片，毒资200元。经称量被查获的毒品马儿可疑物毛重0.57克，净重0.47克。经昭通市公安司法鉴定中心鉴定，以上毒品“马儿”可疑物中检出甲基苯丙胺成分。
+juror.name: ['杨远江']
+ruling.date: 二〇一六年六月十二日
+secretary.name: 张晓琴
+def: 被告人陶某
+judge1.name: 刘祥恒
+judge2.name: 白春银
+judge3.name: 
+def.goodattitude: 1
+
+Case: 113
+doc: e58b6b54-0918-4db0-97ba-723ecc63d2a6.html
+def.name: ﻿唐木背贩卖毒品案一审刑事判决书
+crime.date: 2016年4月22日
+drug.type: 海洛因	甲基苯丙胺
+pun: 一、被告人唐木背犯贩卖毒品罪，判处有期徒刑十五年，并处没收个人财产人民币三万元。（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2016年4月23日起至2031年4月22日止。）	二、查获的毒品甲基苯丙胺片剂43.4克、海洛因14.7克及侦查机关扣押的人民币1511元依法予以没收。
+drug.weight: 43.4	14.7
+crime: 二、查获的毒品甲基苯丙胺片剂43.4克、海洛因14.7克及侦查机关扣押的人民币1511元依法予以没收。
+ruling.date: 书记员　　方　杰
+secretary.name: 背贩卖毒品案一审刑事判决书
+def: 被告人唐木背，女，1956年生，景颇族，云南省芒市人
+judge1.name: 雷自荣
+judge2.name: 寸守庆
+judge3.name: 陈文超
+
+Case: 114
+doc: 1d21edc0-0de4-405b-bca4-a7cb011274a2.html
+def.name: ﻿周永飞运输毒品案一审刑事判决书
+crime.date: 2016年7月17日
+drug.type: 海洛因
+pun: 一、被告人周永飞犯运输毒品罪，判处有期徒刑十五年，并处没收个人财产人民币2万元。	二、查获的毒品海洛因338克、手机一部予以没收。
+execution.date: 2016年7月18日
+drug.weight: 338
+crime: 二、查获的毒品海洛因338克、手机一部予以没收。
+ruling.date: 书记员　　王燕红
+secretary.name: 飞运输毒品案一审刑事判决书
+def: 被告人周永飞，男，现年30岁
+judge1.name: 李静平
+judge2.name: 杜梅
+judge3.name: 徐学林
+def.goodattitude: 1
+
+Case: 115
+doc: 5faafcd5-cfd2-4c00-88f2-01912a1bb086.html
+def.name: ﻿李玉华贩卖毒品案一审刑事判决书
+crime.date: 2014年8月3日
+drug.type: 海洛因
+pun: 一、被告人李玉华犯贩卖毒品罪，判处有期徒刑五年，并处罚金人民币5000.00元。罚金限判决生效后第二日起十日内缴纳。	二、涉案物品：手机一部、赃款人民币700.00元，依法予以没收，上缴国库。
+execution.date: 2014年8月3日
+drug.weight: 12.1
+crime: 香格里拉县人民检察院指控：2014年8月3日11时30分，香格里拉县公安局禁毒大队接群众匿名举报称，在香格里拉县城金钻KTV附近有人贩卖毒品。接报后，民警立即出警将被告人李玉华抓获，并从其右裤包内查获毒品海洛因2块，从其租住的出租房内查获毒品海洛因2块，经称量净重共计12.1克。另查明，李玉华向吸毒人员施某某、罗某某、陈某某、李某某贩卖毒品海洛因。
+juror.name: ['：格茸七林']
+ruling.date: 二〇一五年一月二十三日
+secretary.name: ：和灿芬
+def: 被告人李玉华，曾用名安树，男，1975年3月12日出生，彝族，文盲，农民，户籍所在地：云南省维西傈僳族自治县
+judge1.name: 郑学艳
+judge2.name: 杨帆
+judge3.name: 
+def.goodattitude: 1
+
+Case: 116
+doc: 3dddd066-29ea-46a1-8c13-29da452b441a.html
+def.name: ﻿袁留全贩卖毒品案一审刑事判决书
+crime.date: 2014年9月13日
+drug.type: 海洛因	鸦片	甲基苯丙胺
+pun: 一、被告人袁留全犯贩卖毒品罪，判处有期徒刑一年六个月，并处罚金人民币2000元。罚金自判决生效后一个月缴纳。（刑期自判决执行之日起计算。判决执行前先行羁押的，羁押一日折抵刑期一日，即刑期自2014年9月14日起至2016年3月13日止。）	二、公安机关扣押的袁留全现金323元，作案工具黑色手机一部，马某的现金80元依法予以没收，上缴国库。
+drug.weight: 1.79	0.79	0.40	0.08	0.87
+crime: 经称量，红河88牌香烟盒内查获的毒品海洛因可疑物毛重：1.79克，净重：0.79克；床旁一盒子内查获的毒品海洛因可疑物，毛重：0.40克，净重：0.08克。经送检，所送检的检材均检见毒品海洛因成分。																																																																																																				公诉机关认为，被告人袁留全的行为已触犯《中华人民共和国刑法》第三百四十七条第一款、第四款之规定，犯罪事实清楚，证据确实充分，应以贩卖毒品罪追究其刑事责任，鉴于被告人袁留全贩卖毒品数量为0.87克，系毒品再犯，有吸食毒品的情节，量刑方面建议对被告人袁留全在有期徒刑一年以上一年六个月以下量刑。提请本院对被告人袁留全定罪处罚。
+juror.name: ['谢妍玲']
+ruling.date: 二〇一五年三月二日
+secretary.name: 王瑞琪
+def: 被告人袁留全，男，1970年6月17日生，因涉嫌贩卖毒品罪于2014年9月14日被丘北县公安局刑事拘留，2014年9月24日经丘北县人民检察院批准逮捕，次日由丘北县公安局执行逮捕
+judge1.name: 李宾果
+judge2.name: 伍新声
+judge3.name: 
+def.recid: 1
+
+Case: 117
+doc: 6f1446e0-9206-4cfb-903a-c4075b64451d.html
+def.name: ﻿唐攀、于倩运输毒品案一审刑事判决书
+crime.date: 2014年8月7日
+drug.type: 甲基苯丙胺
+pun: 一、被告人唐攀犯运输毒品罪，判处有期徒刑十五年，并处没收个人财产人民币20000元；	二、被告人于倩犯运输毒品罪，判处有期徒刑十五年，并处没收个人财产人民币20000元；	三、查获的毒品甲基苯丙胺147.81克，依法予以没收。
+execution.date: 2014年8月7日
+drug.weight: 147.81
+crime: 三、查获的毒品甲基苯丙胺147.81克，依法予以没收。
+ruling.date: -5-
+secretary.name: 、于倩运输毒品案一审刑事判决书
+def: 被告人唐攀，男，1986年12月05日生，汉族，重庆市璧山县人，高中文化，无业	被告人于倩，女，1986年10月07日出生，汉族，贵州省遵义市人，初中文化，无业
+attorney: ['辩护人严胜浪，云南洪兴律师事务所律师', '辩护人保丽菠，云南胜景律师事务所律师']
+judge1.name: 唐志
+judge2.name: 陈志刚
+judge3.name: 崔新富
+def.goodattitude: 1
+
+Case: 118
+doc: 2640ecc7-b5f4-49d5-97fe-bf2d6dac3809.html
+def.name: ﻿朱某某非法持有毒品案一审刑事判决书
+crime.date: 2013年11月20日
+drug.type: 甲基苯丙胺
+pun: 一、被告人朱某某犯非法持有毒品罪，判处有期徒刑二年（刑期自判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2013年11月21日起至2015年11月20日止），并处罚金人民币40000元（限判决生效之日起十日内缴清）。	二、涉案毒品甲基苯丙胺32.4克予以没收并依法处理。
+drug.weight: 32.4
+crime: 二、涉案毒品甲基苯丙胺32.4克予以没收并依法处理。
+ruling.date: 书记员　　彭　倩
+secretary.name: 某非法持有毒品案一审刑事判决书
+def: 被告人朱某某，男，汉族，1986年2月7日出生，小学文化，云南省会泽县人，农民
+attorney: ['辩护人夏举龙，云南中天律师事务所律师', '辩护人王宗林，云南睿信律师事务所律师']
+judge1.name: 吴兆敏
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 119
+doc: beefc77e-1b43-47fc-a683-a8f600ab8393.html
+def.name: ﻿雷某某走私、贩卖、运输、制造毒品一审刑事判决书
+drug.type: 甲基苯丙胺
+pun: 被告人雷某某犯贩卖毒品罪，判处有期徒刑一年，并处罚金人民币二千元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2018年1月5日起至2019年1月4日止。罚金限判决生效后三个月内执行）。	缴获的毒品甲基苯丙胺1.889克，予以没收销毁。
+drug.weight: 1.889
+crime: 缴获的毒品甲基苯丙胺1.889克，予以没收销毁。																																																																																																				缴获的毒品甲基苯丙胺1.889克，予以没收销毁。
+ruling.date: 书记员　　山敏
+secretary.name: 某走私、贩卖、运输、制造毒品一审刑事判决书
+def: 被告人雷某某，男，1971年10月2日出生，汉族，初中文化，无业，户籍所在地：重庆市沙坪坝区，住重庆市沙坪坝区
+judge1.name: 何燕
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 120
+doc: 18069643-1d12-46ab-9adc-6a508121f48b.html
+def.name: ﻿余德剑、王兴磊犯运输毒品罪一案一审刑事判决书
+crime.date: 2013年11月25日
+drug.type: 海洛因
+pun: 一、被告人余德剑犯运输毒品罪，判处死刑，缓期二年执行（死刑缓期执行的期间，从判决确定之日起计算），剥夺政治权利终身，并处没收个人全部财产。	二、对被告人余德剑限制减刑。	三、被告人王兴磊犯运输毒品罪，判处有期徒刑十五年（刑期从判决执行之日起计算；判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2013年11月26日起至2028年11月25日止），并处没收个人全部财产。	四、对查获的海洛因3430克、云AXXX**“东风标致”508轿车、验钞机、电子秤、手机5部依法予以没收。
+drug.weight: 3430
+crime: 四、对查获的海洛因3430克、云AXXX**“东风标致”508轿车、验钞机、电子秤、手机5部依法予以没收。
+ruling.date: 书记员　　张　池
+secretary.name: 剑、王兴磊犯运输毒品罪一案一审刑事判决书
+def: 被告人余德剑，曾用名王兴江，男，汉族	被告人王兴磊，绰号王磊、磊磊，男，汉族
+attorney: ['辩护人黄兴，云南俊泰律师事务所律师', '辩护人邓朝印，云南大滔律师事务所昭通分所律师']
+judge1.name: 何家如
+judge2.name: 黄开奇
+judge3.name: 朱小二
+def.goodattitude: 1
+def.recid: 1
+
+Case: 121
+doc: 3c093121-ccbb-4fed-8a33-15e650e072c6.html
+def.name: ﻿黄文五贩卖毒品案一审刑事判决书
+crime.date: 2014年2月28日
+drug.type: 海洛因
+pun: 被告人黄文五犯贩卖毒品罪，判处有期徒刑一年零一个月，并处罚金人民币5000元。
+drug.weight: 3.5	1.84
+crime: 经审理查明：2014年2月28日12时左右，吸毒人员赵海林（另案处理）在电话中向被告人黄文五购买毒品，并让被告人黄文五将毒品海洛因零包送至师宗县人民医院门口。后在师宗县人民医院门口公交车站台处交易时被公安机关当场抓获，且当场从被告人黄文五身上查获疑似毒品海洛因零包12个。经称量，疑似毒品海洛因毛重3.5克，净重1.84克。经鉴定，毒品可疑物中检出海洛因。																																																																																																				师宗县人民检察院指控，2014年2月28日12时左右，吸毒人员赵海林（另案处理）在电话中向被告人黄文五购买毒品，并让被告人黄文五将毒品海洛因零包送至师宗县人民医院门口。后在师宗县人民医院门口公交车站台处交易时被公安机关当场抓获，且当场从被告人黄文五身上查获疑似毒品海洛因零包12个。经称量，疑似毒品海洛因毛重3.5克，净重1.84克。经鉴定，毒品可疑物中检出海洛因。
+ruling.date: 书记员　　孙　超
+secretary.name: 五贩卖毒品案一审刑事判决书
+def: 被告人黄文五，男，汉族，1977年6月4日生于云南省师宗县，初中文化，农民
+judge1.name: 谢存柱
+judge2.name: 黄丽坤
+judge3.name: 
+def.recid: 1
+def.goodattitude: 1
+
+Case: 122
+doc: f47a29be-2d62-48a9-bedf-067d8b234e90.html
+def.name: ﻿杨兴华运输毒品案刑事一审判决书
+crime.date: 2015年9月4日
+drug.type: 甲基苯丙胺
+pun: 一、被告人杨兴华犯运输毒品罪，判处有期徒刑十五年（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2015年9月5日起至2030年9月4日止），并处没收个人财产人民币一万元。	二、本案查获的毒品甲基苯丙胺片剂186.2克予以没收。
+drug.weight: 186.2
+crime: 二、本案查获的毒品甲基苯丙胺片剂186.2克予以没收。
+ruling.date: 书记员　胡作兴
+secretary.name: 华运输毒品案刑事一审判决书
+def: 被告人杨兴华，男，汉族，1968年10月2日生，小学文化，农民，云南省凤庆县人，家住凤庆县勐佑镇棕园村
+judge1.name: 邹震
+judge2.name: 李红忠
+judge3.name: 刘磊
+
+Case: 123
+doc: 65b73245-c0ed-4cf2-9781-f506209d57f4.html
+def.name: ﻿马在祥贩卖毒品案一审刑事判决书
+crime.date: 2014年9月17日
+drug.type: 海洛因
+pun: 一、被告人马某某犯贩卖毒品罪，判处有期徒刑七个月（刑期自判决执行之日起计算。判决执行前先行羁押的，羁押一日折抵刑期一日，即自二0一四年九月十八日起至二0一五年四月十七日止），并处罚金人民币二千元（已缴纳）；	二、毒品海洛因0.8克及随案移送塑料薄膜6张、塑料小瓶一个予以没收。
+drug.weight: 0.8
+crime: 二、毒品海洛因0.8克及随案移送塑料薄膜6张、塑料小瓶一个予以没收。
+juror.name: ['杨燕玲']
+ruling.date: 二〇一五年四月二日
+secretary.name: 陈涛
+def: 被告人马某某，男，1979年3月22日生，回族，云南省鲁甸县人，小学文化，农民，住鲁甸县
+attorney: ['辩护人陈学东，云南长鸣律师事务所律师']
+judge1.name: 李月章
+judge2.name: 赵声礼
+judge3.name: 
+def.goodattitude: 1
+def.recid: 0
+
+Case: 124
+doc: 3ad00896-da39-4fc2-967a-a7680093954d.html
+def.name: ﻿邓继辉走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2016年8月21日
+drug.type: 海洛因
+pun: 一、被告人邓继辉犯运输毒品罪，判处有期徒刑十五年，并处没收个人财产十五万元人民币。	二、本案查获的毒品海洛因351.3克、手机1部依法没收。
+execution.date: 2016年8月21日
+drug.weight: 351.3
+crime: 二、本案查获的毒品海洛因351.3克、手机1部依法没收。
+ruling.date: 书记员　　董雅倩
+secretary.name: 辉走私、贩卖、运输、制造毒品一审刑事判决书
+def: 被告人邓继辉，男，1995年10月21日生于贵州省平塘县，汉族，初中文化，农民，住平塘县
+judge1.name: 林发文
+judge2.name: 丁友保
+judge3.name: 赵爱超
+def.goodattitude: 1
+
+Case: 125
+doc: 6886683b-b7cf-4719-b89b-a8ee0098447e.html
+def.name: ﻿何民富、杨正荣走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2017年10月14日
+drug.type: 海洛因	冰毒	甲基苯丙胺
+pun: 一、被告人何民富犯贩卖毒品罪，判处有期徒刑八年，并处罚金10000元。	二、被告人杨正荣犯贩卖毒品罪，判处拘役四个月，并处罚金1000元。	三、查获的毒品海洛因1.052克、甲基苯丙胺15.718克、毒资1150元依法予以没收。
+execution.date: 2018年1月18日
+drug.weight: 1.052	15.718
+crime: 三、查获的毒品海洛因1.052克、甲基苯丙胺15.718克、毒资1150元依法予以没收。
+juror.name: ['字红光']
+ruling.date: 二〇一八年四月二十七日
+secretary.name: 李怡虹
+def: 被告人何民富（又名何明富、老左、金荣），男，1977年7月10日出生于临沧市临翔区，汉族，初中文化，农民，住临沧市临翔区	被告人杨正荣（又名大洋芋），男，1980年2月20日出生于临沧市临翔区，汉族，初中文化，农民，住临沧市临翔区
+judge1.name: 李世俊
+judge2.name: 郝袁
+judge3.name: 
+def.goodattitude: 1
+def.recid: 1
+
+Case: 126
+doc: 0dbd79bc-2700-4dfb-bbcb-d4c49de39f2e.html
+def.name: ﻿色依老米运输毒品案一审刑事判决书
+crime.date: 2013年8月2日
+drug.type: 海洛因
+pun: 一、被告人色依老米犯运输毒品罪，判处有期徒刑十五年，并处没收财产人民币3万元。	二、查获的毒品海洛因455克没收销毁，手机一部没收上缴国库。
+execution.date: 2013年8月2日
+drug.weight: 455
+crime: 二、查获的毒品海洛因455克没收销毁，手机一部没收上缴国库。
+ruling.date: 二〇一四年一月二十九日
+secretary.name: 杨海静
+def: 被告人色依老米，男，1986年3月4日生，彝族，四川省凉山彝族自治州金阳县人，文盲，农民
+judge1.name: 马武
+judge2.name: 李斌
+judge3.name: 王丽
+def.goodattitude: 1
+def.recid: 1
+
+Case: 127
+doc: 486899bf-3b86-4793-8d31-dfc6960ffa43.html
+def.name: ﻿王朝亮运输毒品案一审刑事判决书
+crime.date: 2014年11月24日
+drug.type: 甲基苯丙胺
+pun: 一、被告人王朝亮犯运输毒品罪，判处有期徒刑十五年，并处没收个人全部财产；	二、查获的毒品及扣押的被告人涉案财物依法予以没收。
+drug.weight: 204.6	0.5
+crime: 德宏州人民检察院指控：2014年11月24日，被告人王朝亮携带毒品乘坐云N179**小客车前往芒市，途经芒海至遮放三公里处公开查缉点时被执勤人员抓获，当场从被告人王朝亮的上衣口袋里查获甲基苯丙胺204.6克。																																																																																																				6．称量笔录及取样笔录。证实从王朝亮身上查获的一坨毒品可疑物，经称量，净重204.6克，从中随机提取0.5克样品送检。
+juror.name: ['杨正东']
+ruling.date: 二〇一五年五月十八日
+secretary.name: 杨新磊
+def: 被告人王朝亮（自报），男，1996年10月10日出生，汉族，小学文化，务工，国籍不明
+judge1.name: 许瑶
+judge2.name: 杨清礼
+judge3.name: 
+def.goodattitude: 1
+
+Case: 128
+doc: 681cec8e-da4a-4405-aad6-1231e759ae16.html
+def.name: ﻿汪伍剑非法有毒品案一审刑事判决书
+pun: 一、被告人汪伍剑犯非法持有毒品罪，判处有期徒刑八年（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2015年3月4日起至2023年3月3日止），并处罚金人民币20000元（限判决生效之日起十日内缴清）。	二、涉案的65.9克甲基苯丙胺予以没收并依法处理。
+drug.type: 甲基苯丙胺
+drug.weight: 65.9
+crime: 二、涉案的65.9克甲基苯丙胺予以没收并依法处理。																																																																																																				二、涉案的65.9克甲基苯丙胺予以没收并依法处理。
+juror.name: ['邝昕', '闻思阳']
+ruling.date: 二〇一五年九月九日
+secretary.name: 彭倩
+def: 被告人汪伍剑，曾用名汪锡凯，男，1994年3月15日出生，汉族，初中文化，无业
+judge1.name: 吴兆敏
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 129
+doc: 644063b5-37eb-4c00-9bbc-a84d010e9d64.html
+def.name: ﻿岩依担走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2016年8月1日
+drug.type: 甲基苯丙胺	海洛因
+pun: 一、被告人岩依担犯贩卖毒品罪，判处有期徒刑七年；并处罚金10000元人民币。	二、涉案海洛因17.8克、人民币7240元、手机一部（存放于澜沧县公安局）予以没收。
+execution.date: 2016年8月4日
+drug.weight: 17.8
+crime: 二、涉案海洛因17.8克、人民币7240元、手机一部（存放于澜沧县公安局）予以没收。																																																																																																				二、涉案海洛因17.8克、人民币7240元、手机一部（存放于澜沧县公安局）予以没收。
+juror.name: ['罗琼珍']
+ruling.date: 二〇一六年十二月五日
+secretary.name: 陈敏
+def: 被告人岩依担，男，1965年6月12日出生，傣族，小学三年级文化，农民
+judge1.name: 刘桂森
+judge2.name: 唐家林
+judge3.name: 
+def.goodattitude: 1
+
+Case: 130
+doc: 1921ef1c-8e73-40ee-a4d6-ed5947f4e489.html
+def.name: ﻿梁齐运输毒品一案一审刑事判决书
+pun: 一、被告人梁××犯运输毒品罪，判处有期徒刑十五年，并处没收财产人民币四万元；	二、查获的毒品海洛因八十一克，予以没收。
+execution.date: 2015年4月22日
+drug.type: 海洛因
+drug.weight: 81
+crime: 二、查获的毒品海洛因八十一克，予以没收。																																																																																																				昆明铁路运输检察院指控：2015年4月22日5时40分许，被告人梁××携带毒品，持当日K114次昆明至成都的旅客列车车票，从昆明火车站进站乘车，在二楼安全检查口，被执勤民警通过仪器检查从其体内查获海洛因16坨，共计净重81克。
+ruling.date: 书记员　　高晓燕
+secretary.name: 运输毒品一案一审刑事判决书
+def: 被告人梁××，男
+judge1.name: 李淑华
+judge2.name: 陈亮
+judge3.name: 龚袭
+def.goodattitude: 1
+
+Case: 131
+doc: a94ae832-c7e7-457d-9476-3231f5a38870.html
+def.name: ﻿被告人王贤贩卖毒品一审刑事判决书
+drug.type: 甲基苯丙胺
+pun: 一、被告人王贤犯贩卖毒品罪，判处有期徒刑八年零六个月，并处罚金人民币二万元；	二、涉案摩托车一辆（“GYGUNSZ”牌黑色二轮摩托车，未上牌照），予以没收；查获毒品甲基苯丙胺21.1克，予以没收销毁。
+execution.date: 2015年12月15日
+drug.weight: 21.1
+crime: 二、涉案摩托车一辆（“GYGUNSZ”牌黑色二轮摩托车，未上牌照），予以没收；查获毒品甲基苯丙胺21.1克，予以没收销毁。
+juror.name: ['黄晖', '钱利华']
+ruling.date: 二〇一六年九月二十九日
+secretary.name: 鲁春
+def: 被告人王贤，公民身份号码XXX，云南省昭通市镇雄县人，家住昭通市镇雄县
+judge1.name: 高雁
+judge2.name: 
+judge3.name: 
+
+Case: 132
+doc: 13ce3bdf-7008-4635-b19e-1b9d7e0ab192.html
+def.name: ﻿杨盛洪运输毒品案一审刑事判决书
+pun: 一、被告人杨盛洪犯运输毒品罪，判处有期徒刑十四年，并处罚金人民币10000元。（刑期从判决执行之日起计算，判决执行前先行羁押的，羁押一日折抵刑期一日，即自2015年1月7日起至2029年1月6日止。）	二、缴获的毒品甲基苯丙胺447.8克依法予以没收。
+drug.type: 甲基苯丙胺
+drug.weight: 447.8
+crime: 二、缴获的毒品甲基苯丙胺447.8克依法予以没收。																																																																																																				二、缴获的毒品甲基苯丙胺447.8克依法予以没收。
+juror.name: ['张玲']
+ruling.date: 二〇一五年六月十七日
+secretary.name: 李秀江
+def: 被告人杨盛洪，男，1968年11月14日出生，汉族，初中文化，无业，湖南省常德市武陵区人，住湖南省常德市武陵区
+judge1.name: 王勇
+judge2.name: 杨净淞
+judge3.name: 
+def.goodattitude: 1
+
+Case: 133
+doc: 56f5e41b-b8d5-40a6-b71f-e23bfec771f8.html
+def.name: ﻿李大丰、杜光伟、钟其强、黄平、崔洪贩卖、运输毒品罪刑事判决书
+pun: 
+drug.type: 
+drug.weight: 
+crime: []
+ruling.date: <a type='dir' name='WBSB'></a><div style='TEXT-ALIGN: center; LINE-HEIGHT: 25pt; MARGIN: 0.5pt 0cm; FONT-FAMILY: 宋体; FONT-SIZE: 22pt;'>四川省遂宁市中级人民法院</div><div style='TEXT-ALIGN: center; LINE-HEIGHT: 30pt; MARGIN: 0.5pt 0cm; FONT-FAMILY: 仿宋; FONT-SIZE: 26pt;'>刑 事 判 决 书</div><div style='TEXT-ALIGN: right; LINE-HEIGHT: 30pt; MARGIN: 0.5pt 0cm;  FONT-FAMILY: 仿宋;FONT-SIZE: 16pt; '>（2014）遂中刑初字第1号</div><a type='dir' name='DSRXX'></a><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>公诉机关四川省遂宁市人民检察院。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>被告人李大丰，男，1974年1月10日出生，汉族，四川省大英县人，初中文化，无业。1999年3月因犯盗窃罪被云南省维西县人民法院判处有期徒刑十一年，2005年4月减刑释放。2006年12月12日，因犯故意伤害罪被云南省红河州中级人民法院判处死刑，缓期两年执行，剥夺政治权利终身；2009年2月10日被云南省高级人民法院裁定减为无期徒刑，剥夺政治权利终身；2011年9月26日被云南省高级人民法院裁定减为有期徒刑19年零10个月，剥夺政治权利7年，应服刑至2031年7月25日止；余刑为19年零55天（2011年9月26日减刑后至2012年5月30日第一次保外就医前已服刑8个月零55天）；2012年5月30日被云南省监狱管理局决定保外就医1年；2013年5月22日，因病被四川省监狱管理局批准决定保外就医1年。2013年7月19日因涉嫌贩卖毒品罪被遂宁市公安局刑事拘留，经遂宁市人民检察院批准，同年8月23日被遂宁市公安局执行逮捕。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>指定辩护人杨敏，四川蜀中律师事务所律师。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>被告人杜光伟，男，1967年3月16日出生，汉族，云南省普洱市人，初中文化，无业。2013年7月19日因涉嫌贩卖毒品罪被遂宁市公安局刑事拘留，经遂宁市人民检察院批准，同年8月23日被遂宁市公安局执行逮捕。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>辩护人秦茂青，四川大山律师事务所律师。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>被告人钟其强，男，1989年1月25日出生，汉族，四川省大英县人，初中文化，无业。2011年9月15日因犯故意伤害罪被大英县人民法院判处有期徒刑三年，缓刑四年，缓刑考验期为2011年9月25日至2015年9月24日（因该罪2011年5月14日被刑事拘留，同年9月20日被取保候审）。2013年7月19日因涉嫌贩卖毒品罪被遂宁市公安局刑事拘留，经遂宁市人民检察院批准，同年8月23日被遂宁市公安局执行逮捕。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>辩护人唐强，四川遂州律师事务所律师。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>被告人黄平，男，1986年11月15日出生，汉族，四川省大英县人，初中文化，无业。2003年12月12日因犯抢劫罪被大英县人民法院判处有期徒刑两年，2005年10月26日刑满释放。2007年4月17日因犯运输毒品罪被新疆乌鲁木齐市沙依巴克区人民法院判处有期徒刑8年零6个月，2012年8月3日刑满释放。2013年7月19日因涉嫌贩卖毒品罪被遂宁市公安局刑事拘留，经遂宁市人民检察院批准，同年8月23日被遂宁市公安局执行逮捕。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>辩护人张翼，四川斗城律师事务所律师。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>被告人崔洪，男，1969年12月6日出生，汉族，重庆市沙坪坝区人，初中文化，无业。2000年9月26日因犯票据诈骗罪、诈骗罪被重庆市沙坪坝区人民法院判处有期徒刑7年零6个月，2005年9月23日刑满释放。2007年7月3日因票据诈骗罪被新疆乌鲁木齐市天山区人民法院判处有期徒刑5年，2011年11月19日刑满释放。2013年7月19日因涉嫌贩卖毒品罪被遂宁市公安局刑事拘留，经遂宁市人民检察院批准，于同年8月23日被遂宁市公安局执行逮捕。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>指定辩护人汤洪波，四川民谐律师事务所律师。</div><a type='dir' name='SSJL'></a><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>四川省遂宁市人民检察院以遂检刑诉（2013）26号起诉书指控被告人李大丰、杜光伟、钟其强、黄平、崔洪犯贩卖、运输毒品罪一案，于2013年12月10日向本院提出公诉。本院审查后，认为符合法定开庭条件，依法组成合议庭于2013年12月26日、2014年1月3日、1月26日公开开庭审理了本案。四川省遂宁市人民检察院检察员杜永刚、代理检察员杜萍萍出庭支持公诉。被告人李大丰及其指定辩护人杨敏，被告人杜光伟及其辩护人秦茂青，被告人钟其强及其辩护人唐强，被告人黄平及其辩护人张翼，被告人崔洪及其指定辩护人汤洪波到庭参加诉讼。期间，因需补充侦查证据，四川省遂宁市人民检察院于2014年1月7日建议延期审理，同年1月20日补充侦查完毕。本案现已审理终结。</div><a type='dir' name='AJJBQK'></a><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>公诉机关四川省遂宁市人民检察院起诉书指控称：2013年7月初，“小波”（在逃）让被告人杜光伟从缅甸货岛帮其运送麻古四板共计24000粒左右到四川省遂宁市贩卖给被告人李大丰，在贩卖后将毒资带回，称与被告人李大丰已谈成价格18元／粒，承诺给杜光伟5元／粒的好处费，并告诉了李大丰的联系方式。杜光伟同意后，将用编制袋包装的上述毒品麻古带回云南省普洱市孟连县其居住处。2013年7月16日，杜光伟从其居住处出发将上述毒品麻古往四川省遂宁市运送，并电话告知李大丰其将于7月18日凌晨1时左右到达遂宁。李大丰接电话后，遂电话联系被告人钟其强，让其以26元／粒的价格帮助联系毒品麻古买家，钟其强同意后电话联系被告人黄平，让黄平帮忙联系毒品麻古买家，与黄平商量好高于26元／粒的利润二人平分，黄平同意。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>7月18日凌晨1时许，李大丰在遂宁市城区物流港汽车站接到杜光伟后，乘坐出租车前往遂宁市城区中南宾馆，在出租车上，杜光伟将上述24000粒左右麻古交给了李大丰，李大丰将中南宾馆620号房卡交与杜光伟。杜光伟到达中南宾馆后，李大丰将上述24000粒左右麻古带回遂宁市城区豆芽巷租房内，并电话联系钟其强告知麻古已到，让其联系麻古买家。钟其强遂电话联系黄平与黄平在中南宾馆519房间会合后，黄平便电话联系了重庆买家被告人崔洪。7月18日凌晨6时许，崔洪与黄明（在逃）等三人从重庆到达遂宁市城区中南宾馆519房间，钟其强便从李大丰处将3000粒麻古带至中南宾馆519房间内以28元／粒的价格卖给黄明，黄明当场支付给钟其强现金人民币56000元，黄平从中数出6000元与钟其强平分。后黄明与钟其强、黄平等人到中南宾馆楼下工商银行堤福自助银行将剩余款项28000元转账给钟其强工商银行卡内。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>2013年7月18日上午10时许，李大丰、钟其强在中南宾馆620房间内交给杜光伟55000元毒资。后李大丰携带14000粒麻古到成都进行贩卖，剩余麻古放在豆芽巷租房内，让钟其强帮助贩卖。7月18日晚21时许，黄平电话联系钟其强称崔洪欲以27.5元／粒的价格购买1200粒麻古，钟其强便从李大丰租房内取出3000粒毒品麻古带至君豪阳光酒店517房间内将麻古拆分出1200粒。晚22时许，在车牌为渝B0H5**遂宁到重庆的野的上，钟其强将1200粒麻古交给崔洪，崔洪当场支付给钟其强现金人民币3500元，余下款项29800元，崔洪通过手机网上支付宝平台转账给钟其强工商银行卡内。晚23时许，钟其强到中南宾馆620房间内交给杜光伟5000元毒资。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>2013年7月18日晚23时许，被告人崔洪在遂渝高速遂宁城南收费站处被遂宁市公安局民警挡获，当场从崔洪乘坐的车牌为渝B0H5**野的上查获红色片剂可疑物六袋，经称重，净重为110.34克，数量为1198粒，经鉴定，检出甲基苯丙胺和咖啡因成分，其甲基苯丙胺含量为1#检材11.62g／100g、2号检材11.51g／100g。同日晚23时许，被告人黄平在遂宁市城区君豪阳光酒店517房间内被遂宁市公安局民警挡获，当场查获包装麻古用的包装袋一个，白色可疑物晶体一袋，经称重，净重为0.07克，经鉴定，检出甲基苯丙胺成分。同日晚23时许，被告人钟其强在遂宁市城区中南宾馆大门口被遂宁市公安局民警挡获，当场从钟其强随身背带的黑黄色挎包内查获红色片剂可疑物九袋，经称重，净重为168.65克，数量为1788粒，经鉴定，检出甲基苯丙胺和咖啡因成分，其甲基苯丙胺含量为1#检材11.44g／100g、2号检材11.06g／100g。同日晚23时许，被告人杜光伟在遂宁市城区中南宾馆620房间内被遂宁市公安局民警挡获。7月19日下午15时许，被告人李大丰在遂宁市城区西山路银河家园小区处被遂宁市公安局民警挡获，当场从李大丰提包内查获片剂可疑物一包零四袋，共计十四袋，经称重，净重为260.19克，数量为2781粒，经鉴定，检出甲基苯丙胺和咖啡因成分，其甲基苯丙胺含量为3#检材10.18g／100g、4号检材9.29g／100g；从李大丰在遂宁市城区豆芽巷的租房内查获片剂可疑物二包，共计二十袋，经称重，净重为369.89克，数量为3915粒，经鉴定，检出甲基苯丙胺和咖啡因成分，其甲基苯丙胺含量为1#检材10.98g／100g、2号检材10.42g／100g。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>公诉机关指控各被告人上述犯罪事实的证据有：书证、物证、证人证言、被告人供述、刑事科学技术鉴定书、勘验、检查笔录、辨认笔录等。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>公诉机关认为，被告人李大丰、杜光伟、钟其强为谋取非法利益，明知是毒品而贩卖、运输，其行为均触犯了《中华人民共和国刑法》第三百四十七条之规定，犯罪事实清楚，证据确实充分，应当以贩卖、运输毒品罪追究刑事责任；被告人黄平为谋取非法利益，明知是毒品而贩卖，其行为触犯了《中华人民共和国刑法》第三百四十七条之规定，犯罪事实清楚，证据确实充分，应当以贩卖毒品罪追究其刑事责任；被告人崔洪明知是毒品而非法持有，且数量较大，其行为触犯了《中华人民共和国刑法》第三百四十七条之规定，犯罪事实清楚，证据确实充分，应当以非法持有毒品罪追究其刑事责任。被告人李大丰在贩卖毒品过程中起主要作用，依据《中华人民共和国刑法》第二十六条之规定，属主犯；被告人钟其强、黄平在贩卖毒品过程中起次要作用，依据《中华人民共和国刑法》第二十七条之规定，属从犯。被告人李大丰在判决宣告后，刑罚执行完毕以前又犯贩卖、运输毒品罪，应当数罪并罚，适用《中华人民共和国刑法》第六十九条之规定。被告人钟其强在缓刑考验期限内又犯贩卖、运输毒品罪，应当数罪并罚，适用《中华人民共和国刑法》第六十九条、七十七条之规定。被告人黄平因非法持有毒品罪被判过刑又犯贩卖毒品罪，应从重处罚，适用《中华人民共和国刑法》第三百五十六条之规定。被告人黄平、崔洪在刑满释放后五年内再犯应当判处有期徒刑以上刑罚之罪，系累犯，应当从重处罚，适用《中华人民共和国刑法》第六十五条之规定。综合本案的各被告人的犯罪事实及量刑情节，请依法判处。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>被告人李大丰对起诉书指控其构成贩卖、运输毒品罪的基本事实无异议，但辩称虽然被告人钟其强贩卖的麻古是其提供的，对钟其强等其他被告人贩卖毒品的具体情况不清楚，没有出资买麻古，是杜光伟主动联系的。其辩护人的辩护意见是：1.被告人李大丰构成贩卖、运输毒品罪不持异议；2.本案另有主犯，李大丰只是一种帮助行为，其只贩卖了14000颗麻古，其余的麻古都是本案其余被告人独立实施的行为，没有受李大丰的安排；3.被告人李大丰的认罪态度较好，量刑时请酌情予以从轻处罚。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>被告人杜光伟对起诉书指控其贩卖、运输毒品罪的基本事实无异议，但辩称本案的麻古是云南一个叫“小波”的人事先联系好了李大丰后，其只负责帮助运输到遂宁交与李大丰，并帮助将毒资收回，自己得每颗5元的报酬。其辩护人的辩护意见是：1.本案被告人杜光伟是公安机关的特请人员，以前确实与边防公安人员有过联系；2.本案对被告人杜光伟应定性为运输毒品罪，其不是毒品的卖家且是受“小波”的安排，应为从犯；3.被告人杜光伟协助抓获了被告人李大丰，应属重大立功；4.本案所涉毒品含量较低，被告人杜光伟家庭生活困难、身体较差，量刑时请从轻处罚。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>被告人钟其强辩称对起诉书指控其贩卖了3000颗麻古给黄明不是事实，其通过黄平只卖了1200颗麻古给崔洪，其在李大丰处买了3000颗麻古，买成每颗26元，给了李大丰5.5万元，李大丰叫我将买毒品的钱去交给杜光伟的。其辩护人的辩护意见是：1.被告人钟其强没有运输毒品的行为，其应定性为贩卖毒品罪；2.指控其贩卖给黄明3000颗麻古的证据不足；3.被告人钟其强是帮助李大丰贩卖毒品，应为从犯；4.本案毒品麻古的含量较低，被告人钟其强又具有立功表现，希望对其从轻判处。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>被告人黄平对起诉书指控其贩卖毒品的事实有异议，辩称自己没有参与贩卖，不认识黄明，也没有介绍黄明在被告人钟其强处买3000颗麻古。其辩护人的辩护意见是：1.对于指控的罪名为贩卖毒品罪没有异议；2.黄明通过黄平购买3000颗麻古的证据不足，应不予认定；3.在贩卖毒品的过程中被告人黄平只起中介作用应为从犯，应对其从轻处罚；3.本案有特请介入的迹象，且有犯意和数量引诱，量刑时请予以考虑。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>被告人崔洪对起诉书指控的事实无异议，但辩称麻古质量差，量刑时应予以考虑。其辩护人的辩护意见是：1.对指控罪名不持异议；2.被告人崔洪认罪态度好，可作为量刑情节予以考虑。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>经审理查明，2013年7月初，被告人李大丰通过在云南服刑认识的一个叫“小波”的狱友帮忙叫人从外地运一批毒品麻古到遂宁来贩卖。“小波”（在逃）遂安排被告人杜光伟从缅甸货岛帮其运送麻古四板共计24000粒到四川省遂宁市交给被告人李大丰，并告诉了被告人杜光伟和李大丰的联系方式。称已与被告人李大丰已谈成麻古价格18元／粒，承诺给被告人杜光伟5元／粒的好处费，待贩卖完后将毒资带回。被告人杜光伟同意后，将用编制袋包装好的24000颗毒品麻古带回云南省普洱市孟连县其居住处。2013年7月16日，被告人杜光伟从其居住处出发将上述毒品麻古运往四川省遂宁市，并电话告知被告人李大丰其将于7月18日凌晨1时左右到达遂宁。被告人李大丰接电话后，在遂宁市船山区中南宾馆为被告人杜光伟开了“620号”房间。同日凌晨1时许，被告人李大丰在遂宁市船山区物流港汽车站接到被告人杜光伟后，乘坐出租车前往中南宾馆。在出租车上，被告人杜光伟将所带24000粒毒品麻古交给被告人李大丰，被告人李大丰将中南宾馆620号房间房卡交与被告人杜光伟。被告人李大丰遂将24000粒毒品麻古带回遂宁市船山区其女友鸥某某租住的豆芽巷租房内，并电话联系被告人钟其强麻古已到，让其以26元／粒的价格帮助联系毒品麻古买家，被告人钟其强遂电话联系被告人黄平，让黄平帮忙联系毒品麻古买家，与黄平商量好高于26元／粒的利润二人平分。后与黄平在中南宾馆519房间会合，被告人黄平便电话联系了重庆买家被告人崔洪。7月18日凌晨6时许，被告人崔洪与黄明（在逃）等三人从重庆到达遂宁市船山区中南宾馆519房间，被告人钟其强便从被告人李大丰处将3000粒麻古带至中南宾馆519房间内以28元／粒的价格卖给黄明，黄明当场支付给钟其强现金人民币56000元，黄平从中数出6000元与钟其强平分。后黄明与钟其强、黄平等人到中南宾馆楼下工商银行堤福自助银行将剩余款项28000元转账给被告人钟其强工商银行卡内。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>2013年7月18日上午10时许，被告人李大丰、钟其强在中南宾馆620房间内交给杜光伟55000元毒资。后被告人李大丰携带14000粒毒品麻古到成都进行贩卖，剩余麻古放在豆芽巷租房内，让被告人钟其强帮助贩卖。7月18日晚21时许，被告人黄平电话联系被告人钟其强称崔洪欲以27.5元／粒的价格购买1200粒麻古，被告人钟其强便从李大丰放在鸥某某租房内的麻古中取出3000粒带至君豪阳光酒店517房间内将麻古拆分出1200粒。当日晚22时许，在车牌为渝B0H5**遂宁到重庆的“野的”上，被告人钟其强将1200粒麻古交给被告人崔洪，崔洪当场支付给被告人钟其强现金人民币3500元，余下款项29500元，被告人崔洪通过手机网上支付宝平台转账给钟其强工商银行卡内。晚23时许，被告人钟其强到中南宾馆620房间内交给被告人杜光伟5000元毒资。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>2013年7月18日晚23时许，被告人崔洪在遂渝高速遂宁城南收费站处被遂宁市公安局民警挡获，当场从崔洪乘坐的车牌为渝B0H5**野的车上查获红色片剂可疑物六袋，1198粒，净重110.34克。经鉴定，检出甲基苯丙胺和咖啡因成分。同日晚23时许，被告人黄平在遂宁市船山区君豪阳光酒店517房间内被遂宁市公安局民警挡获，当场查获包装麻古用的包装袋一个，白色可疑物晶体一袋，净重0.07克。经鉴定，检出甲基苯丙胺成分。同日晚23时许，被告人钟其强在遂宁市船山区中南宾馆大门口被遂宁市公安局民警挡获，当场从被告人钟其强随身携带的黑黄色挎包内查获红色片剂可疑物九袋，1788粒，净重168.65克。经鉴定，检出甲基苯丙胺和咖啡因成分。同日晚23时许，被告人杜光伟在遂宁市船山区中南宾馆620房间内被遂宁市公安局民警挡获，为了不引起被告人李大丰的怀疑，被告人杜光伟在侦查员的控制下配合公安机关继续保持和被告人李大丰通话，7月19日下午15时许，遂宁市公安局民警在遂宁市船山区西山路银河家园小区外将被告人李大丰挡获，当场从被告人李大丰提包内查获片剂可疑物一包零四袋，共计十四袋，2781粒，净重260.19克。经鉴定，检出甲基苯丙胺和咖啡因成分。后又从被告人李大丰放在遂宁市船山区豆芽巷的租房内查获片剂可疑物二包，共计二十袋，3915粒，净重369.89克。经鉴定，检出甲基苯丙胺和咖啡因成分。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>另查明，被告人李大丰、杜光伟、钟其强、黄平、崔洪尿检均为阳性，均系吸毒人员。被告人李大丰与被告人钟其强抓获前就相互认识，都是大英县人；被告人钟其强与被告人黄平在大英吸食毒品时相互认识；被告人黄平与被告人崔洪在新疆服刑时相互认识；被告人杜光伟协助公安机关抓获被告人李大丰；被告人钟其强检举揭发了一犯罪嫌疑人谭某某贩卖、制造毒品的事实，公安机关已立案侦查。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>认定上述事实，有经庭审举证、质证，并经认证的下列证据证实：</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>一、物证、书证及其他证据</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>1.公安机关接受刑事案件登记表、立案决定书、搜查证、拘留证、批准逮捕决定书、逮捕证、挡获经过等，证实公安机关立案情况及对各被告人采取强制措施的种类、抓获时间经过等情况；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>2.搜查证、搜查笔录、扣押清单、发还清单，证实公安机关在豆芽巷欧某某租房内搜查出系李大丰所有的红色片剂可疑物毛重414.6克；抓获被告人李大丰时当场扣押红色片剂可疑物分别毛重41.26克、46.72克、209.2克、现金人民币186335元及银行卡、手机等相关物品；抓获被告人杜光伟时当场扣押现金人民币1万元及银行卡、手机等物品、存款业务凭证及扣押从银行卡内取出的人民币46900元；抓获被告人钟其强时当场扣押红色片剂可疑物毛重为178.4克、现金人民币1330元及银行卡、手机等物品及扣押从银行卡内取出的人民币39000元；抓获被告人黄平时当场扣押白色可疑物毛重0.28克及银行卡、手机等相关物品；抓获被告人崔洪时当场扣押红色片剂可疑物毛重117.3克银行卡、手机等相关物品。同时扣押了欧某某相关物品并发还情况及发还崔洪眼镜、驾驶证、钥匙、白珠子项链等物品；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>3.现场检测报告书，证实各被告人尿检检测样本经现场检测，结果均呈阳性；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>4.租房协议及调取证据通知书，证实欧某某租豆芽巷房屋的情况；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>5.请求协作函及回复，证实杜光伟不是云南省普洱市孟连县边防大队特情的情况；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>6.调取证据通知书及通话记录，证实各被告人在贩卖毒品麻古过程中相互通话的情况；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>7.调取证据通知书及银行卡明细清单，证实被告人钟其强所使用的工商银行卡卡号为6215582310000711082在2013年7月1日至7月19日即贩卖毒品麻古过程中，转账记录情况；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>8.开房记录，证实各被告人在毒品麻古贩卖交易过程中，在中南宾馆620号、519号房间及君豪阳光酒店517号房间开房记录；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>9.说明，证实关于民警邓成军在李大丰第一次讯问笔录上签名的情况说明；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>10.前科材料，证实被告人前科情况；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>11.常住人口基本信息，证实各被告人的年龄、身份及家庭住址等情况；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>12.鉴定结论、鉴定聘请书、称重取样笔录、称重报告、毒品检验鉴定报告、毒品检验意见书、鉴定意见通知书，证实本案所涉毒品的重量及成分含量等情况；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>13.勘验、检查笔录、刑事照相，证实抓获各被告人时的现场刑事照相及称重现场刑事照相；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>14.视听资料、同步录音录相光盘及中南宾馆、君豪阳光酒店视频资料、银行转账视频资料，证实公安机关讯问各被告人同步录音录相情况及被告人钟其强在贩卖麻古过程中在中南宾馆楼下工商银行自助银行、君豪阳光酒店楼下工商银行自助银行转账情况，以及各被告人在上述两宾馆的情况；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>15.辨认笔录，证实各被告人相互辨认的情况；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>16.遂宁市公安局禁毒支队2014年1月8日“情况说明”，证实2013年7月19日，还未被抓获的被告人李大丰多次拨打被告人杜光伟的手机号码，为不引起被告人李大丰的警觉，被告人杜光伟在侦查人员的控制下配合公安机关保持和被告人李大丰通话。2013年7月19日下午15时许，民警在被告人杜光伟的配合下在遂宁市城区西山路银河家园小区将被告人李大丰抓获；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>17.遂宁市公安局禁毒支队2013年12月19日关于“被告人钟其强立功情况说明”以及“立案决定书”，证实被告人钟其强检举揭发了谭某某贩卖、制造毒品的事实，经过摸排确定了该线索的真实性和准确性，目前该案正在立案侦查中。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>二、证人证言</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>1.欧某某的证言，证实我是因为你们在抓李大丰时从他身上查获了毒品麻古，当时我与李大丰在一起被带到公安机关的。大概是2013年4月份左右我和李大丰吸食毒品时认识的，认识后李大丰给过毒品给我吃，他没有收我的钱。我以前不知道李大丰是做什么的，今天才知道他是贩毒的。今天上午我和他在成都耍，大概10点多钟的时候我和李大丰从成都坐野的回遂宁，我准备在遂宁找工作。大概是下午两点多钟的时候，我和李大丰在银河嘉园对面公路边被公安机关抓获了，现场从李大丰身上搜到大量毒品，民警当着我们的面进行了称重。昨天早上，我和李大丰去中南宾馆8620号房间，当时里面只有一个人，他的名字我不知道，我也认识他，但看见他本人和他的照片我能认识，过了一会儿，强娃子进来了，强娃子进来后我看见强娃子往床上扔了几万元钱，具体数字我不知道。后来我和李大丰就离开去成都了。我去成都准备逛街买东西，到了成都我和李大丰就分开了，他具体去干什么我不知道。是7月18号上午去的，跟到李大丰去耍。在成都今天早上在商场里李大丰给我买了一个黄金手链送给我生日礼物。同时，其辨认出了李大丰、钟其强就是拿了几万元钱到中南宾馆620号房给那个云南人；并辨认出收钱的云南人就是杜光伟；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>2.夏某某的证言，证实遂宁市豆芽巷那房子是我表姐的，她的名字叫孟某某，她现在没有在老家，是由我在帮她管理。2013年7月17号我将这房子租给一个叫欧某某的女子的，当时他说租一个月，三通全部包括在内月租是556元／月。当时是欧某某与一个男的来小北街红太阳中介问房子，租金是与欧某某一起来那个男的给了一些，欧某某给了一些。同时，其辨认出了租房的欧某某及与欧某某同路来租房的男子就是李大丰；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>3.冯某的证言，证实我是昨天晚上11点左右，我坐了一辆去重庆的“野的车”准备去重庆，在高速遂宁南站的时候你们公安机关将我搭乘的那辆车拦了下来，将我和车上另外两个人传唤到公安机关来了。我上车时在10点30分左右，野的到遂宁天宫路来接我，我上车后就坐在副驾驶上面，我刚上车的时候就听见后面座位上有个人说他要下车，这个时候我才发现车的后排坐了两个人，那个人下车后，我们车上连司机一共三个人，我们就直接往遂宁南站开去，刚到遂宁南站就被抓了；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>4.传某某的证言，证实昨天晚上9点37分的时候，我们公司的总台给我发了一个号码1502301****过来说这个人要坐车到重庆，然后我就给他打了个电话，那个人就叫我到遂宁君豪阳光酒店门口去接他，到了后就上了两个男子，他们两人就直接上了车的后排，一个是穿灰白色的T恤，是坐我在我后面的，一个穿蓝色的T恤，是坐在副驾驶后面的，并描述了二人的基本特征。他们两人上车后一直都在说话，我听见他们两人在说银行转账的事情，我听见那个穿蓝色T恤的那个男子在打电话说转了两万多。他们上车后我就往天宫路开去接另外一个女的，在快到天宫路时，他们说看不到账号，我就随便开了车内的灯，其中一个说转账没有记录呢，我说一般银行转账都有记录，我就随便说了一句。在天宫路接到那女的后坐在副驾驶后那个人就下车了，然后我就载着他们两人准备往重庆去了，刚到遂宁南站收费站时就被你们将我车拦住了。然后你们当着我们所有人的面在我车的后排坐下面搜出了几包用蓝色自封塑料袋装的红色片剂。这些红色片剂不是我的，应是坐在我车后排的那个人的。同时，其辨认出了崔洪就是从君豪酒店上车到重庆去的那男子、钟其强就是从君豪酒店上车在天宫路下车的男子；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>5.刘某的证言，证实7月19日下午13点45份的时候从大英回遂宁，就打了一个野的车电话，在一个电话号码1828257****给我打电话问我在哪里等，过了一会儿我看见一个白色的小车过来了，我上了车，我开始还以为只有我一个人，看了一眼后面，看见后排有一个男的和一个女的，男的大概50多岁，短发比较瘦，还有个女的坐在我后面就没注意到。车走到银河嘉园时，那男的和那女的就在银河嘉园对面下了车，后车刚到和平桥处警察就将我们拦住了。同时辨认出了李大丰就是与其一同从大英坐车回遂宁在银河嘉园下车的男子；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>6.何某的证言，证实今天下午，我驾驶自己的白色小车车牌为川JW05**，在大英县城里拉客。我在大英县太极桥附近拉了2个成都野的转给我的一男一女两个人，接着开车将成都野的转给我的那一男一女送到了银河嘉园。送车上最后一个女的时在和平桥附近就被警察拦住了，要求我们配合调查说刚才在银河嘉园下的一男一女两个人是涉毒人员。这一男一女我不认识，是成都野的转给我的，叫我带回遂宁，共给了我50元钱。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>三、被告人供述</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>1.李大丰的供述，2013年7月19日中午我和欧某某从成都赶野出租车回遂宁，我们坐到大英县的时候，转了一个车。在大英县赶了另外一个白色的野出租车回遂宁。我们坐车到了银河家园，刚下了车就被警察挡获了。警察现场从我提的两个口袋里面搜出了18万元现金和几包毒品麻古（一共1大包加4小包），警察还在我身上搜出了二部手机、三张银行卡、一串钥匙等物品。接着警察现场对我携带的毒品麻古进行了称重。警察从我身上搜到的毒品麻古是一个云南人给我的，那包大的毒品麻古是用黄色纸包裹好的，外面还裹了一层透明的塑料纸。4小包毒品麻古是用蓝色的塑料袋包装的。警察从我提的纸口袋里面搜到的18万元现金是我卖毒品的毒资。二部手机都是我的，一部手机的电话号码是1321923****，另外一部手机的电话号码是1478003****。二部手机都是我在使用。那串钥匙是我的，那串钥匙的其中两把钥匙是开我和欧某某在遂宁市城区豆芽巷租房的钥匙。我贩卖的毒品是麻古，贩卖毒品是为了挣钱。我去年出狱后身体一直不好，也没有什么钱。我就给我之前在云南的一个“姓李的”狱友打电话说生活很困难，身体也不好。“姓李的”狱友就叫我想办法多挣点钱，并说想办法叫人从外地帮我运点毒品麻古到遂宁市来卖。半个月前“姓李的”狱友就告诉我已经找好了人准备带24000粒（4板）到遂宁来，他说他将我的电话给带毒品那个人说了，到时那个人直接打我的电话就行，同时还给我说是按18元／颗卖给我，让我直接将钱拿给带毒品这个人带回去就行，我当时就同意了。2013年7月16号左右，一个人给我打电话，他说他姓杜，叫我叫他老杜，他说他明天晚上1点钟左右到遂宁，我说要得，当时我就知道是帮我带毒品回遂宁的人，第二天（7月17号）我一直给这个号码打电话，但一直关机，晚上快12点了，我坐的出租车到物流巷车站去接那个带货的人，我在车站旁边等了大约半小时，后昆明的汽车到了，他给我打电话，我说我在旁边等他，后我找到那个男子，我叫他老杜，他叫我小李，后我们一起坐一个出租车到了中南宾馆，中南宾馆是我给老杜之前就开好了房的，我在出租车上将房卡给他，他提了一个编织袋，他在出租车上将编织袋给我，出租车到了中南宾馆后，我叫他直接上楼休息，我就提着他给我的那个编织袋就回到了在豆芽巷租住的房子内，回到房我看到编织袋内有4板毒品麻古，另外还有一些烂衣服，当时4板麻古用塑料纸包的，我拆了一板，看头子上有五包，我拿了一包出来，是准备有一个人要来购。当天晚上我卖了3000颗出去，是按26元／颗贩卖出去的，交易的时间大概是在7月18日凌晨3点钟左右，我没有与购毒品的那个人见面，这批毒品交易额是78000元。这些钱我留了10000元，其余的钱我就拿给强娃子，第二天，也就是7月18日上午，我就到中南宾馆去看老杜，我与欧某某一起去的，当时我与欧某某在去中南宾馆时我就给强娃打电话，让他把钱拿到中南宾馆来给老杜，我与欧某某刚到一会，强娃就过来了，他拿了55000元丢在床上，老杜就在点钱，我给老杜说，我们只卖了这些，卖完了我将钱给你，我在成都卖，强娃在遂宁卖。老杜点完钱后，我就与欧某某一起上成都去的，当时上成都是在我的挎包内背了有14000颗麻古，到了成都欧某某就到成都独自去耍去了，我拿着毒品就去卖，当时找人介绍，卖了3个买主出去，一般都是25元到26元／颗，一共贩卖了近11000颗，共卖了20多万元，但只收到19万多，我用了一些，只有18万多点了，就是你们抓获我时查获的那些钱全部是这次我卖毒品的钱。24000颗，拿了14000拿到成都去，当晚卖了3000颗，我留了7000颗在我出租房内，强娃有我出租房的钥匙，今天我带你们警察去搜时，只有4000颗，另外3000颗就是强娃拿出去卖了。24000颗麻古大概是2400克左右。我前后一共卖了11000颗左右，是全部在成都去卖的，大约有1100克左右。7月18日凌晨在豆芽巷交易的那3000颗全部是强娃去交易的，只是强娃给我说了的，当时他将钱拿回来我只留了一万，其他的钱他全部拿走了，第二天拿给老杜了。在这批毒品来之前，我就打电话让强娃到遂宁来，给我他说有一批毒品到遂宁来，我说我没有买家，让他找买家，当时他问我东西好不好，我说从缅甸过来的，他当时问我多少钱一颗，我说别人拿给我们是18元／颗，我说我们卖出去要26元／颗，他当时就同意了，当天他就住在中南宾馆，是他自己开的房。与强娃没有说卖毒品后的利润如何分配，但我想是平分。我与强娃在购这批毒品时都没有出资金。都是我们将毒品卖得钱后再给钱给老杜。贩卖毒品麻古因为我生活困难，想通过贩卖毒品麻古来挣点钱。毒品麻古是我的朋友给拿过来的，我因为想尽快将毒品麻古卖出去，所以找了“强娃”帮我联系毒品买家。我带了14000粒麻古在成都卖，留了10000粒毒品麻古在遂宁给“强娃”卖。我觉得我和“强娃”是一起合伙贩卖，但是我占主要的。我只是想尽快将麻古卖完后把“老杜”的毒资给清，至于我和“强娃”怎么分利润我觉得都没有什么。我自己一共贩卖毒品麻古11000粒，大约重1000克，具体重量我不清楚。我留了10000粒毒品麻古给“强娃”卖，我只知道“强娃”卖了3000粒毒品麻古，剩下的毒品麻古我就不清楚了。“强娃”卖的3000粒大约有300克左右。7月18日上午我和“强娃”一起到中南宾馆给了“老杜”55000元钱，之后我叫过“强娃”将卖得的毒资拿给“老杜”，但是后面“强娃”拿没拿过我就不清楚了。欧某某没有参与，她只是跟到一起耍，要么和我一起吸食毒品。我是2005年左右认识的云南的狱友，好像是姓李，他的其他具体情况我不清楚。”姓李的”狱友是个大约30几岁的男子，身高大约1米68左右，身材偏瘦，我现在见了”姓李的”狱友本人或者照片都能认识。老杜是云南人，40多岁，较瘦，1.65米左右，看到人认识。强娃是大英人，25岁左右，1.6米左右。我在今年3月份左右开始吸食毒品的，至今一直要吸食。同时，辨认出贩卖麻古给他的杜光伟；帮其贩卖麻古的钟其强；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>2.钟其强的供述，我大约三、四个月前认识了“七哥”偶尔在一起耍。大约2013年7月10日左右，具体时间记不清了，七哥告诉我他有朋友要从云南带一批麻古到遂宁，叫我帮忙联系毒品买家。我知道后就给黄平打电话，叫黄平帮到联系毒品买家。之后黄平就联系了几个重庆买家，黄平还告诉我他联系的那个重庆买家大概要购买10000颗麻古。2013年7月17日下午，七哥给我打电话叫我马上到遂宁市城区，我从大英坐车到了遂宁和七哥碰了面，之后在吃饭时七哥给我说云南带的麻古马上就到了问我联系的毒品买家如何。我听后马上就给黄平打了电话叫他到遂宁城区来。当晚8点钟左右具体时间记不清了，黄平就从大英赶到了遂宁城区在中南宾馆519号房碰了面。在519号房间里面，黄平就给之前联系的重庆买家打电话叫他们马上到遂宁来。之后我和黄平就一直在该房间内。2013年7月18日凌晨1、2点左右，七哥给我打电话叫我找一个小姐送到中南宾馆620房间里面去，我就找了一个小姐带到了620房间，在620房间我看见了“云南哥哥”一个人在里面，我将女的带到了后就走了，之后我和七哥在中南宾馆楼下见了面，见面后七哥给我了7粒麻古说是样品叫我给毒品买家试货。我将样品收好后就又回到了中南宾馆519房间。在回房间的时候黄平站在519房间门口给我说重庆买家到了，叫我将麻古样品给他，我站在门口将7粒麻古样品交给了黄平，黄平还给我说叫我不用进去了。隔了半个多小时，黄平给我打电话说是重庆买家试了麻古样品觉得还可以，准备先买3000粒麻古，并叫我去准备麻古。我听了后就给七哥打电话说我联系的毒品买家要买3000颗麻古，七哥就叫我马上到豆芽巷的租房里面去找他。我赶到豆芽巷的租房后，七哥就交给我了3000粒麻古给我叫我去交易，并叫我交易完了之后将钱拿回来。我接过3000粒麻古放进了我背的黑黄色挎包内之后就又赶到了中南宾馆519号房间，我进了房间之后就看见了除了黄平外还有四个重庆口音的男子。我在房间里面将包里面的3000粒麻古放在了房间里面的床上，重庆人见后就当场数了64000元的现金给黄平，黄平接过钱后自己留了6000元钱将剩下的58000元钱交给了我，我接过钱后又除崔哥外另外三个重庆人到中南宾馆楼下的工商银行去转账。重庆人在工行自助银行里面给我的卡号62155823100007110821的工行卡里面转了两万元钱，我见转账成功后就拿着58000元现金回到了豆芽巷里面的租房内将钱交给了七哥，还告诉了七哥我卡里面转了两万元钱。七哥留下了一万元现金后将剩下的48000元钱交给我让我将卖麻古的钱到中南宾馆620房间给“云南哥哥”送去。在租房里七哥还交给我了租房钥匙并告诉我在租房里面留了7000粒麻古给我叫我拿去卖。我卖给重庆人的3000粒麻古是一大包整的和五小包用蓝色塑料包装的。一大包的是用黄纸包好的，外面还包了一层塑料纸，一大包整麻古数量是2000粒。五小包是每包200粒，共1000粒。我算了一下共84000元钱，28元\粒。黄平留下的6000元钱是我和黄平卖麻古挣的差价，因为七哥将麻古交给我卖认我26元／粒，卖多少都是我和黄平的，我们之前都说好了平分.所以6000元钱我和黄平各3000元，因我差黄平1700元，后我分得了1300元钱。后我又从工行自助银行取了8000元钱，自己留了1000元后，就和剩下的48000元钱一起拿到中南宾馆620房间交给了“云南哥哥”，共55000元钱。2013年7月18日晚上8、9点样子，具体时间记不清楚了。黄平给我打电话说“崔哥”要购买1200粒毒品麻古，他们住在君豪阳光酒店517房间，叫我将毒品麻古带到遂宁市城区的君豪阳光酒店517房间。接了电话后我就打车回到了豆芽巷内的租房内用七哥给我的钥匙打开了房门，看见租房内沙发上七哥留给我的7000粒麻古，我当时就拿了3000粒毒品麻古到了君豪阳光酒店517房间，当时里面只有黄平和“崔哥”两个人在里面。我到了之后黄平就给我说“崔哥”买1200粒毒品麻古，一共给33000元钱，我听后就在君豪阳光酒店517房间里面拆分了1200粒出来，之后还将拆分后的毒品麻古的一个包装袋留在房间里面。我将拆分好的1200粒毒品麻古用房间里面的白色卫生纸包好后放进了我随身背的黑黄色的挎包里面，将剩下的1800粒毒品也顺手放进了我随身背的黑黄色的挎包里面。之后我用手机算了一下价格，是27.5元／粒。我还将一个拆分了的麻古包装袋留在了君豪阳光517号房间。之后我和黄平、“崔哥”就一起下了楼到了酒店旁边的一个工行自助银行，我将我的卡号给“崔哥”说了之后“崔哥”就到自动取款机上面去转账，但是不知道什么原因转账始终不成功，“崔哥”就说用他的手机上网在网上用支付宝给我转账。我就答应了。过了一会，一辆重庆车牌照的黑色轿车就开过来接“崔哥”，我就和“崔哥”一起上了车，当时黄平就回酒店了。我和“崔哥”上车后，我就将1200粒毒品麻古从包里取出来交给了“崔哥”，“崔哥”在车上又用他的手机上网给我转帐，我坐车到了天宫路靠油房街的口子上我就下车了。下车后我又打车到了中南宾馆楼下的工行自助银行去看崔哥转账是否成功，顺便取了2000元钱。后我就回到了中南宾馆620房间里面给了“云南哥哥”5000元钱，之后我出大门时就被警察挡获了，身上卖剩下的1800粒毒品麻古（一共9包）也被警察查获了。我身上搜出的卡号为6215582310000711082的工行卡是我老婆施某的名字，那张卡在我交易毒品的那几天都是我带在身上在使用。贩卖麻古是为了挣点钱。是帮七哥贩卖麻古，卖完了后七哥给我介绍费。黄平是帮助联系毒品买家的，和黄平之间是说好了的按26元／粒卖超过的利润进行平分。2013年7月18日凌晨在中南宾馆交易毒品的519房间是我找一个小姐开的，当时是七哥叫我给中南宾馆620房间云南哥哥找一个小姐去后，我也找了一个小姐并带到了中南宾馆，因为我当天要和黄平介绍来的毒品买家交易毒品麻古，再加上我又没带身份证，所以我就叫我带的那小姐帮我开的房，那小姐叫什么名字我不清楚，是用什么名字开的房我也不清楚，那小姐开完房后将房卡交给了我，之后就主要是我和黄平在使用。君豪阳光酒店517房间估计是黄平和崔哥其中哪个开的，当时我去该房间送麻古时就只看见了黄平和崔哥两个人在里面。同时，辨认出了“七哥”李大丰、“云南哥哥”杜光伟、黄平、崔洪。并检举了谭某某制造、贩卖毒品的事。尿液现场检查结果呈阳性我没有异议，我的确吸食了毒品；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>3.杜光伟的供述，2011年左右，我在缅甸的孟波县去帮别人修房子，当时我与一个四川的老乡叫小波的男子同时在孟波县包房子来修，后来我就与小波认识了，我们都相互留下了联系方式，（他的电话1530879****，他好像叫施某某，是四川泸州市的人）。2012年5月份左右我就回来了，就没有到缅甸去打工了，在今年（2013年）5、6月份左右，小波给我打电话，叫我帮他送一批毒品麻古到四川来，问我做不做，当时他说现在让我送一批小的，探下路，如果这次成功了，下次就用拉香蕉的车运20万颗到宜宾，当时我就给我们边防大队报告了此事，边防大队同意叫我去做他们的线人，后我就答应了小波，同意帮他送毒品到四川。2013年7月5、6号左右，小波又给我打电话，叫我到缅甸货岛去接毒品，当时他给我说送24000颗毒品麻古到四川遂宁，同时将遂宁接货人小李的电话也给我了，（小李的电话是1478003****），小波将四板毒品麻古交给我，当时四板毒品麻古是用一个编织袋装的，一板毒品麻古是6000颗，四板就是24000颗，当时我是骑着摩托车到缅甸货岛去拿的毒品，我将24000颗毒品拿回家后在家里放了有十天左右，在2013年7月16号，我拿着四板毒品麻古从我家芒县出发，坐车到孟连，再到思茅，再到昆明，当时四板毒品还是用编织袋装的，只是在编织袋内装了几件衣服。在昆明我就给四川接货的人打电话，说可能要17日晚上1点左右到，当时他说他来接我，当晚1点30分车到遂宁后，我打电话给接货的小李，他说他已到了，在等我，他从一个出租车上下来，将我接到出租车上，我在车上我将装着毒品的编织袋给小李，后他将我送到中南宾馆，他拿了一张房卡给我，叫我到里面去住就行了，他说他将毒品卖了就将钱给我拿过来，我就拿着房卡到房间去住，是小李给我开的房，房号是620号。7月18号上午大概10点钟左右，小李和一个小弟娃（我叫他小弟娃，他具体叫什么名字我真不知道），同时还带了一个小妹子一起到620房间来，小弟娃拿了55000元给我，小李和小弟娃都说他们只卖了这些，说卖完了就将钱给我，小李说他在成都卖，说小弟娃在遂宁卖，他们将钱给我后，我将钱点了后他们就离开了，拿到钱我就在银行内去存了40000元，同时还了别人的帐，给别人打了7000元去，晚上小弟娃又拿了5000元钱到房间里来，在小弟娃离开后没多久，警察就到宾馆来将我抓获，并查获了我卖毒品没有存的10000元钱。带毒品到四川来卖想挣钱，当时小波叫我将毒品带到四川来卖，每一颗说给我5元／颗。卖这批毒品能挣120000元。这批毒品运到四川来卖多少钱一颗是小波与小李谈好了的，是说成18元／颗，这批毒品总价是432000元。但现目前收到6万元。从缅甸带了4板共24000颗麻古到四川遂宁。我以前听别人说过说麻古10000颗就是1公斤，我带了24000颗麻古也就是2.4公斤左右。这批毒品到四川来时，边防大队的警察不知道，我没有给他们说。小波他原籍是四川的，现在是缅甸，1.7米左右，35岁左右，较瘦。遂宁接货人小李是遂宁人，1.65米左右，我只知道他姓李，大约40岁左右，他的联系电话是1478003****。同时，其辨认出了“小李”李大丰、钟其强；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>4.黄平的供述，2013年7月17日晚上我在大英上网，“强娃子”给我打电话，说他那里有麻古，而且质量比较好，叫我帮他介绍一个买主，我就想到我的一个叫“崔哥”的朋友平时喜欢吸食毒品，我就给他打了一个电话，给他说了，“崔哥”就说他要买，并说他到遂宁来看一下货，如果货真的好，他就要买得多。然后我就给“强娃子”说了有人要买他的麻古，“强娃子”就叫我到遂宁来，并叫了一辆车将我从大英接到遂宁，我到了遂宁后，“强娃子”就在“中南宾馆”519等我，我们两人就在宾馆休息了一晚上。第二天（7月18日）上午，“崔哥”就从重庆到了遂宁，在“中南宾馆”519房间内我就介绍了“强娃子”和“崔哥”两人认识，他们两人认识后，我们三人就去了河边一个洗浴中心洗澡，洗完澡后我就和“崔哥”两人到“君豪阳光”酒店开了一间房间（517），房间开好后我就和“崔哥”两人在房间内休息，我们休息了一会后，“强娃子”就来我们住的酒店来找我们来了，他在房间内耍了一会，就拿了几颗麻古出来叫我们试一下，说这些是样品，“崔哥”吸食了“强娃子”拿来的样品后说这些麻古的质量还可以，就答应“强娃子”说要买，“强娃子”走了后“崔哥”就打电话叫他的朋友帮他凑钱，过了一会“崔哥”给我说他的朋友只帮他凑到2万元钱，加上他自己的卡上有1万多元，一共只有3万多元钱，他就只买1200粒就是了，然后他就叫我给“强娃子”打电话，电话接通后我就把电话给“崔哥”，“崔哥”就在电话里面给“强娃子”说了他要买1200粒麻古叫“强娃子”送到我们住的“君豪阳光”酒店来。过了一会（具体时间我不清楚）“强娃子”就把麻古送过来了，“强娃子”来了没一会他们两人就准备走了，我就给他们两人说了以后他们两人的事情我就不管了，也不关我的事情了。然后他们两人就下楼去了，等了一会我就准备到楼下的提款机上面去存钱打游戏，我到酒店的大厅的时候，就看见“崔哥”坐在大厅里面，他给我说他在等车来接他去重庆，我说我到外面的提款机去存钱打游戏，“崔哥”就和我一起往提款机那里走去，外面两人刚走到提款机门口的时候，“强娃子”也过来了，然后他们就叫我在门外等一下，他们两人就进去了，他们两人具体在里面干什么因为我在门外就不清楚了，过了一会他们两人就出来了，我就进去存了200元钱打游戏，他们两人后来是什么时候走的，我也就不清楚了。我和“强娃子”都是大英人，我与他是1个多月前认识的，“崔哥”是我在新疆服刑的时候在监狱里面认识的。因为“强娃子”知道我要吸食毒品，而其我以前因为毒品还坐了几年的牢，我认识这方面的人比较多，所以他就叫我帮他联系一下买毒品的人。我当时觉得我只是帮忙介绍，毒品又不是我的，所以就答应“强娃子”帮他找人来购买它的毒品。开始的时候“强娃子”就给我说了，叫我帮他介绍买主，其他的事情就不需要我管了，到时候麻古卖出去了不论多少，给我每粒麻古1元钱的好处费。最开始“崔哥”到遂宁的时候叫“强娃子”将毒品拿到重庆去和他交易，“强娃子”没有答应，后来“崔哥”将钱凑齐了才在遂宁交易的。强娃子”卖给“崔哥”的麻古价格是他们两人在商量，我不清楚。我听“崔哥”说一共是1200粒麻古3万多元钱。君豪阳光酒店517房间是我用捡的身份证，是个男姓，二代身份证，是我和崔洪二人去开的。当天下午钟其强带了毒品到该房间供我和崔洪吸食。中南宾馆519号房间是当天凌晨钟其强打电话叫我过去的，最开始是我和钟其强在里面耍，后面崔洪、黄哥，还有黄哥一个朋友也过来了，当天凌晨就我们五人在里面，没有其他人来过了。同时，其辨认出了钟其强、崔洪；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>5.崔洪的供述，我之前在新疆乌鲁木齐新收犯监狱服刑认识一个叫黄平的人，我记得好像他是遂宁市大英县的人，在2013年7月16号左右（就是我被抓前两天），黄平给我打电话，他说东西到了，叫我到遂宁来，我当时问他有多少，黄平说有10000颗，当时我在电话里与黄平说成每颗28元，在2013年7月18号早上，我与我那个朋友黄明一起到遂宁来，到了后我们与黄平联系，后黄平带我们到了小娃儿的一个出租房里，到了后，小娃儿拿了样品出来给黄明试了，黄明试了后感觉可以，当时就以28元／颗购了3000颗，付现金付了5万多元，拿到毒品后，黄明就与他的朋友开车走了，我与黄平就到中南宾馆睡了一会觉，睡了一会后，黄平说这个地方不安全，我们换个地方，后我与黄平就出去了，后我们就在君豪酒店开了个房，在君豪517房间内，小娃儿拿了几颗毒品麻古来，我们吸食了下，我感觉还可以，能感觉到是云南来的毒品。小娃儿拿了样品给我们看了后，他就背着他的挎包走了，我就与黄平在谈价，开始黄平说要28元／颗，当时我说便宜点，东西不是很好，当时我叫他一起去重庆去卖，我找人一次性给你们将这10000颗购了，在与他谈了大约1个小时后，我与他谈成27.5元／颗，当时我同意购1200颗，谈好后我就与他到银行去转帐，在转帐的过程中，黄平还在念说便宜了，我当时就不想要了，就与黄平吵起来，差点打起来了，是小娃儿过来劝，后我就没有帐转了，当时野的车来等我了，我与小娃儿一起上了野的车，在野的车开到宾江路上，在车上我数了3500元的现金，我用手机转帐转了29500元到小娃提供的卡号里面，卡号的户主是施某，在转帐成功后，小娃儿将六袋毒品麻古放在我坐的旁边，当时我与他都坐在野的车的后排，在天宫路一个女的上车时，小娃儿下车走了，小娃儿当时还给我留了他的电话，存在我手机上，后车在上高速时被你们警察挡获，并在我坐的座位下查获了我所购的毒品麻古6袋，当面对我计数共1198颗。我、黄明、还有黄明的朋友来遂宁购毒品是与黄平联系的，是他之前给我联系说有一批从云南来的毒品，我谈价与也是与黄平谈的。是毒品是小娃儿交给我的，他给了毒品给我，我就将钱给他的。黄明来遂宁购毒品，购了3000颗麻古走，是以28元／颗购的。黄明是怎么知道黄平手上有毒品是我给他介绍的，这次购毒品也是我给黄明说让他过来购毒品的。叫黄明过来购毒品没得到好处黄明与黄平本身就认识，来之前他们俩就联系过。当时在小娃儿的出租房内交易的那3000颗毒品有我，黄明，黄平，小娃儿，还有黄明的一个朋友是开车的。毒品是小娃儿拿给黄明的，5万多元钱是黄明给小娃儿的，当时我没有数钱，是黄明给的。因为我想将黄平他们套到重庆去，套去后好让重庆警方将黄平他们抓获。因为我来时给重庆警方说了有一个遂宁的毒品要来贩卖，所以我是想他们带毒品下去将他们一同抓获。购毒品来做什么我真不知道。重庆的警方肯定不知道我来购毒品，我也不会给他们说我来购毒品嘛，但他们知道我来遂宁套贩卖毒品的人到重庆去。给重庆警方提供线索能得到可能近10000元左右。重庆警方还没有给我建档，还没有填表，还不是特勤。是另外一个特情黄明介绍我去当特勤的。我想得太简单了，当时也不知道是怎么想的。我还是后悔我不应该购毒品。黄明50岁左右，1。6米左右，重庆人。黄明购买3000粒麻古是在中南宾馆519房间。我和黄明都不认识黄平的朋友，只认识黄平，我和黄明来遂宁购买麻古都是黄平介绍的毒品买家，而且黄平还有意识地不让我们和毒品卖家单独见面，可能是怕我们认识毒品卖家后以后买毒品就不联系他了。黄平就是中间联系人，从中挣介绍费。我购买1200粒毒品是为了吸食。2013年7月18日白天，我和黄平从中南宾馆519房间离开后，又到君豪阳光酒店517房间开了房，是黄平用的别人身份证去开的房，到君豪阳光酒店去开房主要是为了安全点。同时，其辨认出了黄平、钟其强。</div><a type='dir' name='CPYZ'></a><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>本院认为，被告人李大丰、杜光伟、钟其强、黄平、崔洪违反国家对毒品的管制规定，被告人李大丰、杜光伟明知是毒品而予以贩卖、运输，其行为已构成贩卖、运输毒品罪；被告人钟其强、黄平明知是毒品而予以贩卖，其行为已构成贩卖毒品罪；被告人崔洪明知是毒品而予以运输，其行为已构成运输毒品罪。公诉机关指控各被告人的犯罪事实清楚，证据确实充分，但指控被告人钟其强、崔洪的罪名不当，应予以变更。在被告人李大丰、钟其强、黄平参与贩卖毒品的共同犯罪中，被告人李大丰起主要作用，系主犯，应当按照其参与或者组织、指挥的全部犯罪处罚；被告人钟其强、黄平受被告人李大丰邀约参与贩卖毒品，起次要作用，系从犯，应对其从轻处罚；庭审中被告人李大丰、杜光伟认罪态度较好，可对其酌定从轻处罚。被告人杜光伟协助公安机关抓获被告人李大丰，符合有关立功的法律规定，应属重大立功，可以对其减轻处罚；被告人钟其强主动检举揭发了一犯罪嫌疑人谭某某贩卖、制造毒品的事实公安机关已立案侦查，其行为应属立功，可对其予以从轻处罚。被告人李大丰曾因犯罪在判决宣告以后，刑法执行完毕以前，又犯贩卖、运输毒品罪，应当与其前罪数罪并罚；被告人钟其强在缓刑考验期内又犯贩卖毒品罪，应当撤销缓刑，对其数罪并罚；被告人黄平曾因犯运输毒品罪被判处有期徒刑，刑罚执行完毕后五年以内再犯应当判处有期徒刑以上刑罚之罪，系累犯，同时系毒品再犯，应对其从重处罚；被告人崔洪曾因犯票据诈骗罪被判处有期徒刑，刑罚执行完毕后五年以内再犯应当判处有期徒刑以上刑罚之罪，系累犯，应对其从重处罚。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>被告人李大丰及其辩护人辩解辩护称公诉机关指控其贩卖、运输毒品虽属事实，但本案另有主犯，被告人李大丰只是一种帮助行为，且未直接参与本案其他被告人贩卖毒品的过程，庭审中认罪态度较好请求从轻处罚的意见。经查，被告人李大丰主动联系云南一个叫“小波”的狱友，通过被告人杜光伟将24000颗毒品麻古运送至遂宁进行贩卖，除本人积极在遂宁、成都等地贩卖毒品外，还安排被告人钟其强帮其贩卖，该事实不仅有其本人与同案其余被告人的供述相互印证，另还有其余各被告人帮其贩卖毒品的转款记录、查获的尚未卖出的部分毒品麻古实物及相关证人证言佐证，足以认定，且在共同犯罪过程中起了主要作用，应为主犯。该辩解辩护意见不能成立，本院不予采纳。辩护人另提出的被告人李大丰认罪态度较好，可作为量刑情节酌情从轻考虑的意见与查明的事实相符，可对其酌定从轻处罚。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>被告人杜光伟及其辩护人辩解辩护称公诉机关指控其贩卖、运输毒品麻古的基本事实无异议，但本案的毒品麻古是被告人李大丰事先联系好后，其只负责帮助运送到遂宁交与李大丰，从中收取每颗5元的报酬应为从犯，对其行为应定性为运输毒品罪，且认为被告人杜光伟是云南省边防大队的特请人员本案系特请介入，并协助公安机关抓获了被告人李大丰应属重大立功，另提出本案所涉毒品麻古含量较低，请求对其从轻处罚的意见。经查，被告人杜光伟虽受“小波”的安排将24000颗毒品麻古从云南运往四川遂宁交与被告人李大丰贩卖，但被告人杜光伟明知该毒品是为了贩卖而帮助运输且从中收取每颗5元的好处费，其行为应定性为贩卖、运输毒品罪；其辩护人提出被告人杜光伟是特情人员的意见与审理查明的事实不符，本院不予采纳；其提出本案毒品含量较低，请求对被告人杜光伟从轻处罚的意见与法律对毒品犯罪不以纯度计算的规定不符，其辩护意见不能成立，本院不予采纳。被告人杜光伟协助公安机关抓获了被告人李大丰属重大立功的意见与查明的事实相符，该辩护意见成立，本院予以采纳，可对其予以减轻处罚。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>被告人钟其强及其辩护人辩解辩护称公诉机关指控其贩卖给黄明3000颗毒品麻古不是事实，其是帮助被告人李大丰贩卖应为从犯且有检举别人犯罪属立功表现，所卖毒品麻古含量较低，请求从轻判处的意见。经查，被告人钟其强贩卖毒品麻古3000颗给黄明的事实，不仅有其在公安机关与被告人黄平、崔洪的供述相互印证，还有被告人杜光伟收取毒资的情况相互吻合，足以认定。该辩解辩护意见与查明的事实不符，本院不予采纳。另提出其有立功表现、在贩卖毒品的过程中起次要作用应为从犯的辩护意见与查明的事实相符，本院予以采纳，可作为量刑情节予以从轻处罚。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>被告人黄平及其辩护人辩解辩护称公诉机关指控其贩卖毒品麻古部分不是事实，在被告人钟其强贩卖毒品过程中，其只起中介作用并没有直接参与贩卖，应为从犯，且黄明通过其在钟其强处购买3000颗麻古的证据不足，另提出本案有特情介入的迹象可能存在犯意和数量引诱，请求量刑时予以考虑的意见。经查，被告人黄平积极帮助被告人钟其强介绍买家，并从中获取利润的事实有其本人在公安机关的供述与被告人钟其强、崔洪的供述相互印证，以及本案有特情介入的意见与查明的事实不符，本院不予采纳；被告人黄平在贩卖毒品的过程中起次要作用应为从犯的意见与查明的事实相符，本院予以采纳，可从轻处罚。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>被告人崔洪及其辩护人对起诉书指控的事实无异议，但认为本案毒品麻古的质量较差，量刑时予以考虑的意见与法律关于毒品犯罪不以纯度折算的规定相悖，本院不予支持。被告人崔洪明知是毒品麻古而运输，在运输途中被当场查获，数量大，且明显超出其个人正常吸食量，依法应以运输毒品论处。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>据此，综合各被告人的犯罪事实、情节、社会危害程度以及人身危险性等，根据《中华人民共和国刑法》第三百四十七条第二款第（一）项、第三百五十六条、第三百五十七条、第二十六条第一款、第四款、第二十七条、第五十七条第一款、第五十九条、第五十二条、第五十三条、第六十四条、第六十五条第一款、第六十九条、第七十一条、第七十七条第一款之规定，判决如下：</div><a type='dir' name='PJJG'></a><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>一、被告人李大丰犯贩卖、运输毒品罪，判处无期徒刑，剥夺政治权利终身，并处没收个人全部财产；与其曾因犯故意伤害罪尚未执行的刑罚十九年零五十五天，剥夺政治权利七年数罪并罚，决定执行无期徒刑，剥夺政治权利终身，并处没收个人全部财产；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>二、被告人杜光伟犯贩卖、运输毒品罪，判处有期徒刑十五年，并处罚金人民币40000元；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>三、被告人崔洪犯运输毒品罪，判处有期徒刑十五年，并处罚金人民币40000元；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>四、撤销大英县人民法院（2011）大刑初字第87号刑事判决书对被告人钟其强犯故意伤害罪判处有期徒刑三年，缓刑四年的缓刑部分；被告人钟其强犯贩卖毒品罪，判处有期徒刑十三年，并处罚金人民币40000元，与其曾犯故意伤害罪被判处有期徒刑三年数罪并罚，决定执行有期徒刑十五年，并处罚金人民币40000元；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>五、被告人黄平犯贩卖毒品罪，判处有期徒刑十二年，并处罚金人民币30000元；</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>六、涉案毒品麻古予以没收，被告人李大丰违法所得人民币186335元、被告人杜光伟违法所得人民币56900元、被告人钟其强违法所得人民币40330元以及各被告人作案时相互联系所使用的手机予以没收，上缴国库。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>（上列各被告人所判处罚金限判决生效之日起三十日内缴纳）</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>如不服本判决，可在接到判决书的第二日起十日内，通过本院或者直接向四川省高级人民法院提出上诉。书面上诉的，应当提交上诉状正本一份，副本二份。</div><a type='dir' name='WBWB'></a><div style='TEXT-ALIGN: right; LINE-HEIGHT: 25pt; MARGIN: 0.5pt 72pt 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>审　判　长　　郑继兵</div><div style='TEXT-ALIGN: right; LINE-HEIGHT: 25pt; MARGIN: 0.5pt 72pt 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>审　判　员　　谢　超</div><div style='TEXT-ALIGN: right; LINE-HEIGHT: 25pt; MARGIN: 0.5pt 72pt 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>人民陪审员　　邓云鹏</div><br/><div style='TEXT-ALIGN: right; LINE-HEIGHT: 25pt; MARGIN: 0.5pt 72pt 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>二〇一四年一月二十六日</div><div style='TEXT-ALIGN: right; LINE-HEIGHT: 25pt; MARGIN: 0.5pt 72pt 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>书　记　员　　李朝晖</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>附法律条文：</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>《中华人民共和国刑法》</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>第三百四十七条第二款走私、贩卖、运输、制造毒品，有下列情形之一的，处十五年有期徒刑、无期徒刑或者死刑，并处没收财产：</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>（一）走私、贩卖、运输、制造鸦片一千克以上、海洛因或者甲基苯丙胺五十克以上或者其他毒品数量大的</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>第三百五十六条因走私、贩卖、运输、制造、非法持有毒品罪被判过刑，又犯本节规定之罪的，从重处罚。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>第三百五十七条本法所称的毒品，是指鸦片、海洛因、甲基苯丙胺（冰毒）、吗啡、大麻、可卡因以及国家规定管制的其他能够使人形成瘾癖的麻醉药品和精神药品。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>毒品的数量以查证属实的走私、贩卖、运输、制造、非法持有毒品的数量计算，不以纯度折算。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>第二十六条组织、领导犯罪集团进行犯罪活动的或者在共同犯罪中起主要作用的，是主犯。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>三人以上为共同实施犯罪而组成的较为固定的犯罪组织，是犯罪集团。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>对组织、领导犯罪集团的首要分子，按照集团所犯的全部罪行处罚。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>对于第三款规定以外的主犯，应当按照其所参与的或者组织、指挥的全部犯罪处罚。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>第二十七条在共同犯罪中起次要或者辅助作用的，是从犯。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>对于从犯，应当从轻、减轻处罚或者免除处罚。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>第五十七条第一款对于被判处死刑、无期徒刑的犯罪分子，应当剥夺政治权利终身。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>第五十九条第一款没收财产是没收犯罪分子个人所有财产的一部或者全部。没收全部财产的，应当对犯罪分子个人及其扶养的家属保留必需的生活费用。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>第五十二条判处罚金，应当根据犯罪情节决定罚金数额。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>第五十三条罚金在判决指定的期限内一次或者分期缴纳。期满不缴纳的，强制缴纳。对于不能全部缴纳罚金的，人民法院在任何时候发现被执行人有可以执行的财产，应当随时追缴。如果由于遭遇不能抗拒的灾祸缴纳确实有困难的，可以酌情减少或者免除。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>第六十四条犯罪分子违法所得的一切财物，应当予以追缴或者责令退赔；对被害人的合法财产，应当及时返还；违禁品和供犯罪所用的本人财物，应当予以没收。没收的财物和罚金，一律上缴国库，不得挪用和自行处理。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>第六十五条被判处有期徒刑以上刑罚的犯罪分子，刑罚执行完毕或者赦免以后，在五年以内再犯应当判处有期徒刑以上刑罚之罪的，是累犯，应当从重处罚，但是过失犯罪和不满十八周岁的人犯罪的除外。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>前款规定的期限，对于被假释的犯罪分子，从假释期满之日起计算。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>第六十九条判决宣告以前一人犯数罪的，除判处死刑和无期徒刑的以外，应当在总和刑期以下、数刑中最高刑期以上，酌情决定执行的刑期，但是管制最高不能超过三年，拘役最高不能超过一年，有期徒刑总和刑期不满三十五年的，最高不能超过二十年，总和刑期在三十五年以上的，最高不能超过二十五年。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>数罪中有判处附加刑的，附加刑仍须执行，其中附加刑种类相同的，合并执行，种类不同的，分别执行。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>第七十一条判决宣告以后，刑罚执行完毕以前，被判刑的犯罪分子又犯罪的，应当对新犯的罪作出判决，把前罪没有执行的刑罚和后罪所判处的刑罚，依照本法第六十九条的规定，决定执行的刑罚。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>第七十七条被宣告缓刑的犯罪分子，在缓刑考验期限内犯新罪或者发现判决宣告以前还有其他罪没有判决的，应当撤销缓刑，对新犯的罪或者新发现的罪作出判决，把前罪和后罪所判处的刑罚，依照本法第六十九条的规定，决定执行的刑罚。</div><div style='LINE-HEIGHT: 25pt;TEXT-ALIGN:justify;TEXT-JUSTIFY:inter-ideograph; TEXT-INDENT: 30pt; MARGIN: 0.5pt 0cm;FONT-FAMILY: 仿宋; FONT-SIZE: 16pt;'>被宣告缓刑的犯罪分子，在缓刑考验期限内，违反法律、行政法规或者国务院有关部门关于缓刑的监督管理规定，或者违反人民法院判决中的禁止令，情节严重的，应当撤销缓刑，执行原判刑罚。</div>
+secretary.name: 丰、杜光伟、钟其强、黄平、崔洪贩卖、运输毒品罪刑事判决书
+judge1.name: 
+judge2.name: 
+judge3.name: 
+
+Case: 134
+doc: ee96a742-9b64-4f6d-8a64-d172e9ad232e.html
+def.name: ﻿马吉军犯贩卖毒品罪一审刑事判决书
+crime.date: 2014年5月29日
+drug.type: 海洛因
+pun: 一、被告人马吉军犯贩卖毒品罪，判处有期徒刑三年，并处罚金人民币5000元；原判剩余刑期三年六个月，总和刑期六年六个月，决定执行有期徒刑六年，并处罚金人民币5000元（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2014年9月9日起至2020年9月8日止，罚金自判决生效后缴纳）。	二、随案移送的人民币100元予以没收，上缴国库。
+drug.weight: 7.85	0.24	8.09
+crime: 经审理查明：2014年5月29日11时许，罗某到吸毒人员马吉军家中以100元人民币向马吉军购买毒品零包1个时，被公安民警当场抓获，并在被告人马吉军身上及住处查获毒品可疑物零包共25个，经被告人马吉军指认称重，查获毒品可疑物净重7.85克，在购买毒品的罗某左手中查获毒品可疑物零包1个，经罗某指认称重，净重0.24克，合计查获毒品可疑物净重8.09克，被民警予以扣押。经民警提取检材送检，检出海洛因成分。被查获并扣押的毒品海洛因已移交禁毒大队保管，被查获并扣押的人民币100元已随案移送。被告人马吉军归案后如实供述了犯罪事实。																																																																																																				经审理查明：2014年5月29日11时许，罗某到吸毒人员马吉军家中以100元人民币向马吉军购买毒品零包1个时，被公安民警当场抓获，并在被告人马吉军身上及住处查获毒品可疑物零包共25个，经被告人马吉军指认称重，查获毒品可疑物净重7.85克，在购买毒品的罗某左手中查获毒品可疑物零包1个，经罗某指认称重，净重0.24克，合计查获毒品可疑物净重8.09克，被民警予以扣押。经民警提取检材送检，检出海洛因成分。被查获并扣押的毒品海洛因已移交禁毒大队保管，被查获并扣押的人民币100元已随案移送。被告人马吉军归案后如实供述了犯罪事实。
+juror.name: ['戈时凤']
+ruling.date: 二〇一四年九月九日
+secretary.name: 邵鑫
+def: 被告人马吉军
+judge1.name: 李兴山
+judge2.name: 肖虹
+judge3.name: 
+def.goodattitude: 1
+def.recid: 1
+
+Case: 135
+doc: e596bc7e-31cf-4215-88e5-a8af00f8b8ec.html
+def.name: ﻿黄某某贩卖毒品案一审刑事判决书
+crime.date: 2015年8月21日
+drug.type: 海洛因	甲基苯丙胺	冰毒
+pun: ﻿黄某某贩卖毒品案一审刑事判决书	发布日期：2018-03-26	云南省陇川县人民法院	刑 事 判 决 书	公诉机关陇川县人民检察院。	被告人黄某某，男，景颇族，1982年1月22日生。因涉嫌贩卖毒品罪，于2015年8月30日被陇川县公安局刑事拘留，经陇川县人民检察院批准，同年9月30日被陇川县公安局执行逮捕。现羁押于陇川县看守所。	辩护人李仲强，政源法律服务所法律工作者。	陇川县人民检察院以陇检公诉刑诉[2015]178号起诉书指控被告人黄某某犯贩卖毒品罪，于2015年12月24日向本院提起公诉。本院依法组成合议庭，于2016年3月2日公开开庭审理了本案。陇川县人民检察院指派检察员杨恩周、任娜出庭支持公诉，被告人黄某某及辩护人李仲强到庭参加诉讼。现已审理终结。	陇川县人民检察院指控，2015年8月21日，民警将被告人黄某某抓获，并当场从其家中查获毒品甲基苯丙胺8.3克、毒品海洛因4克。经查，被告人黄某某于2015年8月份，向金某某贩卖毒品二次，第一次贩卖120元人民币的毒品海洛因0.6克，第二次贩卖200元人民币的毒品海洛因1.2克。综上，被告人黄某某贩卖毒品海洛因共计5.8克。	针对所指控的犯罪事实，公诉机关向法庭出示了被告人的供述、证人证言、鉴定意见、辨认照片、辨认笔录、侦查实验笔录、书证等证据予以证实。公诉机关认为，被告人黄某某明知是毒品而予以贩卖，其行为已触犯《中华人民共和国刑法》第三百四十七条第一款、第四款之规定，应当以贩卖毒品罪追究其刑事责任。公诉机关建议判处被告人黄某某有期徒刑一年六个月至二年六个月，并处罚金。	庭审中，被告人黄某某对公诉机关指控的犯罪事实无异议且认罪。	辩护人李仲强的辩护意见为：1、被告人贩卖毒品的目的是为了将毒品分给毒友吸食，与获取非法利益为目的的贩卖性质不同，且被告人贩卖毒品数量小，犯罪情节轻微。2、被告人到案后如实供述犯罪事实，积极配合公安机关抓获吸毒人员，具有悔罪、认罪态度。	经审理查明，2015年8月21日，民警在陇川县陇把镇户岛村委会被告人黄某某的家中将其抓获，并当场从其家中查获毒品甲基苯丙胺净重8.3克、毒品海洛因净重4克。	经查，被告人黄某某系吸毒人员，并向他人零星贩卖毒品海洛因。其中，于2015年8月份在其家中向金某某贩卖毒品二次，第一次贩卖120元人民币的毒品海洛因约0.6克，第二次贩卖200元人民币的毒品海洛因约1.2克。	综上，被告人黄某某贩卖毒品海洛因共计5.8克，零星贩卖毒品次数为二次。	上述事实有经庭审质证、认证的下列证据证实：	1、户口证明。证实被告人黄某某的身份情况。	2、抓获经过、情况说明。证实2015年8月21日11时30分，民警在陇川县陇把镇户岛村委会开展收戒吸毒人员工作时，在黄某某家中将其抓获，并当场查获毒品可疑物的情况。	3、扣押清单。证实公安机关扣押了被告人黄某某持有的藿香正气水瓶装的毒品海洛因可疑物九瓶、蓝色塑料袋包装的毒品冰毒可疑物一袋。	4、称量照片、称量记录。证实经对查获的毒品海洛因可疑物进行称量，净重4克，对查获的毒品冰毒可疑物进行称量，净重8.3克。	5、现场照片。证实抓获被告人及查获涉案毒品的现场情况，被告人对此进行了指认。	6、辨认照片、辨认笔录、被辨认人身份情况说明。证实经被告人黄某某辨认，金某某就是向其购买毒品的人；经金某某辨认，黄某某就是向其贩卖毒品的人。	7、（陇）公（司）鉴（毒）字[2015]74号鉴定文书、（德）公（司）鉴（毒品）字[2015]1033号鉴定文书。证实经对涉案毒品可疑物抽样进行检测，分别为毒品海洛因及毒品甲基苯丙胺的情况。	8、侦查实验照片、侦查实验笔录。通过侦查实验确认，被告人黄某某贩卖120元人民币的毒品海洛因重0.6克，贩卖200元人民币的毒品海洛因重1.2克。	9、现场检测报告书、强制隔离戒毒决定书。证实经尿液检测，黄某某系吸毒人员的情况。	10、通话清单。证实被告人黄某某通过手机与吸毒人员联系的情况。	11、证人证言。证人金某某证实了向被告人黄某某购买毒品海洛因的时间、地点、数量、价格等情况。	12、被告人供述。被告人黄某某供述其向金某某贩卖毒品海洛因的时间、地点、价格、数量等情况，并供述公安机关在其家中查获毒品海洛因4克及毒品麻黄素8.3克的情况。	上述证据经法庭质证，证据来源合法，内容客观、真实，证据之间能够相互印证，证实被告人的犯罪事实存在，本院予以确认，并作为本案的定案依据。	本院认为，被告人黄某某无视国家法律，向他人贩卖毒品海洛因，其行为已触犯刑律，构成贩卖毒品罪。公诉机关的指控事实清楚，证据确实、充分，采证程序合法，指控的罪名成立，本院予以支持。对辩护人提出被告人黄某某贩卖毒品的目的，与获取非法利益为目的的贩卖性质不同，且贩卖毒品数量小，犯罪情节轻微的辩解，本院认为，无论被告人出于何种目的贩卖毒品，均不影响对其贩卖毒品罪的认定，且贩卖毒品的，无论数量多少，都应当追究刑事责任，予以刑事处罚，故对该辩解不予采纳。对辩护人提出被告人黄某某到案后如实供述犯罪事实，积极配合公安机关抓获吸毒人员，具有悔罪、认罪态度的辩解，经本院查明，被告人黄某某到案后配合公安机关侦查工作，并如实供述其犯罪事实，对该情节本院已经注意，并作为被告人的悔罪、认罪态度，在量刑时予以从轻处罚。公诉机关的量刑建议刑期适当，本院予以采纳。本院根据本案的案情、被告人的主观恶性、其行为所造成的客观危害等依法对其予以惩处。据此，依照《中华人民共和国刑法》第三百四十七条第一款、第四款、第七款、第五十二条、第五十三条、第六十四条、第六十七条第三款：	一、被告人黄某某犯贩卖毒品罪，判处有期徒刑一年零六个月，并处罚金人民币3000元。	二、扣押的毒品海洛因4克，毒品甲基苯丙胺8.3克依法予以没收。
+execution.date: 2015年8月30日
+drug.weight: 8.3	4
+crime: 经审理查明，2015年8月21日，民警在陇川县陇把镇户岛村委会被告人黄某某的家中将其抓获，并当场从其家中查获毒品甲基苯丙胺净重8.3克、毒品海洛因净重4克。																																																																																																				3、扣押清单。证实公安机关扣押了被告人黄某某持有的藿香正气水瓶装的毒品海洛因可疑物九瓶、蓝色塑料袋包装的毒品冰毒可疑物一袋。
+ruling.date: 书记员　　吴兴香
+secretary.name: 某贩卖毒品案一审刑事判决书
+def: 被告人黄某某，男，景颇族，1982年1月22日生
+attorney: ['辩护人李仲强，政源法律服务所法律工作者']
+judge1.name: 李维阳
+judge2.name: 罗永宁
+judge3.name: 邹有林
+def.goodattitude: 1
+
+Case: 136
+doc: 4c82be2b-5f87-4a1c-8345-6dd44864c9ed.html
+def.name: ﻿麦哏贩卖毒品案一审刑事判决书
+crime.date: 2015年5月6日
+drug.type: 海洛因
+pun: 一、被告人麦哏犯贩卖毒品罪，判处有期徒刑三年零二个月，并处罚金人民币3000元。	二、扣押的毒品海洛因1.9克、贩卖毒品所得人民币80元依法予以没收，扣押的其余财物由扣押机关依法处理。
+drug.weight: 1.9
+crime: 二、扣押的毒品海洛因1.9克、贩卖毒品所得人民币80元依法予以没收，扣押的其余财物由扣押机关依法处理。
+ruling.date: 书记员　　吴兴香
+secretary.name: 贩卖毒品案一审刑事判决书
+def: 被告人麦哏，男，1952年11月4日出生
+judge1.name: 李维阳
+judge2.name: 罗永宁
+judge3.name: 邹有林
+def.goodattitude: 1
+
+Case: 137
+doc: dee000ae-9843-4dad-8e7d-a92d009edee7.html
+def.name: ﻿胡晓走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2017年6月26日
+drug.type: 海洛因
+pun: 一、被告人胡晓犯运输毒品罪，判处有期徒刑十年，并处罚金人民币5000元；	二、查获的毒品海洛因121.73克、作案工具黑色OUKI牌手机一部、毒资人民币300元予以没收。
+execution.date: 2017年6月28日
+drug.weight: 121.73
+crime: 二、查获的毒品海洛因121.73克、作案工具黑色OUKI牌手机一部、毒资人民币300元予以没收。
+juror.name: ['杨德生', '王玫']
+ruling.date: 二〇一七年十二月十九日
+secretary.name: 姜桐雏
+def: 被告人胡晓，男，1991年1月22日出生，汉族，初中文化，无职业，住湖北省黄梅县
+judge1.name: 吴春燕
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 138
+doc: b732fa55-2068-4f9f-a591-46bdd224a3ee.html
+def.name: ﻿丁志娇贩卖毒品一案刑事一审判决书
+drug.type: 甲基苯丙胺
+pun: 被告人丁志娇犯贩卖毒品罪，判处有期徒刑七年，并处罚金人民币5000元。
+execution.date: 2016年1月26日
+drug.weight: 3.85	17.98	0.09	14.13
+crime: 经鉴定，送检的李某处查获的甲基苯丙胺可疑物检出毒品甲基苯丙胺成分。经称量，该40颗毒品甲基苯丙胺净重为3.85克。																																																																																																				经审理查明，被告人丁志娇系吸毒人员，其以人民币100元5粒的价格与“老马”购买毒品甲基苯丙胺。2014年9月至2015年12月，被告人丁志娇以贩养吸，先后六次向昌宁籍吸毒人员李某（另处）贩卖毒品甲基苯丙胺17.98克。具体为：																																																																																																				按照被告人认可的侦查实验得到的数据，前五次丁志娇共贩卖毒品甲基苯丙胺157粒，按每粒0.09克计算，计14.13克，第六次贩卖毒品甲基苯丙胺3.85克，合计17.98克。
+ruling.date: 书记员　　李慧珊
+secretary.name: 娇贩卖毒品一案刑事一审判决书
+def: 被告人丁志娇，曾用名丁小娇，女，1988年12月4日出生，汉族，家住昌宁县
+attorney: ['辩护人罗金海，云南昌源律师事务所律师']
+judge1.name: 王国荣
+judge2.name: 郑丽红
+judge3.name: 杨中学
+def.goodattitude: 1
+
+Case: 139
+doc: 39ca3775-9997-4de6-abc5-a90c00f9b626.html
+def.name: ﻿苏某某走私、贩卖、运输、制造毒品一审刑事判决书
+pun: 一、被告人苏某某犯贩卖毒品罪，判处拘役五个月（刑期自判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2018年1月12日起至2018年6月11日止），并处罚金人民币1000元（限判决生效之日起十日内缴清）。	二、涉案毒品海洛因0.47克予以没收并依法处理。
+drug.type: 海洛因
+drug.weight: 0.47
+crime: 二、涉案毒品海洛因0.47克予以没收并依法处理。																																																																																																				二、涉案毒品海洛因0.47克予以没收并依法处理。
+ruling.date: 书 记 员　彭　倩
+secretary.name: 某走私、贩卖、运输、制造毒品一审刑事判决书
+def: 被告人苏某某，男，1972年8月24日出生，汉族，户籍所在地：云南省昆明市盘龙区，初中文化
+judge1.name: 吴兆敏
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 140
+doc: 4befccb7-79d5-41b9-aba7-a74c00af5e9b.html
+def.name: ﻿钱某某贩卖毒品案一审刑事判决书
+drug.type: 海洛因
+pun: 被告人钱某某犯贩卖毒品罪，判处有期徒刑一年零九个月，并处罚金人民币二千元。
+execution.date: 2016年8月30日
+drug.weight: 
+crime: []
+juror.name: ['张发贵', '马俊山']
+ruling.date: 二〇一七年一月十九日
+secretary.name: 陈艳娜
+def: 被告人钱某某，男，汉族，云南省陆良县人，高中文化，因犯诈骗罪于2007年11月19日被本院判处有期徒刑六个月，缓刑一年，并处罚金人民币一万元
+judge1.name: 朱自前
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 141
+doc: b300e941-20c6-48a5-9d88-9eb2a6b4c178.html
+def.name: ﻿何廷江运输毒品一案一审刑事判决书
+crime.date: 2014年3月31日
+drug.type: 吗啡	甲基苯丙胺
+pun: 一、被告人何廷江犯运输毒品罪，判处有期徒刑十五年，并处没收财产人民币30000元（刑期从判决执行之日起计算；判决执行前先行羁押的，羁押一日折抵刑期一日，即自2015年4月2日起至2030年4月1日止）。	二、查获的毒品甲基苯丙胺161.6克及三星手机依法予以没收。
+drug.weight: 161.6
+crime: 二、查获的毒品甲基苯丙胺161.6克及三星手机依法予以没收。
+juror.name: ['刘燕']
+ruling.date: 二〇一五年十月二十日
+secretary.name: 张倩
+def: 被告人何廷江，男
+attorney: ['辩护人李琼，云南乌蒙律师事务所律师']
+judge1.name: 张钦鹏
+judge2.name: 黄开奇
+judge3.name: 
+def.recid: 1
+def.goodattitude: 1
+
+Case: 142
+doc: 4d2f6b34-dfd4-46de-8a42-c3e8a5e40f55.html
+def.name: ﻿李某某贩卖毒品案一审刑事判决书
+pun: 一、被告人李某某犯贩卖毒品罪，判处有期徒刑六个月，并处罚金人民币1500元。	二、扣押的毒品海洛因1.3克、包装纸14张、塑料纸1片，予以没收。
+execution.date: 2015年1月13日
+drug.type: 海洛因
+drug.weight: 1.3
+crime: 二、扣押的毒品海洛因1.3克、包装纸14张、塑料纸1片，予以没收。																																																																																																				二、扣押的毒品海洛因1.3克、包装纸14张、塑料纸1片，予以没收。
+ruling.date: 书记员　　李雪娇
+secretary.name: 某贩卖毒品案一审刑事判决书
+def: 被告人李某某，男，1986年3月15日生，汉族，初中文化，云南省腾冲县人，农民
+attorney: ['辩护人张婷婷，云南援边律师事务所律师']
+judge1.name: 董新书
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 143
+doc: f324bd9a-9288-474f-910d-a85601113968.html
+def.name: ﻿李世廷走私、贩卖、运输、制造毒品一审刑事判决书
+pun: 一、被告人李世廷犯贩卖毒品罪，判处有期徒刑八个月，并处罚金人民币5000元；	二、涉案毒品海洛因0.08克予以没收，由云县公安局按规定处理。
+execution.date: 2016年8月26日
+drug.type: 海洛因
+drug.weight: 0.08
+crime: 二、涉案毒品海洛因0.08克予以没收，由云县公安局按规定处理。																																																																																																				二、涉案毒品海洛因0.08克予以没收，由云县公安局按规定处理。
+ruling.date: 书记员　钟建军
+secretary.name: 廷走私、贩卖、运输、制造毒品一审刑事判决书
+def: 被告人李世廷，男，1968年3月4日出生于云南省云县，傣族，初中文化，无业，住云南省临沧市云县
+judge1.name: 黄伟
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 144
+doc: 3ced01da-e31f-4ee9-b21d-989f1ad19afe.html
+def.name: ﻿岩某某非法持有毒品案一审刑事判决书
+crime.date: 2015年7月16日
+drug.type: 甲基苯丙胺
+pun: 一、被告人岩某某犯非法持有毒品罪，判处有期徒刑一年（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2015年7月17日起至2016年7月16日止），并处罚金10000元（自本判决发生法律效力的次日起十日内缴付）。	二、查获的毒品甲基苯丙胺11.2克，予以没收。
+drug.weight: 11.2
+crime: 二、查获的毒品甲基苯丙胺11.2克，予以没收。
+juror.name: ['祁丽霖']
+ruling.date: 二〇一五年十一月十三日
+secretary.name: 陆改荣
+def: 被告人岩某某，男，生于1983年3月3日，傣族，中专文化，云南省勐腊县人，系勐腊县勐捧镇勐哈村委会曼勐村农民，因涉嫌犯非法持有毒品罪于2015年7月17日被刑事拘留，7月31日被逮捕
+judge1.name: 苏家明
+judge2.name: 刀丽华
+judge3.name: 
+def.goodattitude: 1
+
+Case: 145
+doc: aed4f1a0-734f-4717-b6c1-fb50855b9a6f.html
+def.name: ﻿苏朝强贩毒毒品案一审刑事判决书
+drug.type: 海洛因
+pun: 一、被告人苏朝强犯贩卖毒品罪，判处有期徒三年零四个月，并处罚金人民币3000元，上述款项限于判决生效后15日内缴纳。（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2016年10月13日起至2020年2月11日止，扣除先前羁押的1天）。	二、从被告人苏朝强身上查获的毒品海洛因3.4克，依法由公安机关上缴。作案工具一部黑色联想手机、一部黑色三星手机、一辆黑色南益牌NS110—D弯梁摩托车（车架号：LNS某CHLH7，发动机号：F0280310）、赃款人民币2640元，依法由公安机关予以没收，上缴国库。
+drug.weight: 3.4
+crime: 二、从被告人苏朝强身上查获的毒品海洛因3.4克，依法由公安机关上缴。作案工具一部黑色联想手机、一部黑色三星手机、一辆黑色南益牌NS110—D弯梁摩托车（车架号：LNS某CHLH7，发动机号：F0280310）、赃款人民币2640元，依法由公安机关予以没收，上缴国库。
+ruling.date: 书记员　　盘　翠
+secretary.name: 强贩毒毒品案一审刑事判决书
+def: 被告人苏朝强，绰号:老汪当，男，1974年4月1日生，汉族，小学文化，云南省河口瑶族自治县（以下简称河口县）人，无业
+judge1.name: 赵元凤
+judge2.name: 邱云霞
+judge3.name: 赵石
+def.goodattitude: 1
+
+Case: 146
+doc: b7e046f2-de50-4c01-bccf-049c6db6e925.html
+def.name: ﻿浦丽华运输毒品一案一审刑事判决书
+crime.date: 2015年2月4日
+drug.type: 甲基苯丙胺
+pun: 一、被告人浦丽华犯运输毒品罪，判处有期徒刑十五年（刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2015年2月6日起至2030年2月5日止），并处没收个人财产人民币50000元。	二、查获的毒品甲基苯丙胺片剂375克，依法没收。
+drug.weight: 375
+crime: 二、查获的毒品甲基苯丙胺片剂375克，依法没收。
+juror.name: ['黄道德']
+ruling.date: 二〇一五年八月十二日
+secretary.name: 曾铭墨
+def: 被告人浦丽华，女，1982年12月8日出生，汉族，云南省宣威市人，小学文化，无业
+judge1.name: 卢正坤
+judge2.name: 李云兴
+judge3.name: 
+def.goodattitude: 1
+
+Case: 147
+doc: 09fca193-6392-432c-804f-a82a009e5241.html
+def.name: ﻿唐佳走私、贩卖、运输、制造毒品一审刑事判决书
+pun: 一、被告人唐佳犯运输毒品罪，判处有期徒刑十五年，并处没收个人财产人民币10000元；（刑期从判决执行之日起计算，判决执行前先行羁押的，羁押一日折抵刑期一日，即自2016年4月27日起至2031年4月26日止）；	二、查获的毒品海洛因288.1克予以没收。
+drug.type: 海洛因
+drug.weight: 288.1
+crime: 二、查获的毒品海洛因288.1克予以没收。																																																																																																				二、查获的毒品海洛因288.1克予以没收。
+juror.name: ['张玲']
+ruling.date: 法官　助理　　李秀江
+secretary.name: 杨云
+def: 被告人唐佳，女，1994年10月28日出生，汉族，大学肄业，户籍所在地：安徽省六安市金安区
+attorney: ['辩护人卫平强，安徽皋兴律师事务所律师']
+judge1.name: 游孟蓉
+judge2.name: 蒋志梅
+judge3.name: 
+def.goodattitude: 1
+def.recid: 0
+
+Case: 148
+doc: f4fecb64-6674-4105-8d19-a95a010e0f47.html
+def.name: ﻿马俊波走私、贩卖、运输、制造毒品一审刑事判决书
+crime.date: 2018年3月25日
+drug.type: 海洛因
+pun: 一、被告人马俊波犯贩卖毒品罪，判处有期徒刑七年零六个月，并处罚金人民币6000元。（刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日。即自2018年3月29日起至2025年9月28日止。罚金限判决生效之日起三十日内缴纳。）	二、扣押在案的毒品海洛因、电子秤一个依法予以没收。	三、违法所得继续追缴。
+drug.weight: 0.16	10.57	10.73	12	0.2	0.4	0.09	9.73	0.75	10.6
+crime: 2018年3月29日11时许，被告人马俊波接到杨某1的购买海洛因零包的电话后，准备到凤某贩卖给杨某1海洛因零包，当其走到福星村内时被大理市公安局民警抓获，从其身上查获净重0.16克的一个白色纸包装毒品海洛因可疑物零包。后民警从其住处查获共计10.57克的三个毒品可疑物零包。经称重，查获的毒品海洛因可疑物净重10.73克。经鉴定，查获的毒品海洛因可疑物均检出海洛因成分。																																																																																																				被告人马俊波辩解，其曾在绿玉公园向彝族妇女买过3000元的海洛因12克用于自己吸食。2018年3月29日其被抓获后才接到杨某1约其一起去购买毒品的电话，并带领民警抓获了杨某1，有立功情节。民警从其身上及租房内查获的海洛因是吸食剩下的部分，其从未贩卖给他人。																																																																																																				2、被告人的供述与辩解。被告人2018年3月29日、3月30日、4月9日供述，2018年3月25日18时许，一个四十岁左右的巍山男子（151××××1039）打电话给其（187××××2295）说要买100元的海洛因，让其到骏马厂红绿灯口找他。其就开车到凤某骏马厂门口找到男子，男子给其100元，其拿给男子约0.2克的海洛因零包。3月27日男子又打电话要买，其下午15时许从巍山回到下关，拿了海洛因又开车到骏马厂旁边的红绿灯口找到男子，这次男子买了200元约0.4克重的海洛因。3月29日早上男子又打电话说要买货，11时许其拿了0.2克的零包从家里出来准备买点东西吃就去凤某送零包，在福星村路边被警察盘查，从裤包里搜出了一包海洛因零包。其贩卖的海洛因都是从绿玉公园找背孩子的彝族妇女买的，买来的毒品自己吸食一部分，没钱时也贩卖一部分。																																																																																																				7、称量记录及照片、取样笔录、大理州公安局司法鉴定中心毒品检验报告、鉴定意见通知书、收据。证实民警对从马俊波处查获的疑似毒品海洛因零包四个进行称量，从马俊波身上提取到的零包重0.16克，从马俊波住处提取到的三个零包分别重0.09克、9.73克、0.75克，四个零包合计重10.73克。民警从中取样4份送检，经检验，送检检材中均检出海洛因成分。鉴定意见已告知被告人。民警已将检验后剩余毒品10.6克送交大理市公安局禁毒大队扣押。
+juror.name: ['杨树娟', '程润芬']
+ruling.date: 二〇一八年七月二十日
+secretary.name: 何芳
+def: 被告人马俊波，曾用名马海辉，男，1986年4月12日出生于云南省巍山县，回族，初中文化，农民，家住云南省大理州巍山县
+judge1.name: 蒋晓云
+judge2.name: 
+judge3.name: 
+def.goodattitude: 1
+
+Case: 149
+doc: 1ff32814-76e4-4207-8f5b-535d11121dad.html
+def.name: ﻿孔妮贩卖毒品案一审刑事判决书
+pun: 一、撤销本院（2015）通刑初字第39号刑事判决书第一项对被告人孔妮判处有期徒刑一年零六个月，缓刑二年的缓刑部分。	二、被告人孔妮犯贩卖毒品罪，判处有期徒刑八年零六个月，并处罚金人民币八千元，合并原判有期徒刑一年零六个月，并处罚金人民币五百元，总和刑期十年，总和罚金八千五百元，决定执行刑期九年，并处罚金人民币八千五百元。	三、随案移送的手机一部，依法没收上缴；随案移送的电话卡一张，依法没收销毁。
+execution.date: 2015年7月27日
+drug.type: 甲基苯丙胺
+drug.weight: 1.6	1.2	0.4	0.3	2	2.6	4	1
+crime: 云南省通海县人民检察院指控，1、2014年10月至2015年2月，被告人孔妮通过电话联系等方式，在通海县四街镇大营村一所房子里、二街螺蛳山纳柳苑家，将1.6克毒品甲基苯丙胺片剂贩卖给吸毒人员马某某吸食。																																																																																																				2、2014年10月至2015年2月，被告人孔妮通过电话联系等方式，在通海县四街镇大营村一所房子里、二街螺蛳山纳柳苑家，将1.2克毒品甲基苯丙胺片剂贩卖给吸毒人员李某某吸食。																																																																																																				3、2015年2月，被告人孔妮通过直接联系等方式，在通海县二街螺蛳山纳柳苑家，将0.4克毒品甲基苯丙胺片剂贩卖给吸毒人员纳某某吸食。																																																																																																				4、2015年4月，被告人孔妮通过微信联系的方式，在通海县纳古镇古城，将0.3克毒品甲基苯丙胺片剂贩卖给吸毒人员纳某某吸食。																																																																																																				5、2015年2月至2015年3月，被告人孔妮通过电话联系的方式，在通海县四街镇街心头、四街镇十八米大街上，将2克毒品甲基苯丙胺片剂贩卖给吸毒人员公孙某某吸食。																																																																																																				6、2015年1月，被告人孔妮通过直接联系或电话联系等方式，在通海县二街螺蛳山纳柳苑家、通海文啸酒店，将2.6克毒品甲基苯丙胺片剂贩卖给吸毒人员周某某吸食。																																																																																																				7、2015年2月，被告人孔妮通过电话联系等方式，在通海县祥云酒店大门外、通海县龙庭商务酒店，将4克毒品甲基苯丙胺片剂贩卖给吸毒人员王某某吸食。																																																																																																				8、2015年3月，被告人孔妮通过电话联系等方式，在江通公路老公路岔王武营路口，将1克毒品甲基苯丙胺片剂贩卖给吸毒人员马某吸食。
+juror.name: ['张祖翔']
+ruling.date: 二〇一五年八月五日
+secretary.name: 胡菊玲
+def: 被告人孔妮，女
+judge1.name: 杨春红
+judge2.name: 马琼
+judge3.name: 
+def.goodattitude: 1
+def.recid: 1
+
+Case: 150
+doc: 4d8be8cf-8bbf-4b6b-803f-bb6632a3477a.html
+def.name: ﻿孜某某贩卖毒品案一审刑事判决书
+drug.type: 海洛因
+pun: 一、被告人孜某某犯贩卖毒品罪，判处有期徒刑六个月，并处罚金人民币1000元。	(刑期从判决执行之日起计算，判决执行以前先行羁押的，羁押一日折抵刑期一日，即自2014年11月17日起至2015年5月16日止。罚金限判决生效后三个月内执行完毕)。	二、海洛因0.5克予以没收。
+drug.weight: 0.5
+crime: 二、海洛因0.5克予以没收。																																																																																																				二、海洛因0.5克予以没收。
+juror.name: ['黄蓉']
+ruling.date: 二〇一五年四月二日
+secretary.name: 杨俊丽
+def: 被告人孜某某，男，新疆维吾尔族自治区霍城县人
+judge1.name: 钱红梅
+judge2.name: 屠永瑞
+judge3.name: 
+def.goodattitude: 1
+

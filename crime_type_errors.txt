@@ -1,0 +1,92 @@
+255d8a69-0a1c-44c5-b60d-ce6a0aed486a.html
+crime.drug.possession
+pred: 1
+ref: 0
+49cb7d0a-c2bc-4d64-b130-5672d4fb8114.html
+crime.drug.possession
+pred: 1
+ref: 0
+579bbbd5-10b0-4a4d-9460-aacdf39e713f.html
+crime.drug.traffic
+pred: 0
+ref: 1
+58a8d17d-2744-4a91-903d-87d97762adc1.html
+crime.drug.transport
+pred: 0
+ref: 1
+58a8d17d-2744-4a91-903d-87d97762adc1.html
+crime.drug.possession
+pred: 1
+ref: 0
+5ce27d8b-2caf-4f66-a8fe-f3839e8b3e64.html
+crime.drug.traffic
+pred: 0
+ref: 1
+5ce27d8b-2caf-4f66-a8fe-f3839e8b3e64.html
+crime.drug.transport
+pred: 1
+ref: 0
+5ce27d8b-2caf-4f66-a8fe-f3839e8b3e64.html
+crime.drug.possession
+pred: 1
+ref: 0
+60c67a07-ad77-44f4-b83c-3d91964d8e79.html
+crime.drug.transport
+pred: 1
+ref: 0
+744bf6a5-0fa9-4b90-8884-443a72966539.html
+crime.drug.transport
+pred: 1
+ref: 0
+c58dd2e8-5c66-40ed-8267-c2d9e8fcce2f.html
+crime.drug.transport
+pred: 1
+ref: 0
+c7bd054d-fa39-4509-9ca8-6dc880d7a0be.html
+crime.drug.traffic
+pred: 0
+ref: 1
+d673c7c1-0a4f-46d8-9bf3-2b730e33fd0f.html
+crime.drug.transport
+pred: 1
+ref: 0
+d673c7c1-0a4f-46d8-9bf3-2b730e33fd0f.html
+crime.drug.traffic
+pred: 1
+ref: 0
+e2eb2f44-0df1-4d06-9ba7-b3dbf0d34723.html
+crime.drug.possession
+pred: 1
+ref: 0
+e2eb2f44-0df1-4d06-9ba7-b3dbf0d34723.html
+crime.drug.possession
+pred: 1
+ref: 0
+e2eb2f44-0df1-4d06-9ba7-b3dbf0d34723.html
+crime.drug.traffic
+pred: 1
+ref: 0
+e8240fb9-c5f7-4466-a1c1-7c34980accd3.html
+crime.drug.manufacture
+pred: 1
+ref: 0
+e8240fb9-c5f7-4466-a1c1-7c34980accd3.html
+crime.drug.traffic
+pred: 1
+ref: 0
+e8240fb9-c5f7-4466-a1c1-7c34980accd3.html
+crime.drug.smuggle
+pred: 1
+ref: 0
+ee84f61e-0b51-4000-a892-cfcfd241198a.html
+crime.drug.transport
+pred: 1
+ref: 0
+ee84f61e-0b51-4000-a892-cfcfd241198a.html
+crime.drug.traffic
+pred: 1
+ref: 0
+fed4ba1f-9553-4c64-b4b7-cbced141ff9b.html
+crime.drug.traffic
+pred: 1
+ref: 0

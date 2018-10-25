@@ -1,0 +1,558 @@
+03aeb51c-fc74-4600-8026-9a6a958bb95b.html
+pred: 麻古
+ref: 1.03
+03aeb51c-fc74-4600-8026-9a6a958bb95b.html
+pred: 麻古
+ref: 1.03
+122eddd0-4bba-444a-969e-f8db3c4880b2.html
+pred: 
+ref: 甲基苯丙胺和咖啡因
+20544992-4889-4be7-9330-748c6e7f81fc.html
+pred: 0
+ref: 1
+210b3d7f-58ca-4b7c-85d5-03de76f509e4.html
+pred: 0
+ref: 1
+22719904-87d2-49da-ab48-1ba6a0e42408.html
+pred: 1
+ref: 0
+22719904-87d2-49da-ab48-1ba6a0e42408.html
+pred: 1
+ref: 0
+263c4173-7b94-40d8-81d0-4312c77e67a7.html
+pred: 0
+ref: 1
+29f16ad9-7e1f-45ea-bfb9-875e148c7c00.html
+pred: 氯胺酮 K粉
+ref: 氯胺酮
+2c1c3b94-6408-402d-b418-7e10e5a7d3c1.html
+pred: 0
+ref: 1
+2c1c3b94-6408-402d-b418-7e10e5a7d3c1.html
+pred: 1
+ref: 0
+2fce35c6-3778-49e9-8a60-72c8333ab56e.html
+pred: 0
+ref: 1
+3006b3cd-548a-4502-a8b2-fbdd39111c3f.html
+pred: 0
+ref: 1
+3006b3cd-548a-4502-a8b2-fbdd39111c3f.html
+pred: 1
+ref: 0
+32740f99-1e1d-44b1-8271-fc440690052a.html
+pred: 0
+ref: 1
+32ba64d0-29ad-49e3-8e4b-b4d897dc9e64.html
+pred: 1
+ref: 0
+3302978d-68c5-4b10-9635-308f5a651343.html
+pred: 0
+ref: 1
+341ee714-2395-4039-9b34-2d3263678a8f.html
+pred: 0
+ref: 1
+341ee714-2395-4039-9b34-2d3263678a8f.html
+pred: 1
+ref: 0
+36a3337c-d646-4559-ba58-34e9e7a1b342.html
+pred: 0
+ref: 1
+3ad6f0db-38fb-4196-be8b-b3e5a9f28c9e.html
+pred: 
+ref: 麻古
+3d14f186-9c74-4379-8364-f4ce35780ece.html
+pred: 1
+ref: 0
+3d833929-4de6-46ad-ab47-5a2fbddd6196.html
+pred: 1
+ref: 0
+45718060-8ce5-44e6-9031-85088b5838d9.html
+pred: 0
+ref: 1
+46d4f86e-edfa-43ac-bbe3-2758374aff0b.html
+pred: 1
+ref: 0
+4724b114-2f47-41f2-8fb0-f265e3562e52.html
+pred: 0
+ref: 1
+4a062962-fd39-4baf-aa2e-28d7470820cb.html
+pred: 1
+ref: 0
+4aa83933-9516-47ba-85e2-27d18ddfd749.html
+pred: 0
+ref: 1
+4aa83933-9516-47ba-85e2-27d18ddfd749.html
+pred: 1
+ref: 0
+4c2e4909-adbe-48d9-bca8-75deac8e5a12.html
+pred: 1
+ref: 0
+4d2b7efe-5d93-4a47-b8f8-4311f555105d.html
+pred: 1
+ref: 0
+4d2b7efe-5d93-4a47-b8f8-4311f555105d.html
+pred: 1
+ref: 0
+4f39c444-3493-4719-b5a9-e6acc4861ffa.html
+pred: 0
+ref: 1
+5090853e-5b3f-4d12-82d1-e798283c3cda.html
+pred: 0
+ref: 1
+520b5344-d872-40ff-b337-0e2f1475b8f5.html
+pred: 1
+ref: 0
+57023fc6-4248-4b8a-9fd9-ae58185d8db6.html
+pred: 麻古 氯胺酮 K粉
+ref: 氯胺酮
+58a8d17d-2744-4a91-903d-87d97762adc1.html
+pred: 1
+ref: 0
+58ce037d-5e08-4171-98c8-d6f9d3b6ae4e.html
+pred: 1
+ref: 0
+5a947cd0-27aa-4e15-80cd-35b3f55f353d.html
+pred: 0
+ref: 1
+5a947cd0-27aa-4e15-80cd-35b3f55f353d.html
+pred: 0
+ref: 1
+5a947cd0-27aa-4e15-80cd-35b3f55f353d.html
+pred: 0
+ref: 1
+5a947cd0-27aa-4e15-80cd-35b3f55f353d.html
+pred: 0
+ref: 1
+5c5c7a0a-4406-4d76-af81-f643fc587716.html
+pred: 氯胺酮
+ref: 氯胺酮/咖啡因
+5d5f99ef-7bf0-4307-b930-84088e7b4859.html
+pred: 0
+ref: 1
+5d5f99ef-7bf0-4307-b930-84088e7b4859.html
+pred: 1
+ref: 0
+5f1b2946-83e3-4259-99f7-f313fca0d665.html
+pred: 1
+ref: 0
+5f1b2946-83e3-4259-99f7-f313fca0d665.html
+pred: 四氢大麻酚 大麻烟
+ref: 四氢大麻酚
+61e67004-13db-41d6-a4a8-9fc40e473410.html
+pred: 1
+ref: 0
+63eba848-a72d-4969-9275-cde5eaa69488.html
+pred: 1
+ref: 0
+65611ccf-fc43-465f-a92c-4d570b2e08a4.html
+pred: 0
+ref: 1
+65611ccf-fc43-465f-a92c-4d570b2e08a4.html
+pred: 0
+ref: 1
+65fbfb4f-fbc8-4fd2-b961-8518e6c012e9.html
+pred: 1
+ref: 0
+65fbfb4f-fbc8-4fd2-b961-8518e6c012e9.html
+pred: 1
+ref: 0
+66158236-5826-4c0c-8f29-bf04f65701f1.html
+pred: 1
+ref: 0
+66158236-5826-4c0c-8f29-bf04f65701f1.html
+pred: 1
+ref: 0
+66a573f4-ad1e-422d-b4b3-062631a63a6d.html
+pred: 1
+ref: 0
+69a6554a-e874-463e-a3e5-d2775a78c45c.html
+pred: 1
+ref: 0
+69a6554a-e874-463e-a3e5-d2775a78c45c.html
+pred: 1
+ref: 0
+69a6554a-e874-463e-a3e5-d2775a78c45c.html
+pred: 1
+ref: 0
+69a6554a-e874-463e-a3e5-d2775a78c45c.html
+pred: 1
+ref: 0
+69a6554a-e874-463e-a3e5-d2775a78c45c.html
+pred: 四氢大麻酚 大麻烟
+ref: 大麻烟
+69a6554a-e874-463e-a3e5-d2775a78c45c.html
+pred: 1
+ref: 0
+69a6554a-e874-463e-a3e5-d2775a78c45c.html
+pred: 1
+ref: 0
+69a6554a-e874-463e-a3e5-d2775a78c45c.html
+pred: 1
+ref: 0
+69a6554a-e874-463e-a3e5-d2775a78c45c.html
+pred: 1
+ref: 0
+69a6554a-e874-463e-a3e5-d2775a78c45c.html
+pred: 四氢大麻酚 大麻烟
+ref: 大麻烟
+69a6554a-e874-463e-a3e5-d2775a78c45c.html
+pred: 1
+ref: 0
+69a6554a-e874-463e-a3e5-d2775a78c45c.html
+pred: 1
+ref: 0
+69a6554a-e874-463e-a3e5-d2775a78c45c.html
+pred: 1
+ref: 0
+69a6554a-e874-463e-a3e5-d2775a78c45c.html
+pred: 1
+ref: 0
+69a6554a-e874-463e-a3e5-d2775a78c45c.html
+pred: 四氢大麻酚 大麻烟
+ref: 大麻烟
+6b677a9f-6745-4da5-afed-58e35741e621.html
+pred: 0
+ref: 1
+71b027c2-5a81-4ee8-b3c3-644b4e515bd6.html
+pred: 1
+ref: 0
+720467cc-fcb9-49b3-aad6-b536583e705c.html
+pred: 1
+ref: 0
+74b8d8bf-8dd7-4f83-89c2-877091309b52.html
+pred: 
+ref: 氯胺酮
+75460cd3-7075-4638-ab2f-0e3e6d330fee.html
+pred: 1
+ref: 0
+7652577f-8b01-4e85-8f7a-207c0bd5900b.html
+pred: 0
+ref: 1
+77cdbe23-01a3-4305-acc1-88a160418b37.html
+pred: 1
+ref: 0
+77cdbe23-01a3-4305-acc1-88a160418b37.html
+pred: 四氢大麻酚 大麻烟
+ref: 大麻烟
+7af4dda9-32df-453e-ae77-65cad503156b.html
+pred: 0
+ref: 1
+7f8a5531-99de-40e6-ae01-82df8bc5d146.html
+pred: 1
+ref: 0
+8014454b-45bc-4ce3-95c3-a619749d65f5.html
+pred: 
+ref: 白色粉末
+8014454b-45bc-4ce3-95c3-a619749d65f5.html
+pred: 
+ref: 白色粉末
+8014454b-45bc-4ce3-95c3-a619749d65f5.html
+pred: 
+ref: 白色粉末
+857df9e4-0107-43b2-92b2-3b2609c76f29.html
+pred: 0
+ref: 1
+8612db7c-c8f3-45e8-b49f-25202fa8ece2.html
+pred: 0
+ref: 1
+8612db7c-c8f3-45e8-b49f-25202fa8ece2.html
+pred: 0
+ref: 1
+8612db7c-c8f3-45e8-b49f-25202fa8ece2.html
+pred: 
+ref: 含有大麻中的四氢大麻酚、大麻酚、大麻二酚成分
+87fb9322-e91c-475a-97f6-e4f2fd3b670b.html
+pred: 1
+ref: 0
+87fb9322-e91c-475a-97f6-e4f2fd3b670b.html
+pred: 四氢大麻酚 大麻烟
+ref: 大麻烟
+88f7bf85-044e-402d-b45b-f153b31ded8f.html
+pred: 1
+ref: 0
+88f7bf85-044e-402d-b45b-f153b31ded8f.html
+pred: 吗啡
+ref: 海洛因、吗啡混合毒品
+8b2b0f29-8794-446a-945a-140f0b6d8e40.html
+pred: 麻古 K粉
+ref: 氯胺酮
+8c1bd466-d57f-40e4-919b-7f00ef14576e.html
+pred: 1
+ref: 0
+90901983-0ce3-4be4-b15b-7013d77b1a8e.html
+pred: 1
+ref: 0
+9109a7fe-190c-4c56-9ef7-aa29d0a4dd42.html
+pred: 1
+ref: 0
+9199a05a-1cd2-428c-bf6a-4a1548b191a9.html
+pred: 1
+ref: 0
+96b22fb8-e064-4600-a5cd-9c33f98a1b5e.html
+pred: 1
+ref: 0
+99990477-48cc-492f-b211-63002aa38b99.html
+pred: 0
+ref: 1
+9d259ccd-b12f-42c5-a3e4-ee10734990ff.html
+pred: 0
+ref: 1
+9d259ccd-b12f-42c5-a3e4-ee10734990ff.html
+pred: 0
+ref: 1
+9d259ccd-b12f-42c5-a3e4-ee10734990ff.html
+pred: 0
+ref: 1
+9d259ccd-b12f-42c5-a3e4-ee10734990ff.html
+pred: 0
+ref: 1
+9d259ccd-b12f-42c5-a3e4-ee10734990ff.html
+pred: 0
+ref: 1
+9d259ccd-b12f-42c5-a3e4-ee10734990ff.html
+pred: 0
+ref: 1
+9fb8d514-0c97-4bf4-9c06-88b32b5f4e38.html
+pred: 1
+ref: 0
+9fb8d514-0c97-4bf4-9c06-88b32b5f4e38.html
+pred: 
+ref: 在送检的四个检材中均未检出海洛因、甲基苯丙胺（冰毒）、氯胺酮成分
+9fb8d514-0c97-4bf4-9c06-88b32b5f4e38.html
+pred: 1
+ref: 0
+9fb8d514-0c97-4bf4-9c06-88b32b5f4e38.html
+pred: 
+ref: 在送检的四个检材中均未检出海洛因、甲基苯丙胺（冰毒）、氯胺酮成分
+a01afab3-5002-436e-9779-f6845035baa1.html
+pred: 0
+ref: 1
+a01b4920-e036-47c0-bf84-67880ed8ff85.html
+pred: 1
+ref: 0
+a01b4920-e036-47c0-bf84-67880ed8ff85.html
+pred: 四氢大麻酚
+ref: 大麻种子
+a18bb1dc-4ce6-4024-a425-0426e38de6a8.html
+pred: 1
+ref: 0
+a18bb1dc-4ce6-4024-a425-0426e38de6a8.html
+pred: 0
+ref: 1
+a2bf2d75-08f6-4907-969f-9f1665a248c3.html
+pred: 1
+ref: 0
+a2bf2d75-08f6-4907-969f-9f1665a248c3.html
+pred: 1
+ref: 0
+a2e4f8d3-562d-4370-8154-07b8e6f7b909.html
+pred: 0
+ref: 1
+a49f07cd-6197-47e4-b98a-781a30e6c16a.html
+pred: 1
+ref: 0
+a49f07cd-6197-47e4-b98a-781a30e6c16a.html
+pred: 
+ref: 大麻叶
+a5b7fb72-9964-4219-88dd-35e7a9add59d.html
+pred: 1
+ref: 0
+a745b2d0-1689-4c50-bb58-62a65fe437c9.html
+pred: 1
+ref: 0
+aa717c04-10da-4d0e-b55c-d5cd62a0efcb.html
+pred: 1
+ref: 0
+acb9562e-cb7b-47ba-ab8b-35f04b835dfb.html
+pred: 1
+ref: 0
+acba3655-d90f-4b5a-ac42-c985716922fa.html
+pred: 0
+ref: 1
+ad9e9129-b3e9-4dab-b9a1-b0fd69f698ca.html
+pred: 1
+ref: 0
+ad9e9129-b3e9-4dab-b9a1-b0fd69f698ca.html
+pred: 1
+ref: 0
+af1b3311-d4ed-431f-9b80-264477eb149e.html
+pred: 1
+ref: 0
+b543c226-af7d-4dde-b171-352eecd16882.html
+pred: 0
+ref: 1
+b5b31cc5-e596-4fac-b815-eacb204332cd.html
+pred: 1
+ref: 0
+b5b31cc5-e596-4fac-b815-eacb204332cd.html
+pred: 
+ref: 大麻叶
+b5b31cc5-e596-4fac-b815-eacb204332cd.html
+pred: 1
+ref: 0
+b5b31cc5-e596-4fac-b815-eacb204332cd.html
+pred: 
+ref: 大麻叶
+b7970e71-ab05-43c6-b7fd-8bb0170a1c8b.html
+pred: 
+ref: 麻黄素
+b7c5878f-bc43-4b00-86dc-ef2142347194.html
+pred: 1
+ref: 0
+b9274e71-cf7e-4b8d-b4f6-3bee93994cf2.html
+pred: 0
+ref: 1
+bcf21a1b-400e-478b-8b4d-82ba5ed41edb.html
+pred: 1
+ref: 0
+c31c3746-985d-4c38-bbfa-c4efa86df7c0.html
+pred: 1
+ref: 0
+c4854699-3120-497e-90c4-30c3f13a4c31.html
+pred: 1
+ref: 0
+c5ae5fa6-abe7-4d17-9d48-6655b3bac747.html
+pred: 1
+ref: 0
+c6140698-4227-4f7b-a393-e934714767f3.html
+pred: 1
+ref: 0
+c647573b-2197-4c48-a811-ca118ef0f230.html
+pred: 0
+ref: 1
+c6b25b0a-0351-489d-8d6f-e39b730958bf.html
+pred: 0
+ref: 1
+c6be7c16-2772-4c1f-a87b-9e015a280a59.html
+pred: 1
+ref: 0
+c6be7c16-2772-4c1f-a87b-9e015a280a59.html
+pred: 麻古
+ref: 麻古粉
+c6f3cff6-a2f4-41e3-810f-d0a400382f96.html
+pred: 1
+ref: 0
+c81c37d0-ddbf-49a4-9304-0c7ee9b8558d.html
+pred: 0
+ref: 1
+c9c44dcb-6a07-4cc6-9489-d931591a1599.html
+pred: 1
+ref: 0
+c9c44dcb-6a07-4cc6-9489-d931591a1599.html
+pred: 四氢大麻酚 大麻烟
+ref: 大麻烟
+ca0073cf-0a28-4462-9fb1-3011c860a757.html
+pred: 氯胺酮 K粉
+ref: 氯胺酮（K粉）
+ca63ec27-9cf4-41db-a268-68eda78cf25f.html
+pred: 1
+ref: 0
+ca63ec27-9cf4-41db-a268-68eda78cf25f.html
+pred: 四氢大麻酚 大麻烟
+ref: 大麻烟
+d55e238e-b9a1-4fa4-9f8e-58e016e85ffb.html
+pred: 0
+ref: 1
+d55e238e-b9a1-4fa4-9f8e-58e016e85ffb.html
+pred: 1
+ref: 0
+d55e238e-b9a1-4fa4-9f8e-58e016e85ffb.html
+pred: 0
+ref: 1
+d55e238e-b9a1-4fa4-9f8e-58e016e85ffb.html
+pred: 1
+ref: 0
+d9312fe7-cb31-4b44-b4bb-62a1f81d57d9.html
+pred: 曲马多
+ref: 克曲马多
+db8e3683-41c9-4cf4-aa6f-dc0601b68d3b.html
+pred: 0
+ref: 1
+db8e3683-41c9-4cf4-aa6f-dc0601b68d3b.html
+pred: 0
+ref: 1
+dd9f2ac3-bf8e-4482-bae1-4c9e150a6d72.html
+pred: 1
+ref: 0
+dd9f2ac3-bf8e-4482-bae1-4c9e150a6d72.html
+pred: 四氢大麻酚 大麻烟
+ref: 大麻烟
+dda2a2e2-a2ec-460d-b4d9-05e3897910db.html
+pred: 1
+ref: 0
+de61de3d-86f8-4fd8-87fe-1fbcf2973426.html
+pred: 1
+ref: 0
+deecbe6d-9fab-4649-8207-e64b7ac74262.html
+pred: 1
+ref: 0
+def90876-c633-4947-ad2f-6d93a196696b.html
+pred: 罂粟 吗啡
+ref: 原植物罂粟
+e0917f0c-01e7-4c13-9cb4-b54822cd0f66.html
+pred: 1
+ref: 0
+e0ed68a3-fe8e-44ce-8bfd-58bf61a3189c.html
+pred: 0
+ref: 1
+e0ed68a3-fe8e-44ce-8bfd-58bf61a3189c.html
+pred: 0
+ref: 1
+e1929f85-5af3-4e4d-9afd-63736ec85180.html
+pred: 1
+ref: 0
+e3a5c4e0-1e24-4e0a-acde-55823d706810.html
+pred: 氯胺酮 K粉
+ref: 氯胺酮
+e52b8286-70ef-4870-bc34-5937888e4b37.html
+pred: 1
+ref: 0
+e7bacf98-d623-47c2-bae9-6c7cc4a23218.html
+pred: 1
+ref: 0
+e84e9792-33bd-4e3c-8154-60700aac894d.html
+pred: 1
+ref: 0
+ee84f61e-0b51-4000-a892-cfcfd241198a.html
+pred: 1
+ref: 0
+ee84f61e-0b51-4000-a892-cfcfd241198a.html
+pred: 1
+ref: 0
+f115cffb-2367-476c-9aae-30ff4f86bde8.html
+pred: 0
+ref: 1
+f19db1fe-7c15-452b-9e47-533871785dfc.html
+pred: 0
+ref: 1
+f19db1fe-7c15-452b-9e47-533871785dfc.html
+pred: 0
+ref: 1
+f256fb55-c4c8-4bc6-9c00-2e6adbf5d757.html
+pred: 1
+ref: 0
+f256fb55-c4c8-4bc6-9c00-2e6adbf5d757.html
+pred: 
+ref: 甲基苯丙胺及咖啡因/大麻烟
+f276e54d-452c-43a4-b97e-b50cbc314464.html
+pred: 曲马多 盐酸曲马多
+ref: 盐酸曲马多
+f3e047e7-2d82-4eb7-a84c-533224095411.html
+pred: 0
+ref: 1
+f3e047e7-2d82-4eb7-a84c-533224095411.html
+pred: 0
+ref: 1
+f4deab90-27ad-4601-9b00-ca4d8e9e22bc.html
+pred: 1
+ref: 0
+f58adde8-f2fc-4dca-a3b6-9b0ac347af97.html
+pred: 0
+ref: 1
+f5a4366e-e15d-4934-b09a-1658f457e506.html
+pred: 氯胺酮 K粉
+ref: 氯胺酮（K粉）
+f635e639-09ad-445f-945d-b1894141c078.html
+pred: 0
+ref: 1

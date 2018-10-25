@@ -1,0 +1,28 @@
+Drug Type:
+1. If our prediction is '1' but the reference is '0', I think our prediction is correct.
+   For example, 4d2b7efe-5d93-4a47-b8f8-4311f555105d.html heroin should be considered but not considered in reference.
+2. Format problem, the drug is not in some certain words. All drug names in the document is also not okay
+   because of "maybe"
+
+Fix imprison
+
+Life imprison and death
+1. Two or more defends in the case.
+    a. the def name not match
+    b. name error in punishment
+2. Gold annotation error
+
+Oct 21, 2018
+1. Fix the first two simple drug quantities but the results aren't improved.
+2. Try a simple way to deal with the multiple defendants cases, but the results aren't improved.
+=> Try more complicated methods
+3. Add the minority of the def
+4. Add drug quantity is a little complex => do it later
+5. predict the results as excel files for the xj province: data/xinjiang_drug_predicted_2017.csv
+6. Analyze the original and new cases of xj
+    original file num (xj):  1479
+    new file num (xj):  1535
+    matched file num (xj):  1310
+7. predict the results as excel files for all the provinces: there are so many special cases that I need to tackle.
+I focus on the three samples, yn, gd, all first and the results are in provinces/.
+=> Extend to all provinces with some critical analysis.

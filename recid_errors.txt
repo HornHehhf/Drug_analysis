@@ -1,0 +1,618 @@
+060fb6cd-4211-426d-bce1-4d3573e34426.html
+pred: 0
+ref: 1
+068eea67-592c-413e-8c4b-430d94220e9d.html
+pred: 1
+ref: 0
+0762b784-a96c-4762-ac1a-719d577e1127.html
+pred: 0
+ref: 1
+104909ca-0922-4ce5-9bf5-1cb6b9e131c1.html
+pred: 1
+ref: 0
+11f796b8-e494-4a0f-bc86-c0b7b3ce6bb9.html
+pred: 0
+ref: 1
+13a9f2e6-fb06-4a6e-8d3c-b5248eb9810e.html
+pred: 1
+ref: 0
+14b191cd-3546-48aa-be30-6d7cb3ae3c95.html
+pred: 0
+ref: 1
+14b7a252-d01e-4b04-ab34-812014a4d9d4.html
+pred: 1
+ref: 0
+1566528a-ac66-43ee-9f2d-af5276cbe0b5.html
+pred: 0
+ref: 1
+15b9c133-64cd-4419-9869-b3a369338172.html
+pred: 0
+ref: 1
+22921ee3-54d3-4d9a-8583-33b5f08237fa.html
+pred: 0
+ref: 1
+235bf462-96e5-46e7-8dcb-e08c1f6c9554.html
+pred: 0
+ref: 1
+263c4173-7b94-40d8-81d0-4312c77e67a7.html
+pred: 0
+ref: 1
+26c5f087-8666-4d60-975e-0109c40ba094.html
+pred: 0
+ref: 1
+290cd19a-b80c-4264-b69e-eb6f86e53f58.html
+pred: 0
+ref: 1
+2c465922-9668-463d-bbc1-a2f9e2c74e16.html
+pred: 1
+ref: 0
+2ed223bf-f373-47b5-93b9-ccb29594734c.html
+pred: 1
+ref: 0
+3077a81f-b1e1-41b6-864c-d562422297c5.html
+pred: 1
+ref: 0
+309c445a-c3cc-4a54-bde4-1ed2a82d3718.html
+pred: 0
+ref: 1
+3206f9fc-053a-47b7-8c4a-02f2741cad09.html
+pred: 1
+ref: 0
+3686f1ec-e54a-479b-a155-c7e1d4cd7750.html
+pred: 1
+ref: 0
+3686f1ec-e54a-479b-a155-c7e1d4cd7750.html
+pred: 1
+ref: 0
+3847d7a0-d3ae-4cf7-af5d-9803c54da14e.html
+pred: 1
+ref: 0
+3847d7a0-d3ae-4cf7-af5d-9803c54da14e.html
+pred: 1
+ref: 0
+39f6312f-6b6f-4111-b62a-a8843c73782e.html
+pred: 1
+ref: 0
+3a5a7052-aab2-448a-bf05-65d69142d51e.html
+pred: 0
+ref: 1
+3c902a82-dc69-4683-83a8-c3303b983b32.html
+pred: 0
+ref: 1
+3d0df4de-a4c7-41b9-81ff-c4ded96da601.html
+pred: 0
+ref: 1
+3d0df4de-a4c7-41b9-81ff-c4ded96da601.html
+pred: 0
+ref: 1
+3d20caf2-f2ba-4526-9e5e-7753b17da815.html
+pred: 1
+ref: 0
+3fcbf219-3a94-4bc5-88c1-a97f60732e76.html
+pred: 1
+ref: 0
+4185cfd6-4bd6-4e75-8cd7-374a6d5152f7.html
+pred: 0
+ref: 1
+42e6238b-9d3f-45a1-9f63-572022421966.html
+pred: 0
+ref: 1
+432fea69-bf26-4e61-b124-8ee34d5de4bf.html
+pred: 1
+ref: 0
+438b0c70-4179-433a-b918-81c9bca04d1e.html
+pred: 0
+ref: 1
+46bb99d2-9bd1-4b07-bca0-c10c2d20d315.html
+pred: 1
+ref: 0
+47e3493b-b5e0-4bd1-8c7f-b900a7f00c62.html
+pred: 0
+ref: 1
+47e3493b-b5e0-4bd1-8c7f-b900a7f00c62.html
+pred: 0
+ref: 1
+4d2b7efe-5d93-4a47-b8f8-4311f555105d.html
+pred: 1
+ref: 0
+4de06654-e3c6-4188-98dd-fc1a41dcb17d.html
+pred: 0
+ref: 1
+4e58490a-36da-4b11-99dc-5854e5158f7a.html
+pred: 0
+ref: 1
+4f7348cf-f344-4c91-b6e0-b784c2fea58c.html
+pred: 1
+ref: 0
+4f848249-085c-4177-90a5-241faf20caa5.html
+pred: 1
+ref: 0
+4f909a98-3372-4019-b661-7b13e01e92c4.html
+pred: 1
+ref: 0
+5090853e-5b3f-4d12-82d1-e798283c3cda.html
+pred: 0
+ref: 1
+509fafe7-c8e5-46c7-a4d9-2e2bfe3f399c.html
+pred: 0
+ref: 1
+52a88619-9ad5-4fac-9de2-53c758ad76be.html
+pred: 0
+ref: 1
+532cacb7-2b8b-45c9-8644-68b447cff640.html
+pred: 1
+ref: 0
+53dba861-b7bd-4853-adfc-0a1dcd12cc5a.html
+pred: 1
+ref: 0
+5429a68c-e74c-4d81-8233-35cfaa9d46d7.html
+pred: 1
+ref: 0
+54317ef7-4822-4c42-80f4-ac3a77cbaa35.html
+pred: 0
+ref: 1
+5797623f-0dbe-4fc7-be24-6bc752ecfb34.html
+pred: 1
+ref: 0
+5917d357-f08b-4b46-9398-7b3fe41ae273.html
+pred: 0
+ref: 1
+5a947cd0-27aa-4e15-80cd-35b3f55f353d.html
+pred: 1
+ref: 0
+5c9280e6-7a91-41cb-b3ec-be580081a795.html
+pred: 1
+ref: 0
+5ce27d8b-2caf-4f66-a8fe-f3839e8b3e64.html
+pred: 1
+ref: 0
+5d5f99ef-7bf0-4307-b930-84088e7b4859.html
+pred: 0
+ref: 1
+5de7eed4-6191-4159-a0c8-0f3f40d18e7a.html
+pred: 0
+ref: 1
+5ecf8145-3b40-47ef-90e4-3de2fb7e3a3d.html
+pred: 0
+ref: 1
+60c67a07-ad77-44f4-b83c-3d91964d8e79.html
+pred: 1
+ref: 0
+67da54cc-01ce-43df-b997-2de70df449ab.html
+pred: 1
+ref: 0
+6803653a-eef9-4297-b654-79db1009659d.html
+pred: 0
+ref: 1
+6977d323-cd8c-46fa-9199-1648c13c2786.html
+pred: 1
+ref: 0
+69a6554a-e874-463e-a3e5-d2775a78c45c.html
+pred: 1
+ref: 0
+69a6554a-e874-463e-a3e5-d2775a78c45c.html
+pred: 1
+ref: 0
+69bb9401-1fd6-408c-b846-c8afc8bf4d8d.html
+pred: 0
+ref: 1
+6b1bb573-0bfb-4839-8247-e750f4bd95eb.html
+pred: 1
+ref: 0
+6be7d5bf-d25c-47c6-a10c-a41b780a96ba.html
+pred: 0
+ref: 1
+6c01a241-ad89-4d79-b379-cfbf71cdae81.html
+pred: 0
+ref: 1
+6d36c1c6-41dd-46f6-806c-e76e38f0b7c0.html
+pred: 0
+ref: 1
+6d4b2352-94f5-4e06-8d3a-369b33d78914.html
+pred: 1
+ref: 0
+737aa0ea-599a-49e2-aca5-d7e847b1ed41.html
+pred: 1
+ref: 0
+74ec445d-444a-49e5-a4ce-92a2ca50b88c.html
+pred: 1
+ref: 0
+76daa2c4-974e-4365-957b-d27bcd0c8996.html
+pred: 0
+ref: 1
+76e77cad-c56d-4a53-9dff-d6c5f1ed4ab8.html
+pred: 0
+ref: 1
+785a2fa9-c997-4d00-8c63-14fdff12840a.html
+pred: 1
+ref: 0
+7a3a61eb-a9bf-402a-9a32-886eadffcb12.html
+pred: 1
+ref: 0
+7b1cbb80-deea-40a3-ab80-a511e18ed078.html
+pred: 0
+ref: 1
+8014454b-45bc-4ce3-95c3-a619749d65f5.html
+pred: 1
+ref: 0
+8014454b-45bc-4ce3-95c3-a619749d65f5.html
+pred: 1
+ref: 0
+801aec3b-6d7a-4953-9dae-18780f49623c.html
+pred: 0
+ref: 1
+815b06b7-3073-4e39-980c-22f208ce1edc.html
+pred: 0
+ref: 1
+832bd7f0-dcab-4b13-bbf5-c3ebe37c1219.html
+pred: 0
+ref: 1
+84e291bc-8cc5-4b95-8f82-f638e36498a8.html
+pred: 1
+ref: 0
+84e291bc-8cc5-4b95-8f82-f638e36498a8.html
+pred: 1
+ref: 0
+85213211-b5b9-4c5b-a205-0f2e5ca3b420.html
+pred: 1
+ref: 0
+87941790-e9f5-4f00-b452-85e1eafa33b0.html
+pred: 0
+ref: 有劣迹
+87980dbf-8668-4e83-a1e5-7e800755f87d.html
+pred: 0
+ref: 辩护0
+87980dbf-8668-4e83-a1e5-7e800755f87d.html
+pred: 0
+ref: 辩护0
+88488732-a550-4921-82d6-b8a6da8096c2.html
+pred: 0
+ref: 辩护0
+895a6302-7e75-4a85-9711-15cf867c4b39.html
+pred: 0
+ref: 1
+8a7cc638-54b9-440a-9df0-ce5de1a4ba4b.html
+pred: 0
+ref: 1
+8c54bfc7-9b8a-435d-899f-d31ab486b543.html
+pred: 0
+ref: 1
+8f9666e1-963b-4542-b07a-4b009b65c5bf.html
+pred: 0
+ref: 有劣迹
+90057432-7f37-4f74-be76-40b8e260e7f1.html
+pred: 0
+ref: 1
+92dba04b-898f-46d5-affa-70f5daae3a76.html
+pred: 0
+ref: 辩护0
+9441a178-af8d-450f-ad68-2cd6a098af97.html
+pred: 1
+ref: 0
+952f304a-b33a-444d-8ea7-507c4d3c86a0.html
+pred: 0
+ref: 1
+953ebadb-cfa3-4b69-8521-b0d5c8d07af4.html
+pred: 0
+ref: 辩护0
+98abf130-cdc4-426e-80bd-fa000270d1e5.html
+pred: 0
+ref: 1
+9afd71e9-0d50-48b7-bb5a-b1e01c581150.html
+pred: 0
+ref: 辩护0
+9b559954-0b71-42c2-b2a9-b424364bba16.html
+pred: 0
+ref: 1
+9faace65-19b0-417f-b60b-c0ea0c1e255f.html
+pred: 1
+ref: 0
+9faace65-19b0-417f-b60b-c0ea0c1e255f.html
+pred: 1
+ref: 0
+a01afab3-5002-436e-9779-f6845035baa1.html
+pred: 0
+ref: 1
+a01f399e-f93e-4837-b2ad-1fdc882f907d.html
+pred: 0
+ref: 1
+a09d4047-38c4-462c-af3b-d4d5fd9d64d6.html
+pred: 0
+ref: 辩护0
+a2e4f8d3-562d-4370-8154-07b8e6f7b909.html
+pred: 1
+ref: 0
+a2e4f8d3-562d-4370-8154-07b8e6f7b909.html
+pred: 1
+ref: 0
+a2e4f8d3-562d-4370-8154-07b8e6f7b909.html
+pred: 1
+ref: 0
+a2e4f8d3-562d-4370-8154-07b8e6f7b909.html
+pred: 1
+ref: 0
+a2e4f8d3-562d-4370-8154-07b8e6f7b909.html
+pred: 1
+ref: 0
+a2e4f8d3-562d-4370-8154-07b8e6f7b909.html
+pred: 1
+ref: 0
+a2e4f8d3-562d-4370-8154-07b8e6f7b909.html
+pred: 1
+ref: 0
+a2e4f8d3-562d-4370-8154-07b8e6f7b909.html
+pred: 1
+ref: 0
+a2f69fe6-ec9d-46e7-ae1f-97a892be2286.html
+pred: 0
+ref: 辩护0
+a3af0c85-4473-46ff-b99d-644f381bde65.html
+pred: 0
+ref: 1
+a5fe5d51-6064-4f27-a4d4-30cf4c90ed18.html
+pred: 0
+ref: 1
+a882ee7b-2850-4efe-ac76-83bdc65823b0.html
+pred: 0
+ref: 辩护0
+a9bbb2ef-4145-482d-95be-2d78733d5ffc.html
+pred: 0
+ref: 1
+a9faf3ba-de41-4529-90da-86af240bfaf0.html
+pred: 0
+ref: 1
+aa960ed7-3197-4a94-a719-873307eaff85.html
+pred: 0
+ref: 1
+ac06cf06-59fd-471e-a72e-c18c31e7657b.html
+pred: 0
+ref: 辩护0
+add92922-66d5-47ad-8a7e-571c95d7247d.html
+pred: 0
+ref: 1
+ae2eadf5-e144-42d1-bd29-ec680231642e.html
+pred: 1
+ref: 辩护0
+af855601-dc06-435c-837f-f741d33d139c.html
+pred: 1
+ref: 申再刚缓刑考验期满，又犯新罪的不构成累犯
+af8f5ee5-6c02-4abd-8936-24429b016c56.html
+pred: 0
+ref: 辩护0
+b02d437c-6c5b-4e9a-84d0-60eb1f2327ed.html
+pred: 0
+ref: 辩护0
+b2807b0f-7f3e-42ab-bc60-ef01941a69a5.html
+pred: 0
+ref: 1
+b2c2e3e6-b323-4ee7-866f-47d4ba1707b0.html
+pred: 0
+ref: 1
+b38d9cf5-df10-4a71-b5e9-4742ba00ba54.html
+pred: 0
+ref: 辩护0
+b4d4db9c-7f75-4bd5-899f-694c6c2d7aee.html
+pred: 0
+ref: 1
+b4d4db9c-7f75-4bd5-899f-694c6c2d7aee.html
+pred: 0
+ref: 1
+b59d2cda-8d8e-4e54-906d-d3e4ee9042f3.html
+pred: 1
+ref: 0
+b7ba329d-f7f0-4278-b3a8-ed13a8a1ff73.html
+pred: 1
+ref: 0
+bcf21a1b-400e-478b-8b4d-82ba5ed41edb.html
+pred: 0
+ref: 辩护0
+bd0c4da9-0e69-4718-9811-2f4fed712d48.html
+pred: 1
+ref: 0
+bd146a16-d179-44d6-8188-eb0bb6174aff.html
+pred: 1
+ref: 0
+be880dd0-ecd8-42ec-b143-d8c656f7bd85.html
+pred: 1
+ref: 0
+c1c64f28-a092-4744-a489-a0599fd1fb3f.html
+pred: 0
+ref: 1
+c58dd2e8-5c66-40ed-8267-c2d9e8fcce2f.html
+pred: 1
+ref: 辩护0
+c58dd2e8-5c66-40ed-8267-c2d9e8fcce2f.html
+pred: 1
+ref: 辩护0
+c676f67a-ea36-4927-8bde-b3c4511572f6.html
+pred: 0
+ref: 1
+c6be7c16-2772-4c1f-a87b-9e015a280a59.html
+pred: 1
+ref: 辩护0
+c8f6dbfe-49d2-430b-9c5b-1292bfc055b9.html
+pred: 0
+ref: 1
+c95d1947-374a-42ae-98b0-e697eaed1193.html
+pred: 0
+ref: 1
+ca670996-4c40-4304-916b-d375ad1ff851.html
+pred: 0
+ref: 1
+ca819c69-2279-4a00-b4db-256d16a8919e.html
+pred: 1
+ref: 0
+ca97e8b8-7f42-4cfe-8ce1-d1545434def6.html
+pred: 0
+ref: 辩护0
+cb353178-87d6-4b3a-9947-d38b397c10bd.html
+pred: 1
+ref: 0
+cc2efc27-2c82-4af5-b088-7710fb783531.html
+pred: 0
+ref: 1
+cc7e81a8-2fa4-45cc-ba66-6fc93450edb7.html
+pred: 1
+ref: 0
+cc8c8b14-0593-434f-8b4d-ef417f7ba556.html
+pred: 1
+ref: 0
+ccdaaec6-0543-4eaa-b4f9-c674b7b50ecb.html
+pred: 0
+ref: 辩护0
+ccdaaec6-0543-4eaa-b4f9-c674b7b50ecb.html
+pred: 0
+ref: 辩护0
+cd29b8a7-3b17-4b4a-8300-f3c0806e8be4.html
+pred: 0
+ref: 1
+cfd97d4f-bbd9-4f7f-864e-a6dcdec11479.html
+pred: 1
+ref: 0
+d148b346-5075-41b8-92f6-6e2c08119de6.html
+pred: 0
+ref: 1
+d2e92ac5-b544-461a-9a7c-2b2acbd659ca.html
+pred: 0
+ref: 辩护0
+d3d8f682-558e-40a2-bf57-b50cb5ead1af.html
+pred: 0
+ref: 辩护0
+d4c7274d-457d-4dc4-aacc-48dec696cd90.html
+pred: 0
+ref: 辩护0
+d5b52a14-9f6d-48f0-ab81-838592ccbcf5.html
+pred: 0
+ref: 辩护0
+d9c5c9e1-8bd8-4b25-96c2-70485fe61db0.html
+pred: 1
+ref: 0
+d9c5c9e1-8bd8-4b25-96c2-70485fe61db0.html
+pred: 1
+ref: 0
+daeb4b82-d3d0-4afc-ac41-9b88e91d4eaf.html
+pred: 0
+ref: 1
+db37434a-c08f-45cd-a3c3-9bccf3a04835.html
+pred: 0
+ref: 1
+dbdbc923-b3ac-49b2-83f9-18a45bf3f21c.html
+pred: 0
+ref: 1
+dc11d645-3177-42a5-9f73-bc618d8592e3.html
+pred: 0
+ref: 辩护0
+dc9f00a1-efb8-445e-ba72-44db133f6b1d.html
+pred: 0
+ref: 辩护0
+df269ea5-94ec-48b6-b58b-f632ac4610f6.html
+pred: 0
+ref: 1
+df269ea5-94ec-48b6-b58b-f632ac4610f6.html
+pred: 0
+ref: 1
+df5d8d80-1e00-450a-b054-d9ead405d9c5.html
+pred: 1
+ref: 0
+df98d587-c797-46ed-bf5e-52c8b4628f9b.html
+pred: 0
+ref: 1
+dfc898f9-5e16-416c-810e-f991645ceffb.html
+pred: 1
+ref: 0
+e09a2d0e-c541-49e2-8058-a83c24cd8c63.html
+pred: 0
+ref: 辩护0
+e09a2d0e-c541-49e2-8058-a83c24cd8c63.html
+pred: 0
+ref: 辩护0
+e17e163a-1d4a-4f7b-84b2-7c9220104dca.html
+pred: 0
+ref: 辩护0
+e18ae8d7-f971-4c48-b132-70f9108d8bf4.html
+pred: 1
+ref: 犯交通肇事罪
+e35ec16e-9a4e-4420-87c3-fca38fbdaa8f.html
+pred: 0
+ref: 1
+e4ad6125-0c2b-4db8-b7b6-8a2a015ac92a.html
+pred: 0
+ref: 辩护0
+e4f7bc31-a70d-4936-adff-2e963adf38d9.html
+pred: 0
+ref: 1
+e5970cb9-8acd-4776-a1e7-b64e399ce03e.html
+pred: 0
+ref: 1
+e7591f90-c9bd-42c0-a4e6-1bfd15b68dc9.html
+pred: 0
+ref: 辩护0
+e8c7044f-65d9-4c25-85b8-86b651db30c4.html
+pred: 0
+ref: 辩护0
+ea69adbd-c39f-49cf-8e49-b388523eb587.html
+pred: 1
+ref: 0
+ee84f61e-0b51-4000-a892-cfcfd241198a.html
+pred: 1
+ref: 0
+ee914581-c464-46bb-b1ef-2d16e848c406.html
+pred: 0
+ref: 1
+ef0cba0d-145e-40d9-a1b8-6a27046e12f6.html
+pred: 1
+ref: 0
+ef0cba0d-145e-40d9-a1b8-6a27046e12f6.html
+pred: 1
+ref: 0
+ef0cba0d-145e-40d9-a1b8-6a27046e12f6.html
+pred: 1
+ref: 0
+ef0cba0d-145e-40d9-a1b8-6a27046e12f6.html
+pred: 1
+ref: 0
+ef0cba0d-145e-40d9-a1b8-6a27046e12f6.html
+pred: 1
+ref: 0
+ef0cba0d-145e-40d9-a1b8-6a27046e12f6.html
+pred: 1
+ref: 0
+efb3dd2e-4b75-4e33-b38d-da8a14dc7351.html
+pred: 0
+ref: 1
+f115cffb-2367-476c-9aae-30ff4f86bde8.html
+pred: 1
+ref: 0
+f115cffb-2367-476c-9aae-30ff4f86bde8.html
+pred: 1
+ref: 0
+f115cffb-2367-476c-9aae-30ff4f86bde8.html
+pred: 1
+ref: 0
+f19db1fe-7c15-452b-9e47-533871785dfc.html
+pred: 1
+ref: 0
+f1d6741d-f927-4c3f-b819-fff0dd028fe6.html
+pred: 0
+ref: 1
+f3e047e7-2d82-4eb7-a84c-533224095411.html
+pred: 1
+ref: 0
+f43d7f82-126f-4392-a9ff-046b9921f8e0.html
+pred: 1
+ref: 0
+f6b46966-8f93-4f52-995a-fae9cd42e42f.html
+pred: 0
+ref: 1
+f8cd3bfd-18dc-469a-a6d5-6236b21e0c08.html
+pred: 0
+ref: 有劣迹
+fb02e8c3-4c60-4898-94e1-0ef6ca4c6474.html
+pred: 0
+ref: 1
+fb0c3f89-4532-4c53-af97-795439a7e6a3.html
+pred: 0
+ref: 1
+ff6a7f17-d6b4-46d8-a7d4-d5b92b7abf1d.html
+pred: 1
+ref: 0

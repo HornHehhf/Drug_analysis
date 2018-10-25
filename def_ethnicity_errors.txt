@@ -1,0 +1,95 @@
+02cb7f67-c04c-4027-b589-12439112cabe.html
+def name: 马方龙
+ref def name: 马方龙
+def ethnicity: 汉族
+ref def ethnicity: 东乡族
+13a9f2e6-fb06-4a6e-8d3c-b5248eb9810e.html
+def name: 吐某
+ref def name: 吐逊江
+def ethnicity: 汉族
+ref def ethnicity: 少数民族
+13a9f2e6-fb06-4a6e-8d3c-b5248eb9810e.html
+def name: 努某
+ref def name: 努尔买买提
+def ethnicity: 汉族
+ref def ethnicity: 少数民族
+1464b149-0271-43e2-b211-0bc563d32aa1.html
+def name: 费斯勒·汗
+ref def name: 费斯勒·汗（FAISALKHAN）
+def ethnicity: 少数民族
+ref def ethnicity: 巴基斯坦伊斯兰共和国
+181fada4-c632-48ca-88c7-5197d15b7553.html
+def name: 毛兰江
+ref def name: 毛兰江·乌麦尔
+def ethnicity: 汉族
+ref def ethnicity: 少数民族
+26c5f087-8666-4d60-975e-0109c40ba094.html
+def name: 荣诚
+ref def name: 荣诚
+def ethnicity: 汉族
+ref def ethnicity: 少数民族
+347bb422-fdf7-4a2e-b483-fefb50a6c9c3.html
+def name: 周苏力么乃
+ref def name: 周苏力么乃
+def ethnicity: 少数民族
+ref def ethnicity: 少数名族
+3edd9cc0-1e06-4d91-994d-22259389599f.html
+def name: 艾孜买
+ref def name: 艾孜买提·阿布来提
+def ethnicity: 汉族
+ref def ethnicity: 少数民族
+4ee92d3c-3064-4e94-a3dc-d6f336eb32b7.html
+def name: 阿里甫
+ref def name: 阿里甫江.艾比保
+def ethnicity: 汉族
+ref def ethnicity: 少数民族
+5bf963a1-f733-4f3d-b526-f389e8d7762f.html
+def name: 陈凯
+ref def name: 陈凯
+def ethnicity: 满族
+ref def ethnicity: 满足
+5e6cfd95-8c15-47e7-803f-fcdd393e8268.html
+def name: 吉合阿
+ref def name: 吉合阿衣
+def ethnicity: 汉族
+ref def ethnicity: 少数民族
+751ffbfa-475d-4ebd-b1fb-cf64af874f44.html
+def name: 何由苏夫
+ref def name: 何由苏夫
+def ethnicity: 少数民族
+ref def ethnicity: 东乡族
+7944c78c-ee2d-4b6f-b397-18fb7c9037e9.html
+def name: 且沙此仪
+ref def name: 且沙此仪
+def ethnicity: 少数民族
+ref def ethnicity: 彝族
+88488732-a550-4921-82d6-b8a6da8096c2.html
+def name: 马五麦
+ref def name: 马五麦勒
+def ethnicity: 汉族
+ref def ethnicity: 少数民族
+90cfb5b0-6bca-4fdb-a6f7-ded03a0aa167.html
+def name: 王福瑞对起诉书指控的事实及罪名无异议
+ref def name: 王福瑞
+def ethnicity: 少数民族
+ref def ethnicity: 汉族
+a31bb229-693a-4424-bfdd-3668c3d08bba.html
+def name: 卡拉麦提·侯赛因
+ref def name: 卡拉麦提·侯赛因
+def ethnicity: 少数民族
+ref def ethnicity: 巴基斯坦
+bcdb7ab4-1fc8-4c37-b235-b585f0a9909d.html
+def name: 马占海
+ref def name: 马占海
+def ethnicity: 汉族
+ref def ethnicity: 少数民族
+ca819c69-2279-4a00-b4db-256d16a8919e.html
+def name: 约者比拉
+ref def name: 约者比拉
+def ethnicity: 少数民族
+ref def ethnicity: 彝族
+e5e65605-7443-4e28-9957-220c474f2518.html
+def name: 海来古尔
+ref def name: 海来古尔
+def ethnicity: 汉族
+ref def ethnicity: 彝族

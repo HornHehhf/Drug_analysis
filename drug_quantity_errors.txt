@@ -1,0 +1,1916 @@
+0189d39c-2879-4ad8-88f3-c59265ed5d0a.html
+drug.heroin.quantity
+pred: 0.12
+ref: 1.62
+03aeb51c-fc74-4600-8026-9a6a958bb95b.html
+drug.other.quantity
+pred: 1.03
+ref: 
+03aeb51c-fc74-4600-8026-9a6a958bb95b.html
+drug.other.quantity
+pred: 1.03
+ref: 
+045c1747-ecbc-4751-9822-49f9b9b89306.html
+drug.heroin.quantity
+pred: 
+ref: 9.82
+05cd3f28-fdec-4a1d-b298-436e792d189e.html
+drug.meth.quantity
+pred: 46.8
+ref: 22.8
+060fb6cd-4211-426d-bce1-4d3573e34426.html
+drug.marijuana.quantity
+pred: 51
+ref: 
+062fd7af-5b6f-4391-8ea8-16dee90cd1e0.html
+drug.heroin.quantity
+pred: 0.5
+ref: 没有具体克数
+068eea67-592c-413e-8c4b-430d94220e9d.html
+drug.meth.quantity
+pred: 13.06
+ref: 20余克
+068eea67-592c-413e-8c4b-430d94220e9d.html
+drug.meth.quantity
+pred: 2.514
+ref: 只说少量，没有明确说明具体克数
+069a9371-a493-4c46-9498-7e70eb9619b6.html
+drug.other.quantity
+pred: 0.5
+ref: 
+0708c8bc-eaad-4e4a-834e-70cec17212c7.html
+drug.meth.quantity
+pred: 
+ref: 4.37
+0715f628-5331-470e-9cc3-48e5206399ba.html
+drug.marijuana.quantity
+pred: 130
+ref: 
+0762b784-a96c-4762-ac1a-719d577e1127.html
+drug.marijuana.quantity
+pred: 9.8
+ref: 
+079056eb-acec-4ae6-b005-864433f4a8d4.html
+drug.heroin.quantity
+pred: 45.5
+ref: 46.3
+089d2bad-74bb-48ac-aa16-c291628f390a.html
+drug.opium.quantity
+pred: 11.348
+ref: 
+089d2bad-74bb-48ac-aa16-c291628f390a.html
+drug.meth.quantity
+pred: 11.348
+ref: 
+096d1148-eb97-4743-a937-47cd01fd07c5.html
+drug.meth.quantity
+pred: 
+ref: 1
+102614cd-8b46-4fab-a9f8-0ee2f1d96c38.html
+drug.other.quantity
+pred: 1.78
+ref: 
+104909ca-0922-4ce5-9bf5-1cb6b9e131c1.html
+drug.heroin.quantity
+pred: 
+ref: 126.6
+11f796b8-e494-4a0f-bc86-c0b7b3ce6bb9.html
+drug.heroin.quantity
+pred: 3.16
+ref: 3.01
+12059051-9d92-4ac0-97eb-ed53ac3fb0fb.html
+drug.heroin.quantity
+pred: 6.1
+ref: 0.2
+122eddd0-4bba-444a-969e-f8db3c4880b2.html
+drug.meth.quantity
+pred: 0.38
+ref: 10.67
+122eddd0-4bba-444a-969e-f8db3c4880b2.html
+drug.other.quantity
+pred: 
+ref: 1.07
+13a9f2e6-fb06-4a6e-8d3c-b5248eb9810e.html
+drug.marijuana.quantity
+pred: 
+ref: 88780.13
+13a9f2e6-fb06-4a6e-8d3c-b5248eb9810e.html
+drug.other.quantity
+pred: 88780.13
+ref: 
+14b191cd-3546-48aa-be30-6d7cb3ae3c95.html
+drug.heroin.quantity
+pred: 0.28
+ref: 5.61
+14b7a252-d01e-4b04-ab34-812014a4d9d4.html
+drug.heroin.quantity
+pred: 20
+ref: 15
+14b7a252-d01e-4b04-ab34-812014a4d9d4.html
+drug.meth.quantity
+pred: 20
+ref: 43
+14b7a252-d01e-4b04-ab34-812014a4d9d4.html
+drug.heroin.quantity
+pred: 20
+ref: 15
+14b7a252-d01e-4b04-ab34-812014a4d9d4.html
+drug.meth.quantity
+pred: 20
+ref: 43
+15134b3a-7415-46f7-b98c-6742de878957.html
+drug.heroin.quantity
+pred: 20
+ref: 20.4
+15134b3a-7415-46f7-b98c-6742de878957.html
+drug.heroin.quantity
+pred: 20.22
+ref: 20.4
+167b7294-d2f4-41e7-abd9-5b0b4b5e7c19.html
+drug.heroin.quantity
+pred: 6.1
+ref: 0.2
+1715e5d0-2f8f-4828-bbd6-a92505f625b8.html
+drug.meth.quantity
+pred: 3
+ref: 10.1
+17aae074-cf3b-4b0c-9ba0-7053132829a4.html
+drug.heroin.quantity
+pred: 7
+ref: 7.94
+181fada4-c632-48ca-88c7-5197d15b7553.html
+drug.marijuana.quantity
+pred: 5.8
+ref: 
+184ac1c8-6665-4c5a-9b8f-de03a966ea1f.html
+drug.heroin.quantity
+pred: 2.1
+ref: 7.02
+184ac1c8-6665-4c5a-9b8f-de03a966ea1f.html
+drug.heroin.quantity
+pred: 2.1
+ref: 5.02
+18cebf3e-d07e-4c3c-b5b6-088273521995.html
+drug.meth.quantity
+pred: 4.3
+ref: 26
+20a18366-966e-4711-8f52-c37d830ec41a.html
+drug.marijuana.quantity
+pred: 14.89
+ref: 24.84
+20a18366-966e-4711-8f52-c37d830ec41a.html
+drug.other.quantity
+pred: 14.89
+ref: 
+210b3d7f-58ca-4b7c-85d5-03de76f509e4.html
+drug.marijuana.quantity
+pred: 
+ref: 3.7
+210b3d7f-58ca-4b7c-85d5-03de76f509e4.html
+drug.other.quantity
+pred: 3.7
+ref: 
+227c0559-3841-40b7-9498-a52840614c3b.html
+drug.marijuana.quantity
+pred: 1980
+ref: 
+240a5d3e-6b44-4d7d-807f-fcf61c8b0deb.html
+drug.heroin.quantity
+pred: 
+ref: 9.8
+2427b9b8-c218-4d3d-8f8a-84265f658b5f.html
+drug.meth.quantity
+pred: 
+ref: 0.6
+2639c0dd-e5c6-49de-83ec-a016cc5622b1.html
+drug.meth.quantity
+pred: 0.5
+ref: 0.8
+263c4173-7b94-40d8-81d0-4312c77e67a7.html
+drug.heroin.quantity
+pred: 
+ref: 1.75
+27338635-1a53-4ea5-85f9-476552604c26.html
+drug.meth.quantity
+pred: 
+ref: 3902.5
+27338635-1a53-4ea5-85f9-476552604c26.html
+drug.other.quantity
+pred: 3902.5
+ref: 
+28299437-2fd5-4962-8403-a40fe5aa24ce.html
+drug.meth.quantity
+pred: 4.5598
+ref: 4.7829
+2925991a-98c6-4cad-b5e3-b9aa539bac65.html
+drug.meth.quantity
+pred: 1.95
+ref: 200.05
+29518dec-aa2c-4576-ad47-d5a0c4ba2f9e.html
+drug.meth.quantity
+pred: 27.33
+ref: 29.53
+295b7dae-91eb-466a-949f-8711d3d06853.html
+drug.meth.quantity
+pred: 1
+ref: 103.666
+29b82ed5-00f1-40a9-866d-269e3416d275.html
+drug.meth.quantity
+pred: 
+ref: 共14包
+2c1c3b94-6408-402d-b418-7e10e5a7d3c1.html
+drug.heroin.quantity
+pred: 
+ref: 0.65
+2c1c3b94-6408-402d-b418-7e10e5a7d3c1.html
+drug.meth.quantity
+pred: 0.22
+ref: 
+3006b3cd-548a-4502-a8b2-fbdd39111c3f.html
+drug.heroin.quantity
+pred: 
+ref: 5
+3006b3cd-548a-4502-a8b2-fbdd39111c3f.html
+drug.meth.quantity
+pred: 6.4
+ref: 
+302f2caf-276e-46c0-8ac2-ff06f425cda2.html
+drug.meth.quantity
+pred: 8
+ref: 859.5
+302f2caf-276e-46c0-8ac2-ff06f425cda2.html
+drug.other.quantity
+pred: 4
+ref: 47
+3206f9fc-053a-47b7-8c4a-02f2741cad09.html
+drug.heroin.quantity
+pred: 0.12
+ref: 1.164
+3230162f-751a-47f9-9ce5-b822cb5976fb.html
+drug.heroin.quantity
+pred: 1.2
+ref: 
+3230162f-751a-47f9-9ce5-b822cb5976fb.html
+drug.meth.quantity
+pred: 
+ref: 1.2
+32740f99-1e1d-44b1-8271-fc440690052a.html
+drug.heroin.quantity
+pred: 
+ref: 没有说克数
+3400677b-dc2c-458d-b7ad-9409f2b63eb8.html
+drug.meth.quantity
+pred: 1
+ref: 488.3
+341ee714-2395-4039-9b34-2d3263678a8f.html
+drug.heroin.quantity
+pred: 3.94
+ref: 20.58
+341ee714-2395-4039-9b34-2d3263678a8f.html
+drug.meth.quantity
+pred: 20.58
+ref: 
+34cd6a0f-0334-4701-9cbf-7dfbee8672da.html
+drug.heroin.quantity
+pred: 3.15
+ref: 9.3
+34cd6a0f-0334-4701-9cbf-7dfbee8672da.html
+drug.meth.quantity
+pred: 45.02
+ref: 35.72
+3686f1ec-e54a-479b-a155-c7e1d4cd7750.html
+drug.meth.quantity
+pred: 1
+ref: 423.3
+3686f1ec-e54a-479b-a155-c7e1d4cd7750.html
+drug.meth.quantity
+pred: 423.3
+ref: 266
+36a3337c-d646-4559-ba58-34e9e7a1b342.html
+drug.heroin.quantity
+pred: 51
+ref: 346.5
+376c43b8-98be-426c-9a1c-2bcae691017d.html
+drug.heroin.quantity
+pred: 0.05
+ref: 0.225
+376c43b8-98be-426c-9a1c-2bcae691017d.html
+drug.heroin.quantity
+pred: 0.2
+ref: 0.125
+3847d7a0-d3ae-4cf7-af5d-9803c54da14e.html
+drug.other.quantity
+pred: 1158.2
+ref: 
+3847d7a0-d3ae-4cf7-af5d-9803c54da14e.html
+drug.other.quantity
+pred: 1158.2
+ref: 
+384ae467-7d34-4d7f-9856-312c7dc96ca1.html
+drug.meth.quantity
+pred: 1385
+ref: 3654.6
+398f9eac-b136-4eb7-b32d-60efba48d6c0.html
+drug.heroin.quantity
+pred: 0.28
+ref: 0.55
+3ad6f0db-38fb-4196-be8b-b3e5a9f28c9e.html
+drug.meth.quantity
+pred: 0.53
+ref: 9.96
+3ad8d90e-1388-46e3-8c43-c5c758a693a2.html
+drug.meth.quantity
+pred: 1.0
+ref: 1
+3b88afcb-df15-477d-a55a-991b8a16c73a.html
+drug.heroin.quantity
+pred: 
+ref: 39.7
+3b88afcb-df15-477d-a55a-991b8a16c73a.html
+drug.other.quantity
+pred: 39.7
+ref: 
+3c5264e6-4303-405c-b8f8-090e13c80562.html
+drug.heroin.quantity
+pred: 0.3
+ref: 1.4641
+3c902a82-dc69-4683-83a8-c3303b983b32.html
+drug.heroin.quantity
+pred: 3.0801
+ref: 7.4801
+3c902a82-dc69-4683-83a8-c3303b983b32.html
+drug.heroin.quantity
+pred: 3.0801
+ref: 4.4
+3d0df4de-a4c7-41b9-81ff-c4ded96da601.html
+drug.heroin.quantity
+pred: 50.07
+ref: 52.79
+3d0df4de-a4c7-41b9-81ff-c4ded96da601.html
+drug.meth.quantity
+pred: 2.37
+ref: 11.8
+3d0df4de-a4c7-41b9-81ff-c4ded96da601.html
+drug.heroin.quantity
+pred: 
+ref: 50.07
+3d0df4de-a4c7-41b9-81ff-c4ded96da601.html
+drug.meth.quantity
+pred: 
+ref: 10
+3f0bdd24-3d3c-4630-855b-cdfdf5504056.html
+drug.heroin.quantity
+pred: 0.33
+ref: 1.42
+3f83d5f3-482a-41ed-a26b-82f6fc086a3a.html
+drug.heroin.quantity
+pred: 12.2
+ref: 13.175
+3fa35f19-0e25-4236-a9a1-da6911d6da91.html
+drug.meth.quantity
+pred: 0.4
+ref: 1.4
+3fa35f19-0e25-4236-a9a1-da6911d6da91.html
+drug.other.quantity
+pred: 0.4
+ref: 
+3fcbf219-3a94-4bc5-88c1-a97f60732e76.html
+drug.heroin.quantity
+pred: 3.11
+ref: 1.37
+3fcbf219-3a94-4bc5-88c1-a97f60732e76.html
+drug.heroin.quantity
+pred: 
+ref: 1.74
+400916e1-a8b8-4f0e-8c3c-b3eddddc1a7f.html
+drug.heroin.quantity
+pred: 100
+ref: 98.5
+4185cfd6-4bd6-4e75-8cd7-374a6d5152f7.html
+drug.meth.quantity
+pred: 2.3
+ref: 5.7
+4185cfd6-4bd6-4e75-8cd7-374a6d5152f7.html
+drug.meth.quantity
+pred: 1.6
+ref: 3.1
+42b4dc7a-c069-42a7-bae4-2f0d432fd711.html
+drug.other.quantity
+pred: 6.2
+ref: 
+431c421c-5e8c-45ae-ac97-4808fd4605d4.html
+drug.heroin.quantity
+pred: 14
+ref: 14.4
+4320b947-1339-4d68-b30e-deab1ccfadd3.html
+drug.meth.quantity
+pred: 
+ref: 83.5
+43b4c15f-0eee-4478-a2ee-d4f375ae1cf4.html
+drug.meth.quantity
+pred: 0.1
+ref: 0.4
+442f9bc3-b21b-4f22-9fc4-60153cea92d1.html
+drug.meth.quantity
+pred: 
+ref: 40
+442f9bc3-b21b-4f22-9fc4-60153cea92d1.html
+drug.other.quantity
+pred: 3.31
+ref: 
+44fd723d-cbae-43ac-b058-b992c384af92.html
+drug.other.quantity
+pred: 0.09
+ref: 
+45718060-8ce5-44e6-9031-85088b5838d9.html
+drug.heroin.quantity
+pred: 
+ref: 2.72
+45718060-8ce5-44e6-9031-85088b5838d9.html
+drug.other.quantity
+pred: 1
+ref: 
+45cceaeb-e1c3-4f8b-912a-23108a8458c6.html
+drug.marijuana.quantity
+pred: 37.31
+ref: 41.27
+45cceaeb-e1c3-4f8b-912a-23108a8458c6.html
+drug.marijuana.quantity
+pred: 13.71
+ref: 17.67
+4610db83-a36f-4f09-8cbc-cdfeada80953.html
+drug.heroin.quantity
+pred: 146.2
+ref: 234.2
+46358ad2-e324-4c02-97df-99488bb651fc.html
+drug.heroin.quantity
+pred: 100
+ref: 112.91
+46358ad2-e324-4c02-97df-99488bb651fc.html
+drug.heroin.quantity
+pred: 
+ref: 112.91
+46358ad2-e324-4c02-97df-99488bb651fc.html
+drug.heroin.quantity
+pred: 
+ref: 112.91
+4724b114-2f47-41f2-8fb0-f265e3562e52.html
+drug.meth.quantity
+pred: 
+ref: 没有说明具体克数
+4724b114-2f47-41f2-8fb0-f265e3562e52.html
+drug.other.quantity
+pred: 0.27
+ref: 
+473d2a56-f696-431b-878d-6871f4869a9a.html
+drug.heroin.quantity
+pred: 0.14
+ref: 0.3
+482d81ec-6c14-40d5-b5e4-ce1da46a04a3.html
+drug.heroin.quantity
+pred: 0.12
+ref: 5.75
+49771ff7-256b-45eb-b0f8-ffd0b17c7f9d.html
+drug.meth.quantity
+pred: 841.3
+ref: 843.1
+4aa6ccd1-289e-4ace-a727-6f5025f44bfc.html
+drug.heroin.quantity
+pred: 20.043
+ref: 0.3314
+4aa6ccd1-289e-4ace-a727-6f5025f44bfc.html
+drug.other.quantity
+pred: 20.054
+ref: 
+4aa83933-9516-47ba-85e2-27d18ddfd749.html
+drug.heroin.quantity
+pred: 
+ref: 13.1
+4aa83933-9516-47ba-85e2-27d18ddfd749.html
+drug.meth.quantity
+pred: 13.1
+ref: 
+4b26d4ba-5bbb-4d8e-9af1-70d6d9f19229.html
+drug.meth.quantity
+pred: 
+ref: 65.57
+4b26d4ba-5bbb-4d8e-9af1-70d6d9f19229.html
+drug.other.quantity
+pred: 7.46
+ref: 79粒7.46
+4d74045f-f37b-43fd-aed2-ea1200ef1405.html
+drug.heroin.quantity
+pred: 6.2685
+ref: 6.4789
+4d74045f-f37b-43fd-aed2-ea1200ef1405.html
+drug.heroin.quantity
+pred: 0.2104
+ref: 6.4789
+4ec0e270-9f49-43f2-8950-c39741468649.html
+drug.meth.quantity
+pred: 374.1
+ref: 315.9
+4ec0e270-9f49-43f2-8950-c39741468649.html
+drug.meth.quantity
+pred: 
+ref: 58.2
+4f39c444-3493-4719-b5a9-e6acc4861ffa.html
+drug.heroin.quantity
+pred: 10.9
+ref: 海洛因、甲基苯丙胺共13.3克
+4f39c444-3493-4719-b5a9-e6acc4861ffa.html
+drug.meth.quantity
+pred: 13.3
+ref: 海洛因、甲基苯丙胺共13.3克
+4f6a6259-050a-4612-a72b-435f3e714164.html
+drug.meth.quantity
+pred: 
+ref: 16.4
+4f848249-085c-4177-90a5-241faf20caa5.html
+drug.heroin.quantity
+pred: 20
+ref: 20.3
+4f848249-085c-4177-90a5-241faf20caa5.html
+drug.heroin.quantity
+pred: 20
+ref: 20.53
+50814d9b-ba69-4f97-b2cd-344b5d1a1a84.html
+drug.heroin.quantity
+pred: 2
+ref: 10.02
+51265569-ac90-4883-a8a6-1e39be58234b.html
+drug.meth.quantity
+pred: 0.30
+ref: 0.3
+524df6d5-14fb-4894-be93-aad0eb5f1943.html
+drug.meth.quantity
+pred: 2.3
+ref: 2.7
+53125062-138c-4c24-93d9-f18bcd09ecd2.html
+drug.meth.quantity
+pred: 
+ref: 1021.4
+533252ea-cbb4-46e2-b17a-ce0a74dc0954.html
+drug.meth.quantity
+pred: 1.0
+ref: 1
+53ddf07f-3840-41d4-bb78-ace8e543b3d3.html
+drug.marijuana.quantity
+pred: 9.1
+ref: 
+5438b7d3-50b7-479a-bff1-7b2709725e05.html
+drug.meth.quantity
+pred: 
+ref: 119.6
+5481aec1-3a02-4c53-a341-9fddf6aa2b64.html
+drug.heroin.quantity
+pred: 0.48
+ref: 5.55
+57023fc6-4248-4b8a-9fd9-ae58185d8db6.html
+drug.meth.quantity
+pred: 2
+ref: 231.2
+57023fc6-4248-4b8a-9fd9-ae58185d8db6.html
+drug.other.quantity
+pred: 43.516
+ref: 43.5
+570c41f7-3720-4491-837b-a64432c16b72.html
+drug.meth.quantity
+pred: 4.2
+ref: 7.8
+5767829d-68dd-4268-8edf-7b727053aef7.html
+drug.meth.quantity
+pred: 0.1
+ref: 0.3
+5797623f-0dbe-4fc7-be24-6bc752ecfb34.html
+drug.meth.quantity
+pred: 1000
+ref: 393
+582a2436-78d2-4335-bfb0-a63f508a1ba9.html
+drug.meth.quantity
+pred: 19.782
+ref: 三人共有19.782
+582a2436-78d2-4335-bfb0-a63f508a1ba9.html
+drug.meth.quantity
+pred: 20
+ref: 三人共有19.782
+582a2436-78d2-4335-bfb0-a63f508a1ba9.html
+drug.meth.quantity
+pred: 20
+ref: 19.782（三人共有）+7.102
+58a8d17d-2744-4a91-903d-87d97762adc1.html
+drug.marijuana.quantity
+pred: 15.5
+ref: 
+5a947cd0-27aa-4e15-80cd-35b3f55f353d.html
+drug.heroin.quantity
+pred: 43
+ref: 
+5a947cd0-27aa-4e15-80cd-35b3f55f353d.html
+drug.meth.quantity
+pred: 43
+ref: 50.05（赵新育、胡嘉胜、杨桂英共同）
+5a947cd0-27aa-4e15-80cd-35b3f55f353d.html
+drug.meth.quantity
+pred: 15
+ref: 50.05（赵新育、胡嘉胜、杨桂英共同）
+5a947cd0-27aa-4e15-80cd-35b3f55f353d.html
+drug.meth.quantity
+pred: 
+ref: 50.05（赵新育、胡嘉胜、杨桂英共同）0.13+0.07
+5b16b936-f2d2-4cf2-96c0-7a547f68d2b0.html
+drug.heroin.quantity
+pred: 15
+ref: 15.9
+5b2d2ee5-52da-4066-bff9-bc09eb9f057c.html
+drug.heroin.quantity
+pred: 0.1
+ref: 5包
+5bbf187d-87cb-46a6-b220-636eb08d974e.html
+drug.meth.quantity
+pred: 15
+ref: 65.98
+5c0512e1-d28e-4621-938f-2f676ed4b7ce.html
+drug.heroin.quantity
+pred: 2.5
+ref: 11.35
+5c5c7a0a-4406-4d76-af81-f643fc587716.html
+drug.other.quantity
+pred: 74
+ref: 74/86
+5c9280e6-7a91-41cb-b3ec-be580081a795.html
+drug.meth.quantity
+pred: 297.290
+ref: 297.29
+5d5f99ef-7bf0-4307-b930-84088e7b4859.html
+drug.meth.quantity
+pred: 15.32
+ref: 
+5f1b2946-83e3-4259-99f7-f313fca0d665.html
+drug.marijuana.quantity
+pred: 2.3
+ref: 
+5f1b2946-83e3-4259-99f7-f313fca0d665.html
+drug.other.quantity
+pred: 2.32.3
+ref: 2.3
+5f86dcbf-4fd7-4f97-aba1-6d6c399ed867.html
+drug.meth.quantity
+pred: 3
+ref: 45.6
+5f86dcbf-4fd7-4f97-aba1-6d6c399ed867.html
+drug.meth.quantity
+pred: 3
+ref: 2
+60c67a07-ad77-44f4-b83c-3d91964d8e79.html
+drug.meth.quantity
+pred: 2968.50
+ref: 2968.5
+60c67a07-ad77-44f4-b83c-3d91964d8e79.html
+drug.meth.quantity
+pred: 
+ref: 1193.1
+61840bab-42da-4cb6-9e16-b43e24506351.html
+drug.heroin.quantity
+pred: 
+ref: 1
+61c94aa6-3e51-4337-aeed-8d6d11fa71c6.html
+drug.meth.quantity
+pred: 
+ref: 1.73
+61e67004-13db-41d6-a4a8-9fc40e473410.html
+drug.heroin.quantity
+pred: 1
+ref: 0.424
+61e67004-13db-41d6-a4a8-9fc40e473410.html
+drug.meth.quantity
+pred: 0.9
+ref: 
+624aa12b-8896-42ec-96bf-2b244ee3f28c.html
+drug.meth.quantity
+pred: 1
+ref: 13.6
+6279f525-8dec-4063-bfd8-f940a7565bb1.html
+drug.meth.quantity
+pred: 0.66
+ref: 1.34
+62cab975-c62f-4ef9-8e10-e7f18910960d.html
+drug.meth.quantity
+pred: 100
+ref: 21.272
+65611ccf-fc43-465f-a92c-4d570b2e08a4.html
+drug.heroin.quantity
+pred: 
+ref: 1.67
+65611ccf-fc43-465f-a92c-4d570b2e08a4.html
+drug.heroin.quantity
+pred: 
+ref: 1.67
+65611ccf-fc43-465f-a92c-4d570b2e08a4.html
+drug.other.quantity
+pred: 1.67
+ref: 
+66158236-5826-4c0c-8f29-bf04f65701f1.html
+drug.other.quantity
+pred: 
+ref: 13.54
+66158236-5826-4c0c-8f29-bf04f65701f1.html
+drug.other.quantity
+pred: 
+ref: 13.54
+66a573f4-ad1e-422d-b4b3-062631a63a6d.html
+drug.heroin.quantity
+pred: 3.4
+ref: 海洛因、甲基苯丙胺共49.1
+66a573f4-ad1e-422d-b4b3-062631a63a6d.html
+drug.meth.quantity
+pred: 168
+ref: 海洛因、甲基苯丙胺共49.1
+66a573f4-ad1e-422d-b4b3-062631a63a6d.html
+drug.other.quantity
+pred: 7
+ref: 
+66a573f4-ad1e-422d-b4b3-062631a63a6d.html
+drug.heroin.quantity
+pred: 49.1
+ref: 
+66a573f4-ad1e-422d-b4b3-062631a63a6d.html
+drug.meth.quantity
+pred: 1
+ref: 29
+66a573f4-ad1e-422d-b4b3-062631a63a6d.html
+drug.other.quantity
+pred: 7
+ref: 
+670e9ba9-80f9-4beb-9569-bcc076c79aed.html
+drug.meth.quantity
+pred: 0.2
+ref: 0.6
+67cf1723-ce9a-4130-bed1-d6e3ddcc69a4.html
+drug.meth.quantity
+pred: 0.27
+ref: 6.37
+67da54cc-01ce-43df-b997-2de70df449ab.html
+drug.meth.quantity
+pred: 20
+ref: 30.76
+67da54cc-01ce-43df-b997-2de70df449ab.html
+drug.heroin.quantity
+pred: 1
+ref: 29.81
+67da54cc-01ce-43df-b997-2de70df449ab.html
+drug.meth.quantity
+pred: 20
+ref: 30.76
+6885990d-3ff9-47e7-9455-f9bfa0b4b8ea.html
+drug.heroin.quantity
+pred: 
+ref: 5.48
+6885990d-3ff9-47e7-9455-f9bfa0b4b8ea.html
+drug.heroin.quantity
+pred: 0.5
+ref: 10.5
+69a6554a-e874-463e-a3e5-d2775a78c45c.html
+drug.other.quantity
+pred: 
+ref: 10000
+69a6554a-e874-463e-a3e5-d2775a78c45c.html
+drug.marijuana.quantity
+pred: 990
+ref: 
+69a6554a-e874-463e-a3e5-d2775a78c45c.html
+drug.other.quantity
+pred: 990990
+ref: 10000
+69a6554a-e874-463e-a3e5-d2775a78c45c.html
+drug.marijuana.quantity
+pred: 990
+ref: 
+69a6554a-e874-463e-a3e5-d2775a78c45c.html
+drug.other.quantity
+pred: 990990
+ref: 10990
+69bb9401-1fd6-408c-b846-c8afc8bf4d8d.html
+drug.heroin.quantity
+pred: 
+ref: 203.9
+69bb9401-1fd6-408c-b846-c8afc8bf4d8d.html
+drug.heroin.quantity
+pred: 
+ref: 203.9
+6ac59e9d-60f4-42bc-87e1-ab150caa9535.html
+drug.meth.quantity
+pred: 10
+ref: 40.328
+6b677a9f-6745-4da5-afed-58e35741e621.html
+drug.heroin.quantity
+pred: 30
+ref: 6.94
+6d4b2352-94f5-4e06-8d3a-369b33d78914.html
+drug.meth.quantity
+pred: 2.2
+ref: 5.93
+6d69b5b7-93fc-4a3b-a7b8-e6d77b5bd166.html
+drug.heroin.quantity
+pred: 1
+ref: 0.95
+6d7ac8bb-f91e-42f3-bb41-0c1e4cce5bf8.html
+drug.meth.quantity
+pred: 1
+ref: 134.5
+6df2e0c4-8446-46f7-a3df-1b039986b25d.html
+drug.meth.quantity
+pred: 119.2
+ref: 123.7
+6e729ae1-23d1-407b-980a-bebf787b6eea.html
+drug.meth.quantity
+pred: 
+ref: 4.377
+71584b87-a832-430b-8fa4-b018ef053888.html
+drug.meth.quantity
+pred: 0.4
+ref: 1
+71b027c2-5a81-4ee8-b3c3-644b4e515bd6.html
+drug.meth.quantity
+pred: 4
+ref: 
+720467cc-fcb9-49b3-aad6-b536583e705c.html
+drug.marijuana.quantity
+pred: 58
+ref: 
+730fc7fd-453e-4375-8dec-1a2187a72a39.html
+drug.meth.quantity
+pred: 0.55479
+ref: 24.1847
+73301ca9-3374-4dc4-b862-7e8318cb3b2e.html
+drug.meth.quantity
+pred: 
+ref: 25.8
+73301ca9-3374-4dc4-b862-7e8318cb3b2e.html
+drug.other.quantity
+pred: 25.8
+ref: 
+737aa0ea-599a-49e2-aca5-d7e847b1ed41.html
+drug.meth.quantity
+pred: 1.617
+ref: 0.3
+744bf6a5-0fa9-4b90-8884-443a72966539.html
+drug.meth.quantity
+pred: 
+ref: 362.5
+744bf6a5-0fa9-4b90-8884-443a72966539.html
+drug.meth.quantity
+pred: 
+ref: 362.5
+74b8d8bf-8dd7-4f83-89c2-877091309b52.html
+drug.meth.quantity
+pred: 
+ref: 57.0544
+74b8d8bf-8dd7-4f83-89c2-877091309b52.html
+drug.other.quantity
+pred: 
+ref: 0.2176
+752a6699-182c-4ad3-b14d-1326fd06fe9b.html
+drug.heroin.quantity
+pred: 
+ref: 271.3
+7652577f-8b01-4e85-8f7a-207c0bd5900b.html
+drug.heroin.quantity
+pred: 
+ref: 0.09
+7652577f-8b01-4e85-8f7a-207c0bd5900b.html
+drug.other.quantity
+pred: 0.09
+ref: 
+76babc37-d760-4696-994b-386c58dbd5ff.html
+drug.meth.quantity
+pred: 0.5167
+ref: 1.9574
+77cdbe23-01a3-4305-acc1-88a160418b37.html
+drug.marijuana.quantity
+pred: 2.4
+ref: 
+785a2fa9-c997-4d00-8c63-14fdff12840a.html
+drug.meth.quantity
+pred: 33
+ref: 114.8
+785a2fa9-c997-4d00-8c63-14fdff12840a.html
+drug.other.quantity
+pred: 8
+ref: 
+785a2fa9-c997-4d00-8c63-14fdff12840a.html
+drug.meth.quantity
+pred: 114.8
+ref: 21
+785a2fa9-c997-4d00-8c63-14fdff12840a.html
+drug.other.quantity
+pred: 21
+ref: 
+787728d6-f2df-4e11-a8f7-ea7bb16beac5.html
+drug.heroin.quantity
+pred: 0.33
+ref: 1.1
+78a04f2c-3f4d-4eca-b09a-e516fe97d078.html
+drug.heroin.quantity
+pred: 1.87
+ref: 3.81
+79a14365-88b3-4754-9970-8596f6892f73.html
+drug.meth.quantity
+pred: 3.23
+ref: 42.67
+79a14365-88b3-4754-9970-8596f6892f73.html
+drug.other.quantity
+pred: 0.70
+ref: 3.23
+7aa95eba-0584-4aaf-b5f5-f89f9b0f8c21.html
+drug.meth.quantity
+pred: 
+ref: 10.58
+7af4dda9-32df-453e-ae77-65cad503156b.html
+drug.meth.quantity
+pred: 
+ref: 1.16
+7af4dda9-32df-453e-ae77-65cad503156b.html
+drug.other.quantity
+pred: 1.16
+ref: 
+7c335709-aee2-4b7e-81e6-4d4d5afa4a96.html
+drug.meth.quantity
+pred: 21.7
+ref: 0.5
+7c3d05e3-2508-41ba-b41e-fb1c50660d19.html
+drug.heroin.quantity
+pred: 6.57
+ref: 7.82
+7c90ae4f-b2cf-4dc4-98d1-2886c0fe1ea8.html
+drug.heroin.quantity
+pred: 14.86
+ref: 15.95
+7d50686b-d5b1-45af-aab4-653dec0b8a75.html
+drug.heroin.quantity
+pred: 1.00
+ref: 
+7d50686b-d5b1-45af-aab4-653dec0b8a75.html
+drug.meth.quantity
+pred: 
+ref: 1
+7faf82dd-e65d-4598-ac09-09479d705004.html
+drug.heroin.quantity
+pred: 1.04
+ref: 1.3
+8014454b-45bc-4ce3-95c3-a619749d65f5.html
+drug.other.quantity
+pred: 
+ref: 9
+8014454b-45bc-4ce3-95c3-a619749d65f5.html
+drug.other.quantity
+pred: 
+ref: 9
+8014454b-45bc-4ce3-95c3-a619749d65f5.html
+drug.other.quantity
+pred: 
+ref: 9
+81bd9e88-4e92-45ad-8c2e-07d5cd0b26be.html
+drug.other.quantity
+pred: 15.6
+ref: 
+81bd9e88-4e92-45ad-8c2e-07d5cd0b26be.html
+drug.heroin.quantity
+pred: 
+ref: 15.6
+839eaa5d-03c2-4dc5-a745-c470a88ad64e.html
+drug.heroin.quantity
+pred: 0.03
+ref: 0.69
+84636e89-fda0-4f9d-9ae4-a8430be3e24b.html
+drug.heroin.quantity
+pred: 3.2
+ref: 3.9
+84d60268-df07-4949-a2ff-e867f99f569d.html
+drug.heroin.quantity
+pred: 100
+ref: 76
+84ea30aa-aadc-4b44-af49-60f879254692.html
+drug.other.quantity
+pred: 6.7
+ref: 
+850e14ef-1d7c-4ab1-955d-c52364f27ad2.html
+drug.heroin.quantity
+pred: 0.23
+ref: 1.47
+85b1c28e-3e25-4a8a-a9d5-14cd51f41458.html
+drug.heroin.quantity
+pred: 1.42
+ref: 4.9
+8612db7c-c8f3-45e8-b49f-25202fa8ece2.html
+drug.heroin.quantity
+pred: 
+ref: 0.7
+8612db7c-c8f3-45e8-b49f-25202fa8ece2.html
+drug.other.quantity
+pred: 0.7
+ref: 0.12
+87941790-e9f5-4f00-b452-85e1eafa33b0.html
+drug.meth.quantity
+pred: 1.93
+ref: 2.05
+87980dbf-8668-4e83-a1e5-7e800755f87d.html
+drug.meth.quantity
+pred: 4079.1
+ref: 4079
+87980dbf-8668-4e83-a1e5-7e800755f87d.html
+drug.other.quantity
+pred: 36
+ref: 
+87980dbf-8668-4e83-a1e5-7e800755f87d.html
+drug.other.quantity
+pred: 0.1
+ref: 
+87fb9322-e91c-475a-97f6-e4f2fd3b670b.html
+drug.other.quantity
+pred: 
+ref: 65000
+87fe16f9-c6f4-4418-b6ab-d8759d897919.html
+drug.heroin.quantity
+pred: 1.6
+ref: 1.72
+8830fbc1-0820-4ccc-a8f9-81dc9f15220b.html
+drug.other.quantity
+pred: 
+ref: 10粒
+88488732-a550-4921-82d6-b8a6da8096c2.html
+drug.heroin.quantity
+pred: 0.4
+ref: 1.96
+88f7bf85-044e-402d-b45b-f153b31ded8f.html
+drug.heroin.quantity
+pred: 59.78
+ref: 
+8a165697-a2cc-47ac-9861-755d03ebf3e9.html
+drug.heroin.quantity
+pred: 5.8
+ref: 15.6
+8a165697-a2cc-47ac-9861-755d03ebf3e9.html
+drug.other.quantity
+pred: 9.8
+ref: 
+8b2b0f29-8794-446a-945a-140f0b6d8e40.html
+drug.other.quantity
+pred: 43.172043.17
+ref: 43.17克
+8d31ca0b-dd21-4b9f-acb1-c9b082cde010.html
+drug.heroin.quantity
+pred: 5
+ref: 164.14
+8dba3431-4973-41d8-b16c-e181f589fddd.html
+drug.meth.quantity
+pred: 
+ref: 39.51
+8dba3431-4973-41d8-b16c-e181f589fddd.html
+drug.meth.quantity
+pred: 
+ref: 39.51
+8dda41db-3f1a-4458-91a9-b05f36755c25.html
+drug.heroin.quantity
+pred: 24.058
+ref: 31.893
+8f2221b6-3f55-43ea-96b2-0fb1c14e3226.html
+drug.marijuana.quantity
+pred: 100
+ref: 20000
+90901983-0ce3-4be4-b15b-7013d77b1a8e.html
+drug.marijuana.quantity
+pred: 44.4
+ref: 
+9109a7fe-190c-4c56-9ef7-aa29d0a4dd42.html
+drug.marijuana.quantity
+pred: 4
+ref: 
+9199a05a-1cd2-428c-bf6a-4a1548b191a9.html
+drug.marijuana.quantity
+pred: 22.5
+ref: 
+9662de65-394a-4887-9afa-d13431c00366.html
+drug.heroin.quantity
+pred: 200
+ref: 191.35
+96b22fb8-e064-4600-a5cd-9c33f98a1b5e.html
+drug.marijuana.quantity
+pred: 15.1
+ref: 
+974a50f1-4aaa-43c2-8ae9-6278fc8fc1ca.html
+drug.heroin.quantity
+pred: 
+ref: 244.3
+983e38ad-4331-4cbc-8d9d-6610917aae5a.html
+drug.meth.quantity
+pred: 0.16
+ref: 9.69
+983e38ad-4331-4cbc-8d9d-6610917aae5a.html
+drug.other.quantity
+pred: 0.16
+ref: 
+99990477-48cc-492f-b211-63002aa38b99.html
+drug.meth.quantity
+pred: 3
+ref: 55
+9a556305-ab4c-4dcc-8cc2-b2808dc51983.html
+drug.heroin.quantity
+pred: 485.3
+ref: 187.2
+9ac39d36-bc9a-474c-8505-ea775d2e2501.html
+drug.meth.quantity
+pred: 0.3
+ref: 0.6
+9ac39d36-bc9a-474c-8505-ea775d2e2501.html
+drug.meth.quantity
+pred: 
+ref: 0.6
+9b291739-1102-4b27-9c7a-00d89199f2f3.html
+drug.meth.quantity
+pred: 
+ref: 995
+9b667826-a842-4070-9c55-5f8a147cf54b.html
+drug.meth.quantity
+pred: 0.18
+ref: 1.4
+9d228f2f-6d6e-4fa9-85aa-392da0ba2ace.html
+drug.opium.quantity
+pred: 16.04
+ref: 
+9d228f2f-6d6e-4fa9-85aa-392da0ba2ace.html
+drug.heroin.quantity
+pred: 16.04
+ref: 
+9d228f2f-6d6e-4fa9-85aa-392da0ba2ace.html
+drug.opium.quantity
+pred: 16.04
+ref: 
+9d228f2f-6d6e-4fa9-85aa-392da0ba2ace.html
+drug.heroin.quantity
+pred: 16.04
+ref: 
+9d259ccd-b12f-42c5-a3e4-ee10734990ff.html
+drug.heroin.quantity
+pred: 14.18
+ref: 6.728
+9d460bbe-e3c5-48dc-affb-a4f19562b4e3.html
+drug.meth.quantity
+pred: 20
+ref: 约9克
+9de81ba3-3d82-497b-b8a6-6a4b64a9ecfe.html
+drug.meth.quantity
+pred: 4.5
+ref: 1.66
+9faace65-19b0-417f-b60b-c0ea0c1e255f.html
+drug.meth.quantity
+pred: 1.617
+ref: 0.3
+9faace65-19b0-417f-b60b-c0ea0c1e255f.html
+drug.meth.quantity
+pred: 0.3
+ref: 
+9fb8d514-0c97-4bf4-9c06-88b32b5f4e38.html
+drug.other.quantity
+pred: 
+ref: 117.9
+9fb8d514-0c97-4bf4-9c06-88b32b5f4e38.html
+drug.heroin.quantity
+pred: 117.9
+ref: 
+9fb8d514-0c97-4bf4-9c06-88b32b5f4e38.html
+drug.meth.quantity
+pred: 117.9
+ref: 
+a01b4920-e036-47c0-bf84-67880ed8ff85.html
+drug.marijuana.quantity
+pred: 80
+ref: 
+a0edbdbc-b1e4-4f68-b89c-acf9c2d286d4.html
+drug.heroin.quantity
+pred: 14.0616
+ref: 23.4304
+a0edbdbc-b1e4-4f68-b89c-acf9c2d286d4.html
+drug.heroin.quantity
+pred: 3.2402
+ref: 
+a18bb1dc-4ce6-4024-a425-0426e38de6a8.html
+drug.heroin.quantity
+pred: 24.058
+ref: 
+a18bb1dc-4ce6-4024-a425-0426e38de6a8.html
+drug.meth.quantity
+pred: 
+ref: 31.893
+a2bf2d75-08f6-4907-969f-9f1665a248c3.html
+drug.other.quantity
+pred: 
+ref: 8.375
+a2e4f8d3-562d-4370-8154-07b8e6f7b909.html
+drug.heroin.quantity
+pred: 1
+ref: 742.07
+a2e4f8d3-562d-4370-8154-07b8e6f7b909.html
+drug.heroin.quantity
+pred: 1
+ref: 642.07
+a2e4f8d3-562d-4370-8154-07b8e6f7b909.html
+drug.heroin.quantity
+pred: 1
+ref: 271.83
+a2e4f8d3-562d-4370-8154-07b8e6f7b909.html
+drug.heroin.quantity
+pred: 70.38
+ref: 271.83
+a2e4f8d3-562d-4370-8154-07b8e6f7b909.html
+drug.heroin.quantity
+pred: 
+ref: 42.03
+a2e4f8d3-562d-4370-8154-07b8e6f7b909.html
+drug.meth.quantity
+pred: 
+ref: 7.15
+a2e4f8d3-562d-4370-8154-07b8e6f7b909.html
+drug.heroin.quantity
+pred: 1
+ref: 100
+a2e4f8d3-562d-4370-8154-07b8e6f7b909.html
+drug.heroin.quantity
+pred: 1
+ref: 100
+a2e4f8d3-562d-4370-8154-07b8e6f7b909.html
+drug.heroin.quantity
+pred: 1
+ref: 
+a3af0c85-4473-46ff-b99d-644f381bde65.html
+drug.meth.quantity
+pred: 7
+ref: 12.7
+a49f07cd-6197-47e4-b98a-781a30e6c16a.html
+drug.marijuana.quantity
+pred: 40.2344
+ref: 
+a49f07cd-6197-47e4-b98a-781a30e6c16a.html
+drug.other.quantity
+pred: 
+ref: 48.9809
+a745b2d0-1689-4c50-bb58-62a65fe437c9.html
+drug.meth.quantity
+pred: 1710
+ref: 570
+a7973892-7918-43d2-b4e4-5e7c4412c74e.html
+drug.heroin.quantity
+pred: 0.02
+ref: 3.55
+a8733fb0-4fb1-4047-9e2f-881117346306.html
+drug.heroin.quantity
+pred: 0.1
+ref: 19.4
+aa717c04-10da-4d0e-b55c-d5cd62a0efcb.html
+drug.heroin.quantity
+pred: 3
+ref: 
+aa717c04-10da-4d0e-b55c-d5cd62a0efcb.html
+drug.meth.quantity
+pred: 28
+ref: 20
+aa960ed7-3197-4a94-a719-873307eaff85.html
+drug.meth.quantity
+pred: 
+ref: 0.3791
+acb9562e-cb7b-47ba-ab8b-35f04b835dfb.html
+drug.marijuana.quantity
+pred: 1.7038
+ref: 
+ad9e9129-b3e9-4dab-b9a1-b0fd69f698ca.html
+drug.marijuana.quantity
+pred: 2000
+ref: 
+ad9e9129-b3e9-4dab-b9a1-b0fd69f698ca.html
+drug.marijuana.quantity
+pred: 2000
+ref: 
+af1b3311-d4ed-431f-9b80-264477eb149e.html
+drug.marijuana.quantity
+pred: 25.4
+ref: 
+b12cd574-673b-4816-8460-b27c9e77be68.html
+drug.meth.quantity
+pred: 18.27
+ref: 25.92
+b12eceb6-f3e3-4e24-a9c0-587464805c38.html
+drug.heroin.quantity
+pred: 300.1
+ref: 332.3
+b19d0787-ec63-456f-8608-c5013bff0018.html
+drug.meth.quantity
+pred: 0.6
+ref: 1
+b19d1d35-8d32-4b0b-9f15-5d81bec35ead.html
+drug.meth.quantity
+pred: 0.58
+ref: 7.67
+b2c91bdf-a735-4804-a994-327387198202.html
+drug.heroin.quantity
+pred: 7.6
+ref: 12.4
+b355644e-e83d-4ea8-bfa3-12feb20f5c92.html
+drug.heroin.quantity
+pred: 0.243
+ref: 0.256
+b355644e-e83d-4ea8-bfa3-12feb20f5c92.html
+drug.heroin.quantity
+pred: 0.256
+ref: 0.243
+b3e93eb6-8da5-40aa-be6d-aff0575a3206.html
+drug.heroin.quantity
+pred: 0.11
+ref: 
+b4d4db9c-7f75-4bd5-899f-694c6c2d7aee.html
+drug.meth.quantity
+pred: 643.5
+ref: 7.1
+b4fc6c01-e37b-4893-917b-6290bd3b431c.html
+drug.meth.quantity
+pred: 1.15
+ref: 
+b543c226-af7d-4dde-b171-352eecd16882.html
+drug.heroin.quantity
+pred: 
+ref: 0.1
+b5653e12-cbc1-4b3c-8fe5-e8314f8d8470.html
+drug.meth.quantity
+pred: 0.8
+ref: 2
+b59d2cda-8d8e-4e54-906d-d3e4ee9042f3.html
+drug.meth.quantity
+pred: 1
+ref: 
+b5b31cc5-e596-4fac-b815-eacb204332cd.html
+drug.marijuana.quantity
+pred: 35970.12
+ref: 
+b5b31cc5-e596-4fac-b815-eacb204332cd.html
+drug.other.quantity
+pred: 
+ref: 17646.6
+b5b31cc5-e596-4fac-b815-eacb204332cd.html
+drug.marijuana.quantity
+pred: 100.12
+ref: 
+b5b31cc5-e596-4fac-b815-eacb204332cd.html
+drug.other.quantity
+pred: 
+ref: 17646.6
+b64e45ce-2399-4eed-97a2-ec3c796749b7.html
+drug.heroin.quantity
+pred: 20.96
+ref: 36.26
+b68f96e9-4e9b-4de0-93e9-454319a1f2c3.html
+drug.heroin.quantity
+pred: 0.34
+ref: 0.77
+b7970e71-ab05-43c6-b7fd-8bb0170a1c8b.html
+drug.marijuana.quantity
+pred: 1.20
+ref: 6.25
+b7970e71-ab05-43c6-b7fd-8bb0170a1c8b.html
+drug.other.quantity
+pred: 
+ref: 1.20
+b7ba329d-f7f0-4278-b3a8-ed13a8a1ff73.html
+drug.meth.quantity
+pred: 
+ref: 256.7
+b7c5878f-bc43-4b00-86dc-ef2142347194.html
+drug.marijuana.quantity
+pred: 42.3
+ref: 
+b8c07a9e-c819-4fbd-b63e-338eefa1d9e8.html
+drug.heroin.quantity
+pred: 10.012
+ref: 10.281
+b9274e71-cf7e-4b8d-b4f6-3bee93994cf2.html
+drug.heroin.quantity
+pred: 
+ref: 0.13
+b9274e71-cf7e-4b8d-b4f6-3bee93994cf2.html
+drug.other.quantity
+pred: 0.13
+ref: 
+bac57c03-3561-4981-bfa6-f7f2ae2b7e5f.html
+drug.heroin.quantity
+pred: 0.9
+ref: 1.5
+bc61d538-fa78-4249-8fa1-ecd106edad6c.html
+drug.meth.quantity
+pred: 3.6595
+ref: 13.9719
+bd0c4da9-0e69-4718-9811-2f4fed712d48.html
+drug.meth.quantity
+pred: 0.5
+ref: 2.42
+bd146a16-d179-44d6-8188-eb0bb6174aff.html
+drug.heroin.quantity
+pred: 50
+ref: 50.4213
+bd146a16-d179-44d6-8188-eb0bb6174aff.html
+drug.heroin.quantity
+pred: 
+ref: 50.4213
+bdc717c5-aebe-48c2-a75a-e5d7050e16bc.html
+drug.meth.quantity
+pred: 
+ref: 503
+c1312db5-474d-4123-986f-8638458c8419.html
+drug.other.quantity
+pred: 23.3
+ref: 
+c31c3746-985d-4c38-bbfa-c4efa86df7c0.html
+drug.meth.quantity
+pred: 0.14
+ref: 
+c3f59309-85c5-4926-a5a5-36a6d60b51b6.html
+drug.meth.quantity
+pred: 
+ref: 1.2
+c4854699-3120-497e-90c4-30c3f13a4c31.html
+drug.marijuana.quantity
+pred: 55
+ref: 
+c50c2591-d68a-4a39-b92b-80de39e92882.html
+drug.meth.quantity
+pred: 0.47
+ref: 1.2
+c58dd2e8-5c66-40ed-8267-c2d9e8fcce2f.html
+drug.meth.quantity
+pred: 48.59
+ref: 50.93
+c58dd2e8-5c66-40ed-8267-c2d9e8fcce2f.html
+drug.meth.quantity
+pred: 2.34
+ref: 48.59
+c58dd2e8-5c66-40ed-8267-c2d9e8fcce2f.html
+drug.meth.quantity
+pred: 
+ref: 48.59
+c5ae5fa6-abe7-4d17-9d48-6655b3bac747.html
+drug.marijuana.quantity
+pred: 25.4
+ref: 
+c5b2c0f0-a5a4-4f01-ae13-63277c83ebe4.html
+drug.meth.quantity
+pred: 0.7
+ref: 2.5
+c6140698-4227-4f7b-a393-e934714767f3.html
+drug.heroin.quantity
+pred: 0.3
+ref: 
+c647573b-2197-4c48-a811-ca118ef0f230.html
+drug.meth.quantity
+pred: 1.08
+ref: 
+c69585e9-eaa6-4195-be1c-41b005e7db51.html
+drug.meth.quantity
+pred: 0.62
+ref: 4.92
+c6b25b0a-0351-489d-8d6f-e39b730958bf.html
+drug.meth.quantity
+pred: 2
+ref: 3.798
+c6be7c16-2772-4c1f-a87b-9e015a280a59.html
+drug.heroin.quantity
+pred: 278.2955
+ref: 
+c6be7c16-2772-4c1f-a87b-9e015a280a59.html
+drug.meth.quantity
+pred: 278.2955
+ref: 697.9769
+c6be7c16-2772-4c1f-a87b-9e015a280a59.html
+drug.other.quantity
+pred: 278.2955
+ref: 
+c6be7c16-2772-4c1f-a87b-9e015a280a59.html
+drug.heroin.quantity
+pred: 278.2955
+ref: 9.4635
+c6be7c16-2772-4c1f-a87b-9e015a280a59.html
+drug.meth.quantity
+pred: 278.2955
+ref: 858.1078
+c6be7c16-2772-4c1f-a87b-9e015a280a59.html
+drug.other.quantity
+pred: 278.2955
+ref: 8.3203
+c6d653c2-25d2-454e-86ad-54a8781e02dc.html
+drug.meth.quantity
+pred: 50
+ref: 50.1
+c6f3cff6-a2f4-41e3-810f-d0a400382f96.html
+drug.marijuana.quantity
+pred: 58
+ref: 
+c7062332-511b-4060-9e6a-e57185391e2d.html
+drug.meth.quantity
+pred: 4
+ref: 0.4
+c85e8dbd-5bff-433d-b44a-45e6ed3fd2e2.html
+drug.heroin.quantity
+pred: 1
+ref: 33.12
+c85e8dbd-5bff-433d-b44a-45e6ed3fd2e2.html
+drug.heroin.quantity
+pred: 1
+ref: 33.12
+c872380d-6e4b-49ed-ac6b-b3e10213c6e5.html
+drug.heroin.quantity
+pred: 2
+ref: 3.94
+c9c44dcb-6a07-4cc6-9489-d931591a1599.html
+drug.marijuana.quantity
+pred: 17.13
+ref: 
+c9c44dcb-6a07-4cc6-9489-d931591a1599.html
+drug.other.quantity
+pred: 17.1317.13
+ref: 17.13
+ca0073cf-0a28-4462-9fb1-3011c860a757.html
+drug.other.quantity
+pred: 0.550.55
+ref: 0.55
+ca63ec27-9cf4-41db-a268-68eda78cf25f.html
+drug.marijuana.quantity
+pred: 6.5
+ref: 
+ca819c69-2279-4a00-b4db-256d16a8919e.html
+drug.heroin.quantity
+pred: 30
+ref: 69.9
+ca819c69-2279-4a00-b4db-256d16a8919e.html
+drug.heroin.quantity
+pred: 
+ref: 69.9
+cbf47a64-cacf-4952-82b3-35b3412caa21.html
+drug.heroin.quantity
+pred: 0.7
+ref: 1.6
+cc2efc27-2c82-4af5-b088-7710fb783531.html
+drug.heroin.quantity
+pred: 0.15
+ref: 0.42
+cc8c8b14-0593-434f-8b4d-ef417f7ba556.html
+drug.meth.quantity
+pred: 1
+ref: 2.3
+ccdaaec6-0543-4eaa-b4f9-c674b7b50ecb.html
+drug.meth.quantity
+pred: 53
+ref: 55
+ccdaaec6-0543-4eaa-b4f9-c674b7b50ecb.html
+drug.meth.quantity
+pred: 10
+ref: 12
+cf5e8b94-0c67-472d-af8d-73d2a8146c29.html
+drug.meth.quantity
+pred: 0.2386
+ref: 6.6539
+cf722495-7759-4096-8b57-bc7ed03d7286.html
+drug.meth.quantity
+pred: 
+ref: 12.*
+cfd97d4f-bbd9-4f7f-864e-a6dcdec11479.html
+drug.meth.quantity
+pred: 12.9
+ref: 1.3
+d0723924-48ac-4ee0-8031-3ab57310830e.html
+drug.heroin.quantity
+pred: 20
+ref: 44.29
+d2b822ec-43d6-4b77-ab23-fd23fc8c718f.html
+drug.heroin.quantity
+pred: 4.8
+ref: 5.55
+d3d8f682-558e-40a2-bf57-b50cb5ead1af.html
+drug.other.quantity
+pred: 2555
+ref: 140
+d4c7274d-457d-4dc4-aacc-48dec696cd90.html
+drug.meth.quantity
+pred: 187.65
+ref: 995.95
+d5b52a14-9f6d-48f0-ab81-838592ccbcf5.html
+drug.meth.quantity
+pred: 1
+ref: 3
+d5f95dc5-bf47-4c87-8411-27354c6c7105.html
+drug.meth.quantity
+pred: 1.83
+ref: 4
+d60f01b4-2f10-4fb0-beab-a09af1709e94.html
+drug.meth.quantity
+pred: 2
+ref: 943.6
+d60f01b4-2f10-4fb0-beab-a09af1709e94.html
+drug.meth.quantity
+pred: 924.7
+ref: 935.3
+d673c7c1-0a4f-46d8-9bf3-2b730e33fd0f.html
+drug.heroin.quantity
+pred: 
+ref: 328.1
+d7697942-6b73-4f98-9897-0669b09eadd7.html
+drug.meth.quantity
+pred: 2.8
+ref: 4.15
+d7697942-6b73-4f98-9897-0669b09eadd7.html
+drug.meth.quantity
+pred: 2.8
+ref: 0.7
+d7de18c1-fdaa-438b-9f74-266c6badff9b.html
+drug.other.quantity
+pred: 410.7
+ref: 
+d9312fe7-cb31-4b44-b4bb-62a1f81d57d9.html
+drug.meth.quantity
+pred: 0.601
+ref: 295.758
+d98b0a7a-1fb8-4f89-935c-cf0b7b1b9b19.html
+drug.meth.quantity
+pred: 2.59
+ref: 3.93
+d9c5c9e1-8bd8-4b25-96c2-70485fe61db0.html
+drug.heroin.quantity
+pred: 680.9
+ref: 407.4
+da346599-61c3-4dda-a088-1b32c8b56aa5.html
+drug.meth.quantity
+pred: 6
+ref: 1110
+db518382-270e-4cdf-9fbf-39b20936b00e.html
+drug.heroin.quantity
+pred: 41.79
+ref: 48.89
+db518382-270e-4cdf-9fbf-39b20936b00e.html
+drug.heroin.quantity
+pred: 41.79
+ref: 48.89
+db8115b0-cebd-4649-a5c3-51cd73174822.html
+drug.marijuana.quantity
+pred: 21.16
+ref: 35
+db8115b0-cebd-4649-a5c3-51cd73174822.html
+drug.other.quantity
+pred: 21.16
+ref: 
+db8e3683-41c9-4cf4-aa6f-dc0601b68d3b.html
+drug.heroin.quantity
+pred: 
+ref: 4.94
+dbd919fa-4ad0-403f-8f22-bcf48813757a.html
+drug.meth.quantity
+pred: 1
+ref: 11
+dcc7d5b6-cdcc-491d-8093-ca8b25851fe2.html
+drug.heroin.quantity
+pred: 0.1
+ref: 1.79
+dd6c55d5-fbc4-4c91-9fb0-ab8ec40e0ef0.html
+drug.heroin.quantity
+pred: 1.02
+ref: 1.54
+dd9f2ac3-bf8e-4482-bae1-4c9e150a6d72.html
+drug.marijuana.quantity
+pred: 32.7
+ref: 
+dda2a2e2-a2ec-460d-b4d9-05e3897910db.html
+drug.marijuana.quantity
+pred: 4
+ref: 
+de61de3d-86f8-4fd8-87fe-1fbcf2973426.html
+drug.marijuana.quantity
+pred: 11.5
+ref: 
+deecbe6d-9fab-4649-8207-e64b7ac74262.html
+drug.marijuana.quantity
+pred: 58.7
+ref: 
+def90876-c633-4947-ad2f-6d93a196696b.html
+drug.other.quantity
+pred: 
+ref: 964株
+df269ea5-94ec-48b6-b58b-f632ac4610f6.html
+drug.heroin.quantity
+pred: 0.2
+ref: 
+df37d3bc-b50d-4a10-8891-b04a643690b9.html
+drug.meth.quantity
+pred: 
+ref: 2.6
+df42c885-b81b-4934-80b7-c5b94094609f.html
+drug.heroin.quantity
+pred: 
+ref: 0.2
+e0917f0c-01e7-4c13-9cb4-b54822cd0f66.html
+drug.heroin.quantity
+pred: 45
+ref: 
+e09a2d0e-c541-49e2-8058-a83c24cd8c63.html
+drug.meth.quantity
+pred: 
+ref: 92.7
+e09a2d0e-c541-49e2-8058-a83c24cd8c63.html
+drug.meth.quantity
+pred: 
+ref: 92.7
+e09a2d0e-c541-49e2-8058-a83c24cd8c63.html
+drug.meth.quantity
+pred: 47.74
+ref: 92.7
+e18ae8d7-f971-4c48-b132-70f9108d8bf4.html
+drug.meth.quantity
+pred: 0.53
+ref: 24.54
+e25ddb0b-ce73-4bdc-9717-c28eedd59f15.html
+drug.meth.quantity
+pred: 3.835
+ref: 4.325
+e2eb2f44-0df1-4d06-9ba7-b3dbf0d34723.html
+drug.heroin.quantity
+pred: 50
+ref: 40
+e2eb2f44-0df1-4d06-9ba7-b3dbf0d34723.html
+drug.heroin.quantity
+pred: 
+ref: 40
+e2f8e91d-7d7b-4b62-a083-825b099335a6.html
+drug.meth.quantity
+pred: 0.6
+ref: 
+e52b8286-70ef-4870-bc34-5937888e4b37.html
+drug.meth.quantity
+pred: 0.6
+ref: 
+e52b8286-70ef-4870-bc34-5937888e4b37.html
+drug.other.quantity
+pred: 2.2
+ref: 26.1
+e66b0947-bd7b-490f-8485-177453743614.html
+drug.heroin.quantity
+pred: 0.5
+ref: 0.56
+e6fbc790-440c-477f-b7b1-081b88a5b773.html
+drug.meth.quantity
+pred: 0.2
+ref: 1.2
+e7bacf98-d623-47c2-bae9-6c7cc4a23218.html
+drug.heroin.quantity
+pred: 203.46
+ref: 
+e83c8e77-2795-4962-ad94-d0de2629ffdb.html
+drug.meth.quantity
+pred: 1
+ref: 5.6
+e84e9792-33bd-4e3c-8154-60700aac894d.html
+drug.marijuana.quantity
+pred: 9
+ref: 
+e8fdfb86-8b42-427e-9e20-21bea8370b62.html
+drug.marijuana.quantity
+pred: 7.4
+ref: 18.9
+e8fdfb86-8b42-427e-9e20-21bea8370b62.html
+drug.other.quantity
+pred: 7.4
+ref: 
+e98e4a53-4e22-4388-80bc-0ab423642532.html
+drug.meth.quantity
+pred: 1
+ref: 32.95799
+e9a91213-7937-4eac-9660-aee8bb2b5724.html
+drug.meth.quantity
+pred: 0.58
+ref: 7.67
+e9d708ba-592d-4e0e-b14d-052143af61f5.html
+drug.meth.quantity
+pred: 1.4671
+ref: 1.1385
+ec2fa05f-bd8d-44d2-afb5-c298a24ff09a.html
+drug.heroin.quantity
+pred: 0.8
+ref: 0.53
+efe4497c-9a2c-40f5-9a74-3eb50cfd8d73.html
+drug.other.quantity
+pred: 18.41
+ref: 
+f0e4a5f4-a593-40dd-9ab8-26e05763d081.html
+drug.meth.quantity
+pred: 
+ref: 220
+f115cffb-2367-476c-9aae-30ff4f86bde8.html
+drug.marijuana.quantity
+pred: 
+ref: 10颗
+f115cffb-2367-476c-9aae-30ff4f86bde8.html
+drug.meth.quantity
+pred: 19.4502
+ref: 22.9
+f115cffb-2367-476c-9aae-30ff4f86bde8.html
+drug.meth.quantity
+pred: 19.4502
+ref: 19.1227
+f115cffb-2367-476c-9aae-30ff4f86bde8.html
+drug.meth.quantity
+pred: 19.4502
+ref: 5
+f115cffb-2367-476c-9aae-30ff4f86bde8.html
+drug.meth.quantity
+pred: 19.4502
+ref: 2.4275
+f19db1fe-7c15-452b-9e47-533871785dfc.html
+drug.meth.quantity
+pred: 
+ref: 0.31
+f256fb55-c4c8-4bc6-9c00-2e6adbf5d757.html
+drug.marijuana.quantity
+pred: 11.197
+ref: 
+f256fb55-c4c8-4bc6-9c00-2e6adbf5d757.html
+drug.meth.quantity
+pred: 8.987
+ref: 23.479
+f256fb55-c4c8-4bc6-9c00-2e6adbf5d757.html
+drug.other.quantity
+pred: 11.197
+ref: 1.225/1.096
+f276e54d-452c-43a4-b97e-b50cbc314464.html
+drug.other.quantity
+pred: 2525
+ref: 32.5（65板）
+f3e047e7-2d82-4eb7-a84c-533224095411.html
+drug.meth.quantity
+pred: 
+ref: 11.4
+f43d7f82-126f-4392-a9ff-046b9921f8e0.html
+drug.meth.quantity
+pred: 19.3
+ref: 24.8
+f43d7f82-126f-4392-a9ff-046b9921f8e0.html
+drug.heroin.quantity
+pred: 
+ref: 0.38
+f43d7f82-126f-4392-a9ff-046b9921f8e0.html
+drug.meth.quantity
+pred: 
+ref: 19.3
+f4deab90-27ad-4601-9b00-ca4d8e9e22bc.html
+drug.marijuana.quantity
+pred: 21.93
+ref: 
+f58adde8-f2fc-4dca-a3b6-9b0ac347af97.html
+drug.heroin.quantity
+pred: 13.89
+ref: 9.79
+f5a4366e-e15d-4934-b09a-1658f457e506.html
+drug.meth.quantity
+pred: 2.63
+ref: 0.73
+f5a4366e-e15d-4934-b09a-1658f457e506.html
+drug.other.quantity
+pred: 2.632.63
+ref: 2.63
+f61a7d1e-33aa-4e3e-88e7-3c73cd507134.html
+drug.marijuana.quantity
+pred: 
+ref: 三包
+f635e639-09ad-445f-945d-b1894141c078.html
+drug.marijuana.quantity
+pred: 
+ref: 2000
+f635e639-09ad-445f-945d-b1894141c078.html
+drug.marijuana.quantity
+pred: 1092
+ref: 2000
+f7b2c74e-9474-4942-b62c-16c0895eda23.html
+drug.meth.quantity
+pred: 20
+ref: 19.47
+fa45abd7-06e8-4c70-b150-ff5255f8a655.html
+drug.heroin.quantity
+pred: 1.57
+ref: 6.01
+fda319d0-e75e-45c3-ba62-065390056e3b.html
+drug.heroin.quantity
+pred: 260
+ref: 258.65
+fed4ba1f-9553-4c64-b4b7-cbced141ff9b.html
+drug.meth.quantity
+pred: 
+ref: 4
+fed4ba1f-9553-4c64-b4b7-cbced141ff9b.html
+drug.meth.quantity
+pred: 
+ref: 4
+ffbc6f4f-c204-4d24-bad3-a7630a0f580a.html
+drug.meth.quantity
+pred: 0.75
+ref: 0.95

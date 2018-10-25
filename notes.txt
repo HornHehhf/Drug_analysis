@@ -1,0 +1,36 @@
+Heng ji: Open IE for low resource languages
+Given a document in any of these languages, our framework is able to identify name mentions, as- sign a coarse-grained or fine-grained type to each mention, and link it to an En- glish Knowledge Base (KB) if it is link- able.
+
+
+1. Judge Characteristics:
+judge.name
+judge.ethnicity (not given; use name length and common Han names to define whether a judge is an ethnic minority)
+
+2. Defendant Characteristics: 
+def.name
+def.name.prev
+def.ethnicity (some are marked in the cases; others need to be inferred) # low precision is because of the no annotation
+def.recid      (whether the defendant is a recidivist)
+def.goodattitude
+
+3. Nature of the Crime:
+drug name
+drug quantity (we can focus on “净重"; we also want to grab multiple numbers if there are more than one type of drugs involved)
+
+4. Punishments:
+pun.fiximpris.length (有期徒刑; record numbers of months sentenced)
+pun.lifeimpris           (0/1 if received life imprisonment) 
+pun.death                (0/1 if received death penalty) 
+
+
+1.  drug.heroin.quantity and  drug.meth.quantity: right now the f1_scores are around 80%. Can we try and see whether we can increase precision there?
+
+2. def.ethnicity:  {'precision': 0.7871643745907008, 'recall': 0.9844389844389845, 'f1_score': 0.8748180494905387}
+    I feel here we can get the ethnicity as good as the judge ethnicity (>90%)
+
+3. def.recid
+{'precision': 0.8650949574328749, 'recall': 0.8650949574328749, 'f1_score': 0.8650949574328749, 'correct num': 1321, 'pred num': 1527, 'gold num': 1527}
+
+4. def.goodattitude:
+{'precision': 0.8500327439423707, 'recall': 0.9848254931714719, 'f1_score': 0.9124780316344465, 'correct num': 1298, 'pred num': 1527, 'gold num': 1318}
+
