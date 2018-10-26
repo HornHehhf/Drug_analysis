@@ -31,8 +31,6 @@ def get_text(dir_path):
         sys.stdout = savedStdout
         print('This message is for screen!')
 
-def 
-
 def extract_information(dir_path, info_path, drug_name):
     fout = open(info_path, 'w')
     files = list(set(listdir(dir_path)))
@@ -60,210 +58,44 @@ def extract_information(dir_path, info_path, drug_name):
 
         # initializes all the indices to 0
         
-        idx_dict = find_indices(lines, info)
+        info, idx_dict = find_indices(lines, info)
 
         pun_start = idx_dict['pun_start']
         pun_end = idx_dict['pun_end']
         judge_index = idx_dict['judge_index']
-        secretary_index = 0
-        def_start = 0
-        def_end = 0
+        secretary_index = idx_dict['secretary_index']
+        def_start = idx_dict['def_start']
+        def_end = idx_dict['def_end']
 
         if pun_end == 0:
             pun_end = judge_index
 
-        info['pun'] = []
-        # judge_name_list = []
-        for line in lines[pun_start: pun_end]:
-            if line[0] == '（':
-                pattern = "[0-9]*年[0-9]*月[0-9]*日"
-                match = re.search(pattern, line)
-                if match is not None:
-                    info['execution.date'] = match.group()
-                continue
-            if line not in info['pun'] and line[0] != '（':
-                info['pun'].append(line)
+        info['pun'] = []        
+
+        # add pun lines to info
+        temp_lines = lines[pun_start:pun_end]
+        info = add_pun(temp_lines, info)
 
         # make use of pun to add drug
-        if 'drug.type' not in info:
-            info['drug.type'] = []
-        for line in info['pun']:
-            add_line = False
-            for name in drug_name:
-                if name in line:
-                    if name not in info['drug.type']:
-                        add_line = True
-                        info['drug.type'].append(name)
-                    pattern = re.compile(r'净重[为是达]*([0-9]+\.?[0-9]*[余]*)[克可]')
-                    tmp_weights = pattern.findall(line)
-                    if 'drug.weight' not in info:
-                        info['drug.weight'] = []
-                    for weight in tmp_weights:
-                        if weight not in info['drug.weight']:
-                            info['drug.weight'].append(weight)
-                            add_line = True
-            if add_line:
-                if 'crime' not in info or len(info['crime']) == 0:
-                    info['crime'] = line
-                else:
-                    info['crime'] = info['crime'] + '\t'*100 + line
+        info = add_drug(info)
         # if there is no 净重, we should add 克
-        if 'drug.weight' not in info or len(info['drug.weight']) == 0:
-            for line in info['pun']:
-                add_line = False
-                for name in drug_name:
-                    if name in line:
-                        pattern = re.compile(r'([0-9]+\.?[0-9]*[余]*)[克可]')
-                        tmp_weights = pattern.findall(line)
-                        if 'drug.weight' not in info:
-                            info['drug.weight'] = []
-                        for weight in tmp_weights:
-                            if weight not in info['drug.weight']:
-                                info['drug.weight'].append(weight)
-                                add_line = True
-                if add_line:
-                    if 'crime' not in info or len(info['crime']) == 0:
-                        info['crime'] = line
-                    else:
-                        info['crime'] = info['crime'] + '\t'*100 + line
-        if 'crime' not in info:
-            for index in range(len(lines))[6:]:
-                line = lines[index]
-                add_line = False
-                if "经审理查明" in line or "经审理查明：" in line or "本院认为" in line:
-                    pattern = "[0-9]*年[0-9]*月[0-9]*日"
-                    match = re.search(pattern, line)
-                    if match is not None:
-                        info['crime.date'] = match.group()  # multiple time may cause error
-                    for name in drug_name:
-                        if name in line and name not in info['drug.type']:
-                            info['drug.type'].append(name)
-                    info['drug.weight'] = []
-                    pattern = re.compile(r'净重[为是达]*([0-9]+\.?[0-9]*[余]*)[克可]')  # improve
-                    tmp_weights = pattern.findall(line)
-                    if 'drug.weight' not in info:
-                        info['drug.weight'] = []
-                    for weight in tmp_weights:
-                        if weight not in info['drug.weight']:
-                            info['drug.weight'].append(weight)
-                            add_line = True
-                if add_line:
-                    if 'crime' not in info or len(info['crime']) == 0:
-                        info['crime'] = line
-                    else:
-                        info['crime'] = info['crime'] + '\t' * 100 + line
-        # if there is no 净重, we should add 克
-        if 'crime' not in info:
-            for index in range(len(lines))[6:]:
-                line = lines[index]
-                add_line = False
-                if "经审理查明" in line or "经审理查明：" in line or "本院认为" in line:
-                    pattern = "[0-9]*年[0-9]*月[0-9]*日"
-                    match = re.search(pattern, line)
-                    if match is not None:
-                        info['crime.date'] = match.group()  # multiple time may cause error
-                    for name in drug_name:
-                        if name in line and name not in info['drug.type']:
-                            info['drug.type'].append(name)
-                    info['drug.weight'] = []
-                    pattern = re.compile(r'净重[为是达]*([0-9]+\.?[0-9]*[余]*)[克可]')  # improve
-                    tmp_weights = pattern.findall(line)
-                    if 'drug.weight' not in info:
-                        info['drug.weight'] = []
-                    for weight in tmp_weights:
-                        if weight not in info['drug.weight']:
-                            info['drug.weight'].append(weight)
-                            add_line = True
-                if add_line:
-                    if 'crime' not in info or len(info['crime']) == 0:
-                        info['crime'] = line
-                    else:
-                        info['crime'] = info['crime'] + '\t' * 100 + line
+        info = add_drug_weight(info)
+        info = add_drug_weight_from_lines_1(lines, info)        
         # get crime if  without 审查查明 和 pun
-        if 'crime' not in info:
-            for index in range(len(lines))[6:]:
-                line = lines[index]
-                add_line = False
-                if "公诉机关指控，" in line or "检察院指控，" in line or "公诉机关指控：" in line[:-10] \
-                        or "检察院指控：" in line[:-10] or "公诉机关指控：" == lines[index-1][-7:] \
-                        or "检察院指控：" == lines[index-1][-6:] or "经审理查明：" == lines[index-1]:
-                    pattern = "[0-9]*年[0-9]*月[0-9]*日"
-                    match = re.search(pattern, line)
-                    if match is not None:
-                        info['crime.date'] = match.group()  # multiple time may cause error
-                    for name in drug_name:
-                        if name in line and name not in info['drug.type']:
-                            info['drug.type'].append(name)
-                    info['drug.weight'] = []
-                    pattern = re.compile(r'净重[为是达]*([0-9]+\.?[0-9]*[余]*)[克可]')  #improve
-                    tmp_weights = pattern.findall(line)
-                    if 'drug.weight' not in info:
-                        info['drug.weight'] = []
-                    for weight in tmp_weights:
-                        if weight not in info['drug.weight']:
-                            info['drug.weight'].append(weight)
-                            add_line = True
-                if add_line:
-                    if 'crime' not in info or len(info['crime']) == 0:
-                        info['crime'] = line
-                    else:
-                        info['crime'] = info['crime'] + '\t'*100 + line
+        info = add_drug_weight_from_lines_2(lines, info)
+        
         # if there is no 净重, we should add 克 in all sentences
-        if 'drug.weight' not in info or len(info['drug.weight']) == 0:
-            info['drug.weight'] = []
-            if 'crime' not in info:
-                info['crime'] = []
-            for index in range(len(lines))[6:]:
-                line = lines[index]
-                #if "公诉机关指控，" in line or "检察院指控，" in line or "公诉机关指控：" in line[:-10] \
-                        #or "检察院指控：" in line[:-10] or "公诉机关指控：" == lines[index-1][-7:] \
-                        #or "检察院指控：" == lines[index-1][-6:] or "经审理查明：" == lines[index-1]:
-                if True:
-                    add_line = False
-                    pattern = re.compile(r'([0-9]+\.?[0-9]*[余]*)[克可]')  #improve
-                    tmp_weights = pattern.findall(line)
-                    if 'drug.weight' not in info:
-                        info['drug.weight'] = []
-                    for weight in tmp_weights:
-                        if weight not in info['drug.weight']:
-                            info['drug.weight'].append(weight)
-                            add_line = True
-                    if add_line:
-                        if 'crime' not in info or len(info['crime']) == 0:
-                            info['crime'] = line
-                        else:
-                            info['crime'] = info['crime'] + '\t' * 100 + line
+        info = add_drug_weight_from_all_sentences(lines, info)
 
-        judge_name_list = []
-        for line in lines[judge_index: secretary_index - 1]:
-            raw_line = "".join(line.split('\u3000'))
-            raw_line = "".join(raw_line.split(' '))
-            raw_line = "".join(raw_line.split(':'))
-            raw_line = "".join(raw_line.split('：'))
-            if "审判长" in raw_line:
-                index = raw_line.index("审判长")
-                judge_name_list.append(raw_line[index+3:])
-            if "审判员" in raw_line:
-                index = raw_line.index("审判员")
-                judge_name_list.append(raw_line[index+3:])
-            if "人民陪审员" in line:
-                if 'juror.name' in info:
-                    info['juror.name'].append("".join(line.split('\u3000'))[5:])
-                else:
-                    info['juror.name'] = ["".join(line.split('\u3000'))[5:]]
-        info['ruling.date'] = lines[secretary_index - 1]
-        info['secretary.name'] = "".join(lines[secretary_index].split("\u3000"))[3:]
-        for line in lines[def_start: def_end]:
-            if line[0:3] == "被告人":
-                if 'def' in info:
-                    info['def'].append(line.split('。')[0])
-                else:
-                    info['def'] = [line.split('。')[0]]
-            if line[0:3] == "辩护人":
-                if 'attorney' in info:
-                    info['attorney'].append(line.split('。')[0])
-                else:
-                    info['attorney'] = [line.split('。')[0]]
+        # find all judge names, juror names and secretary name
+        temp_lines = lines[judge_index: secretary_index - 1]
+        info, judge_name_list = add_judge_joror_names(temp_lines, info)
+        info = add_ruling_date(lines, info)
+        info = add_secretary(lines, info)
+
+        # find all defendants' names
+        temp_lines = lines[def_start: def_end]
+        info = add_def_att_names(temp_lines, info)
 
         #for line in lines[6:]:
             #if '被告人的身份证明' in line:
@@ -278,31 +110,8 @@ def extract_information(dir_path, info_path, drug_name):
         info['judge2.name'] = judge_name_list[1]
         info['judge3.name'] = judge_name_list[2]
 
-        for index in range(len(lines))[6:]:
-            # good attitude
-            line = lines[index]
-            if "认罪态度良好" in line or "认罪态度较好" in line or "认罪态度好" in line or "无异议" in line \
-                    or "不持异议" in line or "没有异议" in line or "自愿认罪" in line \
-                    or "如实供述" in line or "自首" in line:
-                info['def.goodattitude'] = "1"
-
-             # recid
-            if "累犯" in line or "再犯" in line or "再次犯" in line or "再次进行毒品犯罪" in line \
-                    or "再次进行犯罪" in line or ("有前科" in line and "没有前科" not in line) \
-                    or ("有犯罪前科" in line and "没有犯罪前科" not in line) or "又犯" in line \
-                    or "曾犯" in line or "曾因毒品犯罪" in line or "判处过" in line or "不思悔改" in line\
-                    or "曾因犯" in line:
-                info['def.recid'] = "1"
-            elif "初犯" in line:
-                info['def.recid'] = "0"
-
-            # plead not guity
-            if "不认罪" in line or "认罪态度差" in line \
-                    or "认罪态度较差" in line or "认罪态度极差" in line:
-                info['def.pleadnotguity'] = "1"
-                if "def.goodattitude" in info and info['def.goodattitude'] == "1":
-                    info['def.pleadnotguity'] = ""
-
+        info = add_attitude(lines, info)
+        
         # write the info
         fout.write('Case: ' + str(file_num) + "\n")
         for key in info.keys():
