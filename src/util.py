@@ -324,6 +324,19 @@ read_info
 get_judge_ethnic
 item_get_def_name
 get_def_ethnic
+get_def_minority
+get_def_previous_name
+get_drug_type
+get_type_quantity_distance
+get_drug_quantity
+select_drug_quantity
+item_get_drug_quantity
+get_fix_imprison_length
+get_lifeimpris_and_death
+get_good_attitude
+get_recid
+get_plead_not_guilty
+get_crime_types
 '''
 
 def read_info(info_path):
