@@ -190,7 +190,6 @@ def get_items(info_path, items_path, nlp_path=None, drug_dict=None, current_focu
             # get drug type
             item = get_drug_type(item, info)
 
-
             # get drug quantity
             item = item_get_drug_quantity(item, info, defendants, drug_dict)
 
@@ -226,8 +225,8 @@ def get_items(info_path, items_path, nlp_path=None, drug_dict=None, current_focu
 def run_get_items():
     # info_path = 'data/info.txt'
     # items_path = 'data/items.json'
-    info_path = 'data/provinces/all_samples_info.txt'
-    items_path = 'data/provinces/all_samples_items.json'
+    info_path = '../data/provinces/all_samples_info.txt'
+    items_path = '../data/provinces/all_samples_items.json'
     get_items(info_path, items_path)
 
 
@@ -365,10 +364,10 @@ def evaluate(items_path, ref_file, res_file, errors_file):
 
 
 def run_evaluate():
-    items_path = 'data/items.json'
-    ref_file = 'data/xj_drug_2017.json'
-    res_file = 'data/res.txt'
-    errors_file = 'drug_quantity_errors.txt'
+    items_path = '../data/items.json'
+    ref_file = '../data/xj_drug_2017.json'
+    res_file = '../data/res.txt'
+    errors_file = '../errors/drug_quantity_errors.txt'
     evaluate(items_path, ref_file, res_file, errors_file)
 
 
@@ -397,8 +396,8 @@ def get_prediction(items_path, predict_path):
 def run_get_prediction():
     # items_path = 'data/items.json'
     # predict_path = 'data/xinjiang_drug_predicted_2017.csv'
-    items_path = 'data/provinces/all_samples_items.json'
-    predict_path = 'data/provinces/all_samples_predicted.csv'
+    items_path = '../data/provinces/all_samples_items.json'
+    predict_path = '../data/provinces/all_samples_predicted.csv'
     get_prediction(items_path, predict_path)
 
 
