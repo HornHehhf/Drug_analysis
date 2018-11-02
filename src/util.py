@@ -346,7 +346,6 @@ def read_info(info_path):
     fin = open(info_path)
     lines = fin.readlines()
     lines = [line.strip() for line in lines]
-    fin.close()
     info_list = []
     info = {}
     for line in lines:
@@ -370,6 +369,7 @@ def read_info(info_path):
             raw_drug_weight = info['drug.weight'].split('\t')
             info['drug.weight'] = raw_drug_weight
 
+    fin.close()
     return info_list
 
 
@@ -392,7 +392,7 @@ def get_judge_ethnic(item):
 
     return item
 
-def item_get_def_name(item, info, item_index):
+def item_get_def_name(item, info, item_index, nlp):
     if 'def' in info:
         def_name = info['def'][item_index] + "\n"
         pattern = '被告人[：]?([\u2e80-\u9fffxX×＊·ⅹ.*]+)[0-9（，\n,( \uff3b犯]'
@@ -403,8 +403,8 @@ def item_get_def_name(item, info, item_index):
                 item['def.name'] = item['def.name'].split("犯")[0]
             if "辩" in item['def.name']:
                 item['def.name'] = item['def.name'].split("辩")[0]
-            if info['doc'] == '3538c56f-c136-4ba5-8d6d-b195bc5c16dc.html':
-                print(item['def.name'])
+            # if info['doc'] == '3538c56f-c136-4ba5-8d6d-b195bc5c16dc.html':
+            #     print(item['def.name'])
             original_name = item['def.name']
             # correct by info['def.name']
             start_char = item['def.name'][0]
@@ -466,8 +466,8 @@ def item_get_def_name(item, info, item_index):
         # error caused by fan
         if "犯" in item['def.name']:
             item['def.name'] = item['def.name'].split("犯")[0]
-        if info['doc'] == '3538c56f-c136-4ba5-8d6d-b195bc5c16dc.html':
-            print(item['def.name'])
+        # if info['doc'] == '3538c56f-c136-4ba5-8d6d-b195bc5c16dc.html':
+        #     print(item['def.name'])
         else:
             fan_index = info['def.name'].find('犯')
             if fan_index != -1:
@@ -503,7 +503,6 @@ def get_def_previous_name(item, info, item_index):
         pattern = '(曾用名|别名|绰号|自称|别名|外号|经名|化名|又名|汉名|小名)([:：“])?([\u2e80-\u9fff]+)[,，)]?'
         match = re.search(pattern, def_name)
         if match is not None:
-            print('1')
             if item['def.name.prev'] != "":
                 item['def.name.prev'] = item['def.name.prev'] + '、' + match.group(3)
             else:
@@ -561,7 +560,7 @@ def get_drug_quantity(drug_type_list, drug_weight_list, crime):
 
 
 def select_drug_quantity(person, info, defendants):
-    print(defendants)
+    # print(defendants)
     drug_weights = info['drug.weight']
     person_drug_weights = []
     crime = info['crime']
@@ -584,17 +583,17 @@ def select_drug_quantity(person, info, defendants):
                 person_drug_weights.append(drug_weight)
     return list(set(person_drug_weights))
 
-def item_get_drug_quantity(item, info, defendants, drug_dict, item_num):
+def item_get_drug_quantity(item, info, drug_dict, item_num, defendants=None):
     if 'drug.weight' in info and 'drug.type' in info:
         if item_num > 1:
             # should add name information when get the drug weights
             drug_weights = select_drug_quantity(item['def.name'], info, defendants)
         else:
             drug_weights = info['drug.weight']
-        if info['doc'] == '12059051-9d92-4ac0-97eb-ed53ac3fb0fb.html':
-            print(item['def.name'])
-            print(info['crime'])
-            print(drug_weights)
+        # if info['doc'] == '12059051-9d92-4ac0-97eb-ed53ac3fb0fb.html':
+        #     print(item['def.name'])
+        #     print(info['crime'])
+        #     print(drug_weights)
             # it can be improved by adding name information when in drug weights => a little complex
         drug_quantity_dict = get_drug_quantity(info['drug.type'], drug_weights, info['crime'])
         for drug_type in info['drug.type']:
