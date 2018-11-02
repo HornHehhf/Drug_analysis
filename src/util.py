@@ -19,6 +19,7 @@ add_attitude
 
 '''
 import re
+from chinese_digit import *
 
 def find_def_idx(line, idx_dict, index, lines):
     if "被告人" == line[0:3] or line[0:3] == "辩护人":
@@ -494,6 +495,7 @@ def get_def_minority(item):
         item['def.minority'] = 0
     else:
         item['def.minority'] = 1
+    return item
 
 def get_def_previous_name(item, info, item_index):
     if 'def' in info:
@@ -501,6 +503,7 @@ def get_def_previous_name(item, info, item_index):
         pattern = '(曾用名|别名|绰号|自称|别名|外号|经名|化名|又名|汉名|小名)([:：“])?([\u2e80-\u9fff]+)[,，)]?'
         match = re.search(pattern, def_name)
         if match is not None:
+            print('1')
             if item['def.name.prev'] != "":
                 item['def.name.prev'] = item['def.name.prev'] + '、' + match.group(3)
             else:
@@ -581,7 +584,7 @@ def select_drug_quantity(person, info, defendants):
                 person_drug_weights.append(drug_weight)
     return list(set(person_drug_weights))
 
-def item_get_drug_quantity(item, info, defendants, drug_dict):
+def item_get_drug_quantity(item, info, defendants, drug_dict, item_num):
     if 'drug.weight' in info and 'drug.type' in info:
         if item_num > 1:
             # should add name information when get the drug weights
@@ -605,7 +608,7 @@ def item_get_drug_quantity(item, info, defendants, drug_dict):
     return item
 
 
-def get_fix_imprison_length(item, info):
+def get_fix_imprison_length(item, info, item_num):
     item['pun.fiximpris.length'] = '0'
     pattern = re.compile("有期徒刑([\u2e80-\u9fff]+)")
     month_dict = {"一": 1, "二": 2, "三": 3, "四": 4, "五": 5, "六": 6, "七": 7, "八": 8, "九": 9,
@@ -663,7 +666,7 @@ def get_fix_imprison_length(item, info):
     return item
 
 
-def get_lifeimpris_and_death(item, info):
+def get_lifeimpris_and_death(item, info, item_num):
     item['pun.lifeimpris'] = '0'
     item['pun.death'] = '0'
     if item_num == 1:

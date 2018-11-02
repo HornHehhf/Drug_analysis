@@ -124,7 +124,7 @@ def get_def_name(info, nlp):
     # get def name
     for item_index in range(len(info['def'])):
         item = {'def.name': ""}
-        item = item_get_def_name(item, info)
+        item = item_get_def_name(item, info, item_index)
         if item['def.name'] != "":
             names.append(item['def.name'])
     return names
@@ -132,7 +132,7 @@ def get_def_name(info, nlp):
 
 def get_items(info_path, items_path, nlp_path=None, drug_dict=None, current_focus=None):
     if nlp_path is None:
-        nlp = StanfordCoreNLP('/Users/hangfeng/HornHe/code/stanford-corenlp-full-2018-02-27', lang='zh')
+        nlp = StanfordCoreNLP('/Users/zhengyuanxu/Programs/StanfordCoreNLP/stanford-corenlp-full-2018-10-05', lang='zh')
 
     if drug_dict is None:
         drug_dict = {"鸦片": 'opium', "海洛因": 'heroin', "大麻": 'marijuana', "兴奋剂": 'meth', "可卡因": 'cocaine',
@@ -162,8 +162,8 @@ def get_items(info_path, items_path, nlp_path=None, drug_dict=None, current_focu
             item_num = len(info['def'])
         item_list = []
 
-        if item_num > 1:
-            defendants = get_def_name(info, nlp)
+        # if item_num > 1:
+        defendants = get_def_name(info, nlp)
         for item_index in range(item_num):
             item = {}
             for key in current_focus:
@@ -188,21 +188,21 @@ def get_items(info_path, items_path, nlp_path=None, drug_dict=None, current_focu
             item = get_def_previous_name(item, info, item_index)
 
             # get drug type
-            item = get_drug_type(item, info)
+            item = get_drug_type(item, info, drug_dict)
 
             # get drug quantity
-            item = item_get_drug_quantity(item, info, defendants, drug_dict)
+            item = item_get_drug_quantity(item, info, defendants, drug_dict, item_num)
 
 
             # get fix imprison length
-            item = get_fix_imprison_length(item, info)
+            item = get_fix_imprison_length(item, info, item_num)
 
             # get lifeimpris and death
-            item = get_lifeimpris_and_death(item, info)
+            item = get_lifeimpris_and_death(item, info, item_num)
 
 
             # good attitude
-            item = get_good_attitude(item,)
+            item = get_good_attitude(item, info)
 
             # recid
             item = get_recid(item, info)
@@ -220,6 +220,8 @@ def get_items(info_path, items_path, nlp_path=None, drug_dict=None, current_focu
 
     with open(items_path, 'w') as f:
         json.dump(items, f)
+
+    nlp.close()
 
 
 def run_get_items():
