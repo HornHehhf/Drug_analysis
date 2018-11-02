@@ -50,7 +50,7 @@ def extract_information(dir_path, info_path, drug_name):
 
         # initializes all the indices to 0
         
-        info, idx_dict = find_indices(lines, info)
+        info, idx_dict = find_indices(lines, info, drug_name)
 
         pun_start = idx_dict['pun_start']
         pun_end = idx_dict['pun_end']
@@ -69,12 +69,12 @@ def extract_information(dir_path, info_path, drug_name):
         info = add_pun(temp_lines, info)
 
         # make use of pun to add drug
-        info = add_drug(info)
+        info = add_drug(info, drug_name)
         # if there is no 净重, we should add 克
-        info = add_drug_weight(info)
-        info = add_drug_weight_from_lines_1(lines, info)        
+        info = add_drug_weight(info, drug_name)
+        info = add_drug_weight_from_lines_1(lines, info, drug_name)        
         # get crime if  without 审查查明 和 pun
-        info = add_drug_weight_from_lines_2(lines, info)
+        info = add_drug_weight_from_lines_2(lines, info, drug_name)
         
         # if there is no 净重, we should add 克 in all sentences
         info = add_drug_weight_from_all_sentences(lines, info)
@@ -82,8 +82,8 @@ def extract_information(dir_path, info_path, drug_name):
         # find all judge names, juror names and secretary name
         temp_lines = lines[judge_index: secretary_index - 1]
         info, judge_name_list = add_judge_joror_names(temp_lines, info)
-        info = add_ruling_date(lines, info)
-        info = add_secretary(lines, info)
+        info = add_ruling_date(lines, info, secretary_index)
+        info = add_secretary(lines, info, secretary_index)
 
         # find all defendants' names
         temp_lines = lines[def_start: def_end]
@@ -109,10 +109,10 @@ def extract_information(dir_path, info_path, drug_name):
 
 
 def run_extract_information():
-    # dir_path = 'data/corpus'
-    # info_path = 'data/info.txt'
-    dir_path = '../provinces/samples/all_drugs_samples'
-    info_path = 'data/provinces/all_samples_info.txt'
+    dir_path = '../data/corpus'
+    info_path = '../data/info.txt'
+    #dir_path = '../data/provinces/samples/all_drugs_samples'
+    #info_path = '../data/provinces/all_samples_info.txt'
     extract_information(dir_path, info_path, DRUG_NAMES)
 
 

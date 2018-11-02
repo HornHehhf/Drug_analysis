@@ -20,7 +20,7 @@ add_attitude
 '''
 import re
 
-def find_def_idx(line, idx_dict):
+def find_def_idx(line, idx_dict, index, lines):
     if "被告人" == line[0:3] or line[0:3] == "辩护人":
         if idx_dict['def_start'] == 0:
             idx_dict['def_start'] = index
@@ -32,7 +32,7 @@ def find_def_idx(line, idx_dict):
                 idx_dict['def_end'] = index + 1
     return idx_dict
 
-def find_info(line, info):
+def find_info(line, info, index, drug_name):
     if "经审理查明" in line and "经审理查明：" != line:
         pattern = "[0-9]*年[0-9]*月[0-9]*日"
         match = re.search(pattern, line)
@@ -47,7 +47,7 @@ def find_info(line, info):
             #info['drug.weight'].append(match.group())
     return info
 
-def find_pun(line, idx_dict, raw_line):
+def find_pun(line, idx_dict, raw_line, index):
     if "判决如下" in line:
         idx_dict['pun_start'] = index + 1
     elif "如不服本判决" in line:
@@ -69,7 +69,7 @@ secretary_index: 书记员
 def_start: starting sentence of 被告
 def_end: ending sentence of 被告
 '''
-def find_indices(lines, info, idx_dict=None):
+def find_indices(lines, info, drug_name, idx_dict=None):
     if idx_dict is None:
         idx_dict = {
         'pun_start': 0,
@@ -79,7 +79,7 @@ def find_indices(lines, info, idx_dict=None):
         'def_start': 0,
         'def_end': 0
         }
-
+    length = len(lines)
     for index in range(len(lines))[6:]:
         line = lines[index]
         raw_line = "".join(line.split('\u3000'))
@@ -90,26 +90,28 @@ def find_indices(lines, info, idx_dict=None):
                 info['trial.phase'] = info['trial.phase'] + "独任审判"'''
 
         # find indices of sentences containing 被告姓名
-        idx_dict = find_def_idx(line, idx_dict)
-        info = find_info(line, info)
-        idx_dict = find_pun(line, idx_dict, raw_line)
+
+        idx_dict = find_def_idx(line, idx_dict, index, lines)
+        info = find_info(line, info, index, drug_name)
+        idx_dict = find_pun(line, idx_dict, raw_line, index)
 
     return info, idx_dict
 
 def add_pun(lines, info):
     for line in lines:
-        if line[0] == '（':
-            pattern = "[0-9]*年[0-9]*月[0-9]*日"
-            match = re.search(pattern, line)
-            if match is not None:
-                info['execution.date'] = match.group()
-            continue
-        if line not in info['pun'] and line[0] != '（':
-            info['pun'].append(line)
+        if line:
+            if line[0] == '（':
+                pattern = "[0-9]*年[0-9]*月[0-9]*日"
+                match = re.search(pattern, line)
+                if match is not None:
+                    info['execution.date'] = match.group()
+                continue
+            if line not in info['pun'] and line[0] != '（':
+                info['pun'].append(line)
 
     return info
 
-def add_drug(info):
+def add_drug(info, drug_name):
     if 'drug.type' not in info:
         info['drug.type'] = []
     for line in info['pun']:
@@ -134,7 +136,7 @@ def add_drug(info):
                 info['crime'] = info['crime'] + '\t'*100 + line
     return info
 
-def add_drug_weight(info):
+def add_drug_weight(info, drug_name):
     if 'drug.weight' not in info or len(info['drug.weight']) == 0:
         for line in info['pun']:
             add_line = False
@@ -155,7 +157,7 @@ def add_drug_weight(info):
                     info['crime'] = info['crime'] + '\t'*100 + line
     return info
 
-def add_drug_weight_from_lines_1(lines, info):
+def add_drug_weight_from_lines_1(lines, info, drug_name):
     if 'crime' not in info:
         for index in range(len(lines))[6:]:
             line = lines[index]
@@ -184,7 +186,7 @@ def add_drug_weight_from_lines_1(lines, info):
                     info['crime'] = info['crime'] + '\t' * 100 + line
     return info
 
-def add_drug_weight_from_lines_2(lines, info):
+def add_drug_weight_from_lines_2(lines, info, drug_name):
     if 'crime' not in info:
         for index in range(len(lines))[6:]:
             line = lines[index]
@@ -278,11 +280,11 @@ def add_def_att_names(lines, info):
 
     return info
 
-def add_ruling_date(lines, info):
+def add_ruling_date(lines, info, secretary_index):
     info['ruling.date'] = lines[secretary_index - 1]
     return info
 
-def add_secretary(lines, info)
+def add_secretary(lines, info, secretary_index):
     info['secretary.name'] = "".join(lines[secretary_index].split("\u3000"))[3:]
     return info
 
@@ -581,24 +583,24 @@ def select_drug_quantity(person, info, defendants):
 
 def item_get_drug_quantity(item, info, defendants, drug_dict):
     if 'drug.weight' in info and 'drug.type' in info:
-    if item_num > 1:
-        # should add name information when get the drug weights
-        drug_weights = select_drug_quantity(item['def.name'], info, defendants)
-    else:
-        drug_weights = info['drug.weight']
-    if info['doc'] == '12059051-9d92-4ac0-97eb-ed53ac3fb0fb.html':
-        print(item['def.name'])
-        print(info['crime'])
-        print(drug_weights)
-        # it can be improved by adding name information when in drug weights => a little complex
-    drug_quantity_dict = get_drug_quantity(info['drug.type'], drug_weights, info['crime'])
-    for drug_type in info['drug.type']:
-        if drug_type in drug_dict:
-            if len(drug_quantity_dict[drug_type]) > 0 and drug_quantity_dict[drug_type][-1] == "余":
-                drug_quantity_dict[drug_type] += "克"
-            item['drug.' + drug_dict[drug_type] + '.quantity'] = drug_quantity_dict[drug_type]
+        if item_num > 1:
+            # should add name information when get the drug weights
+            drug_weights = select_drug_quantity(item['def.name'], info, defendants)
         else:
-            item['drug.other.quantity'] += drug_quantity_dict[drug_type]
+            drug_weights = info['drug.weight']
+        if info['doc'] == '12059051-9d92-4ac0-97eb-ed53ac3fb0fb.html':
+            print(item['def.name'])
+            print(info['crime'])
+            print(drug_weights)
+            # it can be improved by adding name information when in drug weights => a little complex
+        drug_quantity_dict = get_drug_quantity(info['drug.type'], drug_weights, info['crime'])
+        for drug_type in info['drug.type']:
+            if drug_type in drug_dict:
+                if len(drug_quantity_dict[drug_type]) > 0 and drug_quantity_dict[drug_type][-1] == "余":
+                    drug_quantity_dict[drug_type] += "克"
+                item['drug.' + drug_dict[drug_type] + '.quantity'] = drug_quantity_dict[drug_type]
+            else:
+                item['drug.other.quantity'] += drug_quantity_dict[drug_type]
 
     return item
 
