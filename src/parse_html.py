@@ -11,6 +11,7 @@ import unicodedata
 import csv
 
 import util
+import evlt
 
 
 class MyHTMLParser(HTMLParser):
@@ -53,12 +54,6 @@ def extract_information(dir_path, info_path):
 
         info['def.name'] = lines[0]
 
-        pun_start = 0
-        pun_end = 0
-        judge_index = 0
-        secretary_index = 0
-        def_start = 0
-        def_end = 0
         info, idx_dict = util.find_indices(lines, info, drug_name)
 
         pun_start = idx_dict['pun_start']
@@ -96,13 +91,7 @@ def extract_information(dir_path, info_path):
         temp_lines = lines[def_start: def_end]
         info = util.add_def_att_names(temp_lines, info)
 
-        #for line in lines[6:]:
-            #if '被告人的身份证明' in line:
-                #info['def'] += ':::' + line
-        '''pattern = "指派检察员([\u4e00-\u9fff]+)出庭"
-        match = re.search(pattern, lines[def_end])
-        if match is not None:
-            info['prosecutor'] = match.group(1)'''
+
         while len(judge_name_list) < 3:
             judge_name_list.append("")
         info['judge1.name'] = judge_name_list[0]
@@ -141,20 +130,11 @@ def get_def_name(info, nlp):
     return names
 
 
-def get_items(info_path, items_path):
+def get_items(info_path, items_path, drug_dict, current_focus):
     nlp = StanfordCoreNLP('/Users/zhengyuanxu/Programs/StanfordCoreNLP/stanford-corenlp-full-2018-10-05', lang='zh')
 
-    drug_dict = {"鸦片": 'opium', "海洛因": 'heroin', "大麻": 'marijuana', "兴奋剂": 'meth', "可卡因": 'cocaine',
-                 "甲基苯丙胺": 'meth', "冰毒": 'meth', "甲基本丙胺": 'meth'}
+    
     # "吗啡": 'morphia', "那可汀": 'narcotine', "摇头丸": 'MDMA', "古柯叶": 'coca leaves'
-    current_focus = ['doc',
-                     'judge1.name', 'judge1.ethnic', 'judge2.name', 'judge2.ethnic', 'judge3.name', 'judge3.ethnic',
-                     'def.name', 'def.name.prev', 'def.ethnicity', 'def.recid', 'def.goodattitude', 'def.pleadnotguity',
-                     'drug.opium', 'drug.opium.quantity', 'drug.heroin', 'drug.heroin.quantity', 'drug.marijuana',
-                     'drug.marijuana.quantity', 'drug.meth', 'drug.meth.quantity', 'drug.cocaine',
-                     'drug.cocaine.quantity', 'drug.other.name', 'drug.other.quantity',
-                     'pun.fiximpris.length', 'pun.lifeimpris', 'pun.death', 'crime.drug.manufacture',
-                     'crime.drug.traffic', 'crime.drug.smuggle', 'crime.drug.transport', 'crime.drug.possession']
     
     info_list = util.read_info(info_path)
 
@@ -162,18 +142,12 @@ def get_items(info_path, items_path):
     doc_num = 0
     for info in info_list:
         doc_num += 1
-        #print(doc_num)
         if 'def' not in info:
             item_num = 1
         else:
             item_num = len(info['def'])
         item_list = []
-        #ner_def_names = []
-        #words = nlp.ner(info['def.name'])
-        #print(words)
-        #for word_tuple in words:
-            #if word_tuple[1] == "PERSON":
-                #ner_def_names.append(word_tuple[0])
+
         if item_num > 1:
             defendants = get_def_name(info, nlp)
         for item_index in range(item_num):
@@ -247,7 +221,18 @@ def run_get_items():
     # items_path = '../data/items.json'
     info_path = '../data/provinces/all_samples_info.txt'
     items_path = '../data/provinces/all_samples_items.json'
-    get_items(info_path, items_path)
+    drug_dict = {"鸦片": 'opium', "海洛因": 'heroin', "大麻": 'marijuana', "兴奋剂": 'meth', "可卡因": 'cocaine',
+                 "甲基苯丙胺": 'meth', "冰毒": 'meth', "甲基本丙胺": 'meth'}
+    current_focus = ['doc',
+                     'judge1.name', 'judge1.ethnic', 'judge2.name', 'judge2.ethnic', 'judge3.name', 'judge3.ethnic',
+                     'def.name', 'def.name.prev', 'def.ethnicity', 'def.recid', 'def.goodattitude', 'def.pleadnotguity',
+                     'drug.opium', 'drug.opium.quantity', 'drug.heroin', 'drug.heroin.quantity', 'drug.marijuana',
+                     'drug.marijuana.quantity', 'drug.meth', 'drug.meth.quantity', 'drug.cocaine',
+                     'drug.cocaine.quantity', 'drug.other.name', 'drug.other.quantity',
+                     'pun.fiximpris.length', 'pun.lifeimpris', 'pun.death', 'crime.drug.manufacture',
+                     'crime.drug.traffic', 'crime.drug.smuggle', 'crime.drug.transport', 'crime.drug.possession']
+
+    get_items(info_path, items_path, drug_dict, current_focus)
 
 
 def evaluate(items_path, ref_file, res_file, errors_file):
@@ -277,65 +262,12 @@ def evaluate(items_path, ref_file, res_file, errors_file):
     for key in items.keys():
         if key not in ref_items:
             continue
-        for index in range(len(items[key])):
-            item = items[key][index]
-            ref_item = ref_items[key][index]
-            val_count += 1
-            correct_dict = {}
-            for cur_key in accuracy_dict.keys():
-                correct_dict[cur_key] = "wrong"
-            for cur_key in accuracy_dict.keys():
-                # add def minority for ref
-                if cur_key == 'def.minority':
-                    if ref_item['def.ethnicity'] == '汉族' or ref_item['def.ethnicity'] == "":
-                        ref_item['def.minority'] = 0
-                    else:
-                        ref_item['def.minority'] = 1
-                if cur_key == 'def.recid' and ref_item[cur_key] == "":
-                    ref_item[cur_key] = "0"
-                # change blank to 0 for recid
-                if ref_item[cur_key] == item[cur_key]:
-                    correct_dict[cur_key] = "correct"
-                if item[cur_key] != '':
-                    pred_count[cur_key] += 1
-                if ref_item[cur_key] != '':
-                    # revise the def prev name
-                    if cur_key == 'def.name.prev':
-                        def_name = ref_item[cur_key]
-                        pattern = '(曾用名|别名|绰号|自称|别名|外号|经名|化名|又名|汉名|小名)([:：“])?([\u2e80-\u9fff]+)[,，)]?'
-                        match = re.search(pattern, def_name)
-                        if match is not None:
-                            ref_item['def.name.prev'] = match.group(3)
-                    count_dict[cur_key] += 1
-                    if item[cur_key] == ref_item[cur_key]:
-                        accuracy_dict[cur_key] += 1
-                        correct_dict[cur_key] = 'correct'
-                if 'quantity' in cur_key and item[cur_key] != ref_item[cur_key]:
-                    fout_error.write(item['doc'] + "\n")
-                    fout_error.write(cur_key + "\n")
-                    fout_error.write('pred: ' + str(item[cur_key]) + "\n")
-                    fout_error.write('ref: ' + str(ref_item[cur_key]) + "\n")
-                    
-            fout.write('doc: ' + item['doc'] + "\n")
-            for cur_key in current_focus[1:]:
-                fout.write(cur_key + ': ' + str(item[cur_key]) + " vs " + str(ref_item[cur_key]) + " " + correct_dict[cur_key]
-                           + "\n")
-            fout.write("\n")
+        accuracy_dict, count_dict, pred_count, val_count = evlt.evaluate_item(key, items, ref_items, accuracy_dict, count_dict, pred_count, val_count, fout, fout_error, current_focus)
     fout.write('---------------------------------------------------------------------------------------------------\n')
     fout.write('result\n')
-    for key in current_focus[1:]:
-        recall = 0.0
-        precision = 0.0
-        f1_score = 0.0
-        if accuracy_dict[key] != 0:
-            precision = accuracy_dict[key]/pred_count[key]
-            recall = accuracy_dict[key]/count_dict[key]
-        if precision + recall != 0:
-            f1_score = 2 * precision * recall / (precision + recall)
-        res_dict = {'precision': precision, 'recall': recall, 'f1_score': f1_score, 'correct num': accuracy_dict[key],
-                    'pred num': pred_count[key], 'gold num': count_dict[key]}
-        fout.write(key + ":\n")
-        fout.write(str(res_dict) + "\n")
+
+    evlt.write_scores(current_focus, accuracy_dict, pred_count, count_dict, fout)
+
     fout.close()
     fout_error.close()
 
